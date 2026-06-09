@@ -1,0 +1,35 @@
+{
+  "name": "twg",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "check-types": "turbo check-types",
+    "dev:web": "turbo -F web dev",
+    "db:push": "turbo -F @twg/db db:push",
+    "db:studio": "turbo -F @twg/db db:studio",
+    "db:generate": "turbo -F @twg/db db:generate",
+    "db:migrate": "turbo -F @twg/db db:migrate",
+    "check": "ultracite check",
+    "fix": "ultracite fix"
+  },
+  "dependencies": {
+    "@twg/env": "workspace:*",
+    "dotenv": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.16",
+    "@twg/config": "workspace:*",
+    "@types/node": "^22.13.14",
+    "turbo": "^2.9.16",
+    "typescript": "catalog:",
+    "ultracite": "7.8.2"
+  },
+  "packageManager": "pnpm@10.23.0"
+}

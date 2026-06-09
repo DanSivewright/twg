@@ -1,0 +1,24 @@
+{
+  "name": "@twg/auth",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@twg/db": "workspace:*",
+    "@twg/env": "workspace:*",
+    "better-auth": "catalog:",
+    "dotenv": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@twg/config": "workspace:*",
+    "typescript": "catalog:"
+  }
+}
