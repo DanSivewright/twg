@@ -1,0 +1,61 @@
+{
+  "slug": "hard-hat-with-lamp-mount",
+  "title": "Hard Hat With Lamp Mount",
+  "productCode": "DH-HHCL-W",
+  "shortDescription": "Polypropylene copolymer hard hat. Retractable ventilation holes. Ratchet type adjustment for easy fitment",
+  "description": "Polypropylene copolymer hard hat. Retractable ventilation holes. Ratchet type adjustment for easy fitment",
+  "sourceUrl": "https://dromex.co.za/product/hard-hat-with-lamp-mount/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dromex-hard-hat-2.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Polypropylene copolymer hard hat",
+      "Retractable ventilation holes",
+      "Ratchet type adjustment for easy fitment",
+      "2-Point adjustable webbed polyester chin strap",
+      "Side slots for fitment of face & hearing PPE",
+      "8-Point suspension within the shell provides optimum shock absorption",
+      "Additionally tested for electrical isolation at 2000 volts",
+      "Includes a bracket on the front of the hard hat for a cap lamp, as well as a cord holder at the back of the hard hat.",
+      "Please note: Cap lamp not included"
+    ],
+    "suitableFor": [
+      "General use",
+      "Mining",
+      "Construction",
+      "Petrochemical Industry",
+      "Utilities",
+      "Warehousing",
+      "Forestry"
+    ],
+    "composition": "Polypropylene copolymer hard hat",
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "DH-HHCL-W-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hard-hat-cap-lamp-clip-600x600-1.jpg",
+      "fileName": "hard-hat-cap-lamp-clip-600x600-1.jpg",
+      "altText": "Hard Hat With Lamp Mount",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hard-hat-cap-lamp-600x600-1.jpg",
+      "fileName": "hard-hat-cap-lamp-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

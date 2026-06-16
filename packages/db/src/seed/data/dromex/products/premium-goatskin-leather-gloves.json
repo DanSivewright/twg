@@ -1,0 +1,41 @@
+{
+  "slug": "premium-goatskin-leather-gloves",
+  "title": "Premium Goatskin Leather Gloves",
+  "productCode": "DG-GOAT-A",
+  "shortDescription": "Full grain leather gloves are designed for TIG (Tungsten Inert Gas) welding or driver glove users.. Consists of natural premium full grain goatskin leather with a gunn cut, keystone thumb, and shirred cuff.. Reinforced syntax thread and red cotton bound cuff trim for additional strength.",
+  "description": "Full grain leather gloves are designed for TIG (Tungsten Inert Gas) welding or driver glove users.. Consists of natural premium full grain goatskin leather with a gunn cut, keystone thumb, and shirred cuff.. Reinforced syntax thread and red cotton bound cuff trim for additional strength.",
+  "sourceUrl": "https://dromex.co.za/product/premium-goatskin-leather-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-premium-goatskin-leather-gloves-ggoat.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": [
+      "Full grain leather gloves are designed for TIG (Tungsten Inert Gas) welding or driver glove users.",
+      "Consists of natural premium full grain goatskin leather with a gunn cut, keystone thumb, and shirred cuff.",
+      "Reinforced syntax thread and red cotton bound cuff trim for additional strength.",
+      "Goats skin is the most durable leather, as the natural lanolin content of the hide ensures the glove is soft and supple."
+    ],
+    "suitableFor": ["Driving", "TIG (Tungsten Inert Gas) Welding"],
+    "composition": "Gunn cut; Keystone thumb; Shirred cuff with red cotton bound cuff trim",
+    "colours": ["White"],
+    "sizes": ["8, 9, 10, 12"]
+  },
+  "variants": [
+    {
+      "sku": "DG-GOAT-A-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_goat-600x600-1.jpg",
+      "fileName": "dromex_gloves_goat-600x600-1.jpg",
+      "altText": "Premium Goatskin Leather Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

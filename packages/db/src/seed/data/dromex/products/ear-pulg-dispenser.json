@@ -1,0 +1,33 @@
+{
+  "slug": "ear-pulg-dispenser",
+  "title": "Ear Plug Dispenser",
+  "productCode": "DRO30-DISP",
+  "shortDescription": "Disposable ear plug dispenser that can be placed on a surface or wall-mounted. Makes hearing protection easily accessible to staff & visitors. Holds 500 pairs of DRO30 disposable foam ear plugs and includes a polybag of 500 pairs of ear plug refills.",
+  "description": "Disposable ear plug dispenser that can be placed on a surface or wall-mounted. Makes hearing protection easily accessible to staff & visitors. Holds 500 pairs of DRO30 disposable foam ear plugs and includes a polybag of 500 pairs of ear plug refills.",
+  "sourceUrl": "https://dromex.co.za/product/ear-pulg-dispenser/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-disposable-ear-plugs-dr-030.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Disposable ear plug dispenser that can be placed on a surface or wall-mounted",
+      "Makes hearing protection easily accessible to staff & visitors",
+      "Holds 500 pairs of DRO30 disposable foam ear plugs and includes a polybag of 500 pairs of ear plug refills.",
+      "Extra refill packets sold separately"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "CE EN 352-2 (H=36 dB, M=35 dB, L=34 dB); SNR 37 dB"
+  },
+  "variants": [],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hearing-ear-plug-dispenser-product-img.jpeg",
+      "fileName": "hearing-ear-plug-dispenser-product-img.jpeg",
+      "altText": "Ear Plug Dispenser",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

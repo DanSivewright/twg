@@ -2,7 +2,7 @@ import { createORPCClient } from "@orpc/client";
 import { RPCLink } from "@orpc/client/fetch";
 import { createTanstackQueryUtils } from "@orpc/tanstack-query";
 import { QueryCache, QueryClient } from "@tanstack/react-query";
-import type { AppRouterClient } from "@twg/api/routers/index";
+import type { AppRouterClient } from "@twg/api/routers";
 import { toast } from "sonner";
 
 export function createQueryClient() {
@@ -25,7 +25,7 @@ export function createQueryClient() {
 export const queryClient = createQueryClient();
 
 export const link = new RPCLink({
-  url: `${typeof window !== "undefined" ? window.location.origin : "http://localhost:3001"}/api/rpc`,
+  url: `${typeof window === "undefined" ? "http://localhost:3001" : window.location.origin}/api/rpc`,
   fetch(url, options) {
     return fetch(url, {
       ...options,
@@ -38,7 +38,21 @@ export const link = new RPCLink({
     }
 
     const { headers } = await import("next/headers");
-    return Object.fromEntries(await headers());
+    const requestHeaders = await headers();
+    const forwarded: Record<string, string> = {};
+
+    for (const key of [
+      "x-tenant-slug",
+      "x-organization-id",
+      "x-tenant-name",
+    ] as const) {
+      const value = requestHeaders.get(key);
+      if (value) {
+        forwarded[key] = value;
+      }
+    }
+
+    return forwarded;
   },
 });
 

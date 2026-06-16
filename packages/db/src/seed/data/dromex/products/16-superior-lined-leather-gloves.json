@@ -1,0 +1,36 @@
+{
+  "slug": "16-superior-lined-leather-gloves",
+  "title": "16″ Superior Lined Leather Gloves",
+  "productCode": "DG-WELD/16GR",
+  "shortDescription": "High abrasion resistance",
+  "description": "High abrasion resistance",
+  "sourceUrl": "https://dromex.co.za/product/16-superior-lined-leather-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-16inch-superior-lined-leather-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": ["High abrasion resistance"],
+    "suitableFor": ["Welding"],
+    "composition": "Gunn cut; Fullt welted; Green dyed cow split leather; 16 inch cow split leather shoulder length cuff lined with denim cotton and yellow trim",
+    "colours": ["Green"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-WELD/16GR-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_weld16gr-600x600-1.jpg",
+      "fileName": "dromex_gloves_weld16gr-600x600-1.jpg",
+      "altText": "16″ Superior Lined Leather Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

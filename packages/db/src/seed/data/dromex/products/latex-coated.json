@@ -1,0 +1,52 @@
+{
+  "slug": "latex-coated",
+  "title": "Latex Coated",
+  "productCode": "59YSP",
+  "shortDescription": "High cut & abrasion resistance. High contact heat protection. High cut resistance",
+  "description": "High cut & abrasion resistance. High contact heat protection. High cut resistance",
+  "sourceUrl": "https://dromex.co.za/product/latex-coated/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-cut5-latex-coated-glove-59ysp.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "High cut & abrasion resistance",
+      "High contact heat protection",
+      "High cut resistance",
+      "High grip power",
+      "Colour UV resistant",
+      "100% Dromex Cut5 fibre",
+      "Ultra grip crinkle Latex coating",
+      "Seamless ergonmic liner",
+      "Composite knitted wrist",
+      "Lint free & washable"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Glass & Steel",
+      "Clean Room Application"
+    ],
+    "composition": "100% Dromex Cut5 fibre; Ultra grip crinkle latex coating; Seamless ergonmic liner; Composite knitted wrist",
+    "standards": ["EN 388: 4543", "EN 407: X2XXX"],
+    "colours": ["Royal Blue"],
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "59YSP-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/59YSP_HR-768x768-1.jpg",
+      "fileName": "59YSP_HR-768x768-1.jpg",
+      "altText": "Latex Coated",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

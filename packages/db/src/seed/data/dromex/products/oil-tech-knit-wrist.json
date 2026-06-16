@@ -1,0 +1,60 @@
+{
+  "slug": "oil-tech-knit-wrist",
+  "title": "Oil-Tech Knit Wrist Gloves",
+  "productCode": "DG-OIL-TECH-KW",
+  "shortDescription": "Protection against mechanical risks. Super dexterity. Textured palm for grip in wet & oily conditions",
+  "description": "Protection against mechanical risks. Super dexterity. Textured palm for grip in wet & oily conditions",
+  "sourceUrl": "https://dromex.co.za/product/oil-tech-knit-wrist/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2025/02/technical-datasheet-oil-tech-kw-glove-1.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Protection against mechanical risks",
+      "Super dexterity",
+      "Textured palm for grip in wet & oily conditions",
+      "13-Gauge comfortable seamless nylon liner",
+      "High abrasion protection & tear resistance",
+      "Impermeable protection",
+      "Provides liquid protection & water resistant"
+    ],
+    "suitableFor": [
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Heavy Machinery",
+      "Mining Extractions Industry",
+      "Aerospace",
+      "Mechanical Workshops",
+      "Oil & Grease Environments",
+      "Precision Engineering Application"
+    ],
+    "composition": "Double dipped & fully coated nitrile glove",
+    "standards": ["EN 388: 4121X"],
+    "colours": ["Magenta Red"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-OIL-TECH-KW-1",
+      "size": null,
+      "colour": "Magenta Red"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2025/02/oil-tech-knot-wrist.png",
+      "fileName": "oil-tech-knot-wrist.png",
+      "altText": "Oil-Tech Knit Wrist Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "dv-21-wide-vision-goggles",
+  "title": "DV-21 Wide Vision Goggles",
+  "productCode": "DV-21",
+  "shortDescription": "Clear polycarbonate mono lens. Indirect dual ventilation system. 14 mm elasticated & adjustable cotton knit headband",
+  "description": "Clear polycarbonate mono lens. Indirect dual ventilation system. 14 mm elasticated & adjustable cotton knit headband",
+  "sourceUrl": "https://dromex.co.za/product/dv-21-wide-vision-goggles/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-wide-vision-goggles.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Clear polycarbonate mono lens",
+      "Indirect dual ventilation system",
+      "14 mm elasticated & adjustable cotton knit headband",
+      "High quality polyvinyl chloride frame",
+      "Ergonomic design",
+      "Face contact area designed for comfort and seal",
+      "Compatible with respiratory equipment",
+      "Scratch resistant lens",
+      "120° lateral vision"
+    ],
+    "suitableFor": ["Woodworking", "Grinding", "Chemical Splashes"],
+    "composition": "Polycarbonate Lens; Vinyl Frame",
+    "standards": ["EN 166 FCE 3", "4", "9", "B CE | DV-1", "9", "B"],
+    "colours": ["Green"]
+  },
+  "variants": [
+    {
+      "sku": "DV-21-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dv21-600x600-1.jpg",
+      "fileName": "dv21-600x600-1.jpg",
+      "altText": "DV-21 Wide Vision Goggles",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

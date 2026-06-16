@@ -1,0 +1,49 @@
+{
+  "slug": "mach-777",
+  "title": "Mach 777",
+  "productCode": "MACH-777",
+  "shortDescription": "Cut5 HDPE lining. High impact, abrasion, cut & tear resistance. Black Nitrigrip & vibro-impact reinforced palm",
+  "description": "Cut5 HDPE lining. High impact, abrasion, cut & tear resistance. Black Nitrigrip & vibro-impact reinforced palm",
+  "sourceUrl": "https://dromex.co.za/product/mach-777/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-mach777-impact-vibration-gloves-2.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "specialised"]
+  ],
+  "attributes": {
+    "features": [
+      "Cut5 HDPE lining",
+      "High impact, abrasion, cut & tear resistance",
+      "Black Nitrigrip & vibro-impact reinforced palm",
+      "Grey back with black/lime IMPACT knuckle guard",
+      "7cm waterproof neoprene cuff with reflective tape",
+      "Hi-Viz TPR on back of fingers & thumb",
+      "Foamed padding on palm for anti-vibration",
+      "Multifunctional mechanical glove"
+    ],
+    "suitableFor": ["Mining", "Automotive Industry", "Outdoor Machinery"],
+    "composition": "Black nitrile foam coated palm; Three palm single density anti-vibration pads; Grey cut level 5 HDF 10gg shell; Neoprene 7cm gauntlet cuff; Black/Yellow high visibility TPR lobster finger impact protectors; Black knuckle and hand TPR impact padding; Reflective tape on front and back of cuff; Grey leatherette continuous pull",
+    "standards": ["EN 388"],
+    "colours": ["Silver"],
+    "sizes": ["7", "8", "9", "10", "11", "12", "13"]
+  },
+  "variants": [
+    {
+      "sku": "MACH-777-1",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_mach777-600x600-1.jpg",
+      "fileName": "dromex_gloves_mach777-600x600-1.jpg",
+      "altText": "Mach 777",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

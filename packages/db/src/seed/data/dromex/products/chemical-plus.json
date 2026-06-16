@@ -1,0 +1,54 @@
+{
+  "slug": "chemical-plus",
+  "title": "Chemical Plus",
+  "productCode": "57H201PLUS",
+  "shortDescription": "High Abrasion Resistance. High Chemical Resistance. High Heat Resistance",
+  "description": "High Abrasion Resistance. High Chemical Resistance. High Heat Resistance",
+  "sourceUrl": "https://dromex.co.za/product/chemical-plus/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-CHEMICAL-GLOVE-PLUS-57H201PLUS-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "chemical"]
+  ],
+  "attributes": {
+    "features": [
+      "High Abrasion Resistance",
+      "High Chemical Resistance",
+      "High Heat Resistance",
+      "High Cut Resistance",
+      "Colour UV Resistance",
+      "Lint Free & Washable"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Glass & Steel",
+      "Recycling",
+      "Machining",
+      "Wastes Collection Environments",
+      "Oil & Greasy Environments",
+      "Mining Extractions Industry"
+    ],
+    "composition": "100% Taeki5 fibre.; HCT nitrile multilayers technology.; Soft organic inner liner.; H201B has extended cuff.; H201PLUS 35cm liquid chemical glove with cut resistance on the outside.",
+    "standards": ["EN 388: 4543", "EN 407: X2XXX", "EN 374: KLA"],
+    "colours": ["Green"]
+  },
+  "variants": [
+    {
+      "sku": "57H201PLUS-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/57H201PLUS_HR-768x768-1.jpg",
+      "fileName": "57H201PLUS_HR-768x768-1.jpg",
+      "altText": "Chemical Plus",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

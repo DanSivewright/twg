@@ -1,0 +1,59 @@
+{
+  "slug": "pu20-01",
+  "title": "PU20.01",
+  "productCode": "PU2001/B",
+  "shortDescription": "High durability. High dexterity. Super grip",
+  "description": "High durability. High dexterity. Super grip",
+  "sourceUrl": "https://dromex.co.za/product/pu20-01/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-pu2001-com.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High durability",
+      "High dexterity",
+      "Super grip",
+      "Protection against abrasion",
+      "100% Polyurethane palm & finger coating",
+      "100% Nylon seamless liner",
+      "Composite knitted wrist"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Component Assembly",
+      "Packing Assembly"
+    ],
+    "composition": "100% Polyurethane palm & finger coating; 100% Nylon seamless liner; Composite knitted wrist",
+    "colours": ["Black", "White"],
+    "sizes": ["6", "7", "8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "PU2001/B-1",
+      "size": null,
+      "colour": "White"
+    },
+    {
+      "sku": "PU2001/B-2",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_pu2001.jpg",
+      "fileName": "dromex_gloves_pu2001.jpg",
+      "altText": "PU20.01",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

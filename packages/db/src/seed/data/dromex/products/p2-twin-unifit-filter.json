@@ -1,0 +1,39 @@
+{
+  "slug": "p2-twin-unifit-filter",
+  "title": "P2 Twin Unifit Filter",
+  "productCode": "DHCT P2",
+  "shortDescription": "Valve replaced with every filter. Individually sealed. Right hand thread for twin",
+  "description": "Valve replaced with every filter. Individually sealed. Right hand thread for twin",
+  "sourceUrl": "https://dromex.co.za/product/p2-twin-unifit-filter/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dhct-p2.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "filters"],
+  "categorySlugPaths": [["ppe", "respiratory", "filters"]],
+  "attributes": {
+    "features": [
+      "Valve replaced with every filter",
+      "Individually sealed",
+      "Right hand thread for twin"
+    ],
+    "suitableFor": [],
+    "standards": ["CE EN 143:2000 P2", "NRCS AZ2011/68"],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "DHCT P2-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/p2-twin-600x600-1.jpg",
+      "fileName": "p2-twin-600x600-1.jpg",
+      "altText": "P2 Twin Unifit Filter",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

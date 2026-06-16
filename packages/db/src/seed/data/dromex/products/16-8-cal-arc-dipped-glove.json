@@ -1,0 +1,55 @@
+{
+  "slug": "16-8-cal-arc-dipped-glove",
+  "title": "16.8 Cal Arc Dipped Gloves",
+  "productCode": "DG-NE423AF",
+  "shortDescription": "Excellent grip in wet, oily & dry environments. High dexterity resistance. High resistance to snatch, tear, cut, abrasion & heat",
+  "description": "Excellent grip in wet, oily & dry environments. High dexterity resistance. High resistance to snatch, tear, cut, abrasion & heat",
+  "sourceUrl": "https://dromex.co.za/product/16-8-cal-arc-dipped-glove/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Excellent grip in wet, oily & dry environments",
+      "High dexterity resistance",
+      "High resistance to snatch, tear, cut, abrasion & heat",
+      "Basic chemical oil stability",
+      "Seamless knitted aramid fibre glove with a textured coated palm",
+      "Extended 10cm cuff"
+    ],
+    "suitableFor": [
+      "Installation",
+      "Maintenance",
+      "Power",
+      "Utility Companies",
+      "Repairs of High Voltage Equipment"
+    ],
+    "composition": "13g Aramid flexible knit fabric; Nitrile micro foam & neoprene coating",
+    "standards": [
+      "42.3 cal/cm² Arc rated palm &amp; 16.8 cal/cm² arc rated back",
+      "ASTM",
+      "F2675/F2675M-13",
+      "D 3776: 2013 Option C"
+    ],
+    "colours": ["Olive"],
+    "sizes": ["7", "8", "9", "10", "11", "12", "13"]
+  },
+  "variants": [
+    {
+      "sku": "DG-NE423AF-1",
+      "size": null,
+      "colour": "Olive"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/arc-flash-glove-768x768-1.jpg",
+      "fileName": "arc-flash-glove-768x768-1.jpg",
+      "altText": "16.8 Cal Arc Dipped Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

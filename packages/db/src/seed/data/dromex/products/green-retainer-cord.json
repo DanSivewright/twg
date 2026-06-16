@@ -1,0 +1,34 @@
+{
+  "slug": "green-retainer-cord",
+  "title": "Green Retainer Cord",
+  "productCode": "8A-G",
+  "shortDescription": "Buy Green Retainer Cord from Dromex . High-quality Green Retainer Cord for all your needs. Shop Now.",
+  "description": "Buy Green Retainer Cord from Dromex . High-quality Green Retainer Cord for all your needs. Shop Now.",
+  "sourceUrl": "https://dromex.co.za/product/green-retainer-cord/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [],
+    "suitableFor": [],
+    "colours": ["Green"]
+  },
+  "variants": [
+    {
+      "sku": "8A-G-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/green-retainer-cord.jpg",
+      "fileName": "green-retainer-cord.jpg",
+      "altText": "Green Retainer Cord",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

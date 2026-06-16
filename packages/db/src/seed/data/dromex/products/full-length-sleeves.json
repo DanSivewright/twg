@@ -1,0 +1,50 @@
+{
+  "slug": "full-length-sleeves",
+  "title": "Full Length Sleeves",
+  "productCode": "50-60THV",
+  "shortDescription": "100% Dromex Cut5 Fibre sleeve with thumb hole. High cut & abrasion resistance. High contact heat protection",
+  "description": "100% Dromex Cut5 Fibre sleeve with thumb hole. High cut & abrasion resistance. High contact heat protection",
+  "sourceUrl": "https://dromex.co.za/product/full-length-sleeves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-SLEEVES.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "100% Dromex Cut5 Fibre sleeve with thumb hole",
+      "High cut & abrasion resistance",
+      "High contact heat protection",
+      "Colour UV resistant",
+      "Lint free & washable"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Automotive Industry",
+      "Glass & Steel",
+      "Welding",
+      "Machining",
+      "Mining Extractions Industry"
+    ],
+    "composition": "100% Dromex Cut5 fibre; With thumb hole",
+    "standards": ["EN 388: 454X", "EN 407: X1XXX"],
+    "colours": ["Lime"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "50-60THV-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hiviz-green-sleeve-768x768-1.jpg",
+      "fileName": "hiviz-green-sleeve-768x768-1.jpg",
+      "altText": "Full Length Sleeves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

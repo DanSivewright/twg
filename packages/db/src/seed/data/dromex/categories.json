@@ -1,0 +1,94 @@
+{
+  "source": "https://dromex.co.za/",
+  "extractedAt": "2026-06-09",
+  "categories": [
+    {
+      "slug": "ppe",
+      "name": "PPE",
+      "description": "Personal protective equipment",
+      "children": [
+        {
+          "slug": "gloves",
+          "name": "Gloves",
+          "sourceUrl": "https://dromex.co.za/product-category/gloves/",
+          "children": [
+            {
+              "slug": "cut-5",
+              "name": "Cut 5",
+              "sourceUrl": "https://dromex.co.za/product-category/gloves/cut-5/"
+            },
+            {
+              "slug": "specialised",
+              "name": "Specialised",
+              "sourceUrl": "https://dromex.co.za/product-category/gloves/specialised/"
+            },
+            {
+              "slug": "chemical",
+              "name": "Chemical",
+              "sourceUrl": "https://dromex.co.za/product-category/gloves/chemical/"
+            },
+            {
+              "slug": "synthetic-gloves-gpvc-nitrile-latex",
+              "name": "Synthetic Gloves ( GPVC, NITRILE, LATEX)",
+              "sourceUrl": "https://dromex.co.za/product-category/gloves/synthetic-gloves-gpvc-nitrile-latex/"
+            },
+            {
+              "slug": "leather",
+              "name": "Leather",
+              "sourceUrl": "https://dromex.co.za/product-category/gloves/leather/"
+            }
+          ]
+        },
+        {
+          "slug": "head-and-face",
+          "name": "Head and Face",
+          "sourceUrl": "https://dromex.co.za/product-category/head-and-face/",
+          "children": [
+            {
+              "slug": "head",
+              "name": "Head Protection Gear",
+              "sourceUrl": "https://dromex.co.za/product-category/head-and-face/head/"
+            },
+            {
+              "slug": "eyewear",
+              "name": "Protective Eyewear",
+              "sourceUrl": "https://dromex.co.za/product-category/head-and-face/eyewear/"
+            },
+            {
+              "slug": "hearing",
+              "name": "Hearing Protection",
+              "sourceUrl": "https://dromex.co.za/product-category/head-and-face/hearing/"
+            }
+          ]
+        },
+        {
+          "slug": "respiratory",
+          "name": "Respiratory",
+          "sourceUrl": "https://dromex.co.za/product-category/respiratory/",
+          "children": [
+            {
+              "slug": "disposable-masks",
+              "name": "Disposable Masks",
+              "sourceUrl": "https://dromex.co.za/product-category/respiratory/disposable-masks/"
+            },
+            {
+              "slug": "reusable-masks",
+              "name": "Reusable Masks",
+              "sourceUrl": "https://dromex.co.za/product-category/respiratory/reusable-masks/"
+            },
+            {
+              "slug": "filters",
+              "name": "Filters",
+              "sourceUrl": "https://dromex.co.za/product-category/respiratory/filters/"
+            }
+          ]
+        },
+        {
+          "slug": "fall-arrest",
+          "name": "Fall Arrest",
+          "sourceUrl": "https://dromex.co.za/product-category/fall-arrest/"
+        }
+      ]
+    }
+  ]
+}

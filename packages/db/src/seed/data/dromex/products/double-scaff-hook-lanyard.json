@@ -1,0 +1,40 @@
+{
+  "slug": "double-scaff-hook-lanyard",
+  "title": "DOUBLE SCAFF HOOK LANYARD",
+  "productCode": "DFA-PN361N",
+  "shortDescription": "Fall Arrest 44mm Forked Webbing Lanyard made from high tenacity polyester (1.75m length). Consists of Energy Absorber with loop and Steel Scaffold Hooks. Allows movement in all directions while remaining safely anchored at all times",
+  "description": "Fall Arrest 44mm Forked Webbing Lanyard made from high tenacity polyester (1.75m length). Consists of Energy Absorber with loop and Steel Scaffold Hooks. Allows movement in all directions while remaining safely anchored at all times",
+  "sourceUrl": "https://dromex.co.za/product/double-scaff-hook-lanyard/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-protection-energy-absorbing-lanyard-pn361n-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [
+      "Fall Arrest 44mm Forked Webbing Lanyard made from high tenacity polyester (1.75m length)",
+      "Consists of Energy Absorber with loop and Steel Scaffold Hooks",
+      "Allows movement in all directions while remaining safely anchored at all times",
+      "Loops are protected by an abrasion resistant covering at the ends and prevent the webbing from being damaged by the metallic connector",
+      "Certified as per EN 355:2002"
+    ],
+    "suitableFor": [],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "c577e5410322",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/fall-arrest-p361n.jpg",
+      "fileName": "fall-arrest-p361n.jpg",
+      "altText": "DOUBLE SCAFF HOOK LANYARD",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

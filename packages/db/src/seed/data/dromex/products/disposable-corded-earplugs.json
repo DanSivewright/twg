@@ -1,0 +1,42 @@
+{
+  "slug": "disposable-corded-earplugs",
+  "title": "Disposable Corded Earplugs",
+  "productCode": "DR-099C",
+  "shortDescription": "Disposable corded foam earplugs. Smooth & soft foam for comfort. Easy to use",
+  "description": "Disposable corded foam earplugs. Smooth & soft foam for comfort. Easy to use",
+  "sourceUrl": "https://dromex.co.za/product/disposable-corded-earplugs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/12/technical-datasheet-disposable-corded-ear-plugs-dr-099c-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Disposable corded foam earplugs",
+      "Smooth & soft foam for comfort",
+      "Easy to use",
+      "Superb attenuation",
+      "Hi-visibility fluorescent lime PU foam",
+      "Expands to fit ear canal comfortably increasing overall protection"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "PU coated for hygiene",
+    "colours": ["Yellow"]
+  },
+  "variants": [
+    {
+      "sku": "DR-099C-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dr-099c.jpeg",
+      "fileName": "dr-099c.jpeg",
+      "altText": "Disposable Corded Earplugs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

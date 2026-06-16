@@ -1,0 +1,53 @@
+{
+  "slug": "0722-nitrile-coated-knitted-wrist-gloves",
+  "title": "0722 Nitrile Coated Knitted Wrist Gloves",
+  "productCode": "NITRILE 0722",
+  "shortDescription": "Heavy duty. Excellent grip. High abrasion",
+  "description": "Heavy duty. Excellent grip. High abrasion",
+  "sourceUrl": "https://dromex.co.za/product/0722-nitrile-coated-knitted-wrist-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-nitrile-coated-knitted-wrist-gloves.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Heavy duty",
+      "Excellent grip",
+      "High abrasion",
+      "High cut resistance"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Automotive Industry",
+      "Utilities",
+      "Sheet Metal",
+      "Recycling"
+    ],
+    "composition": "Fully coated nitrile; Interlock liner; Crinkle finish; Wrib cuff",
+    "standards": ["EN 388:2003"],
+    "colours": ["Navy Blue"]
+  },
+  "variants": [
+    {
+      "sku": "NITRILE 0722-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nitrile0722-600x600-1.jpg",
+      "fileName": "dromex_gloves_nitrile0722-600x600-1.jpg",
+      "altText": "0722 Nitrile Coated Knitted Wrist Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

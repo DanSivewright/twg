@@ -1,0 +1,200 @@
+{
+  "slug": "hard-hats",
+  "title": "Hard Hats",
+  "productCode": "DH-HH",
+  "shortDescription": "Polypropylene copolymer hard hat. Retractable ventilation holes. Ratchet type adjustment for easy fitment",
+  "description": "Polypropylene copolymer hard hat. Retractable ventilation holes. Ratchet type adjustment for easy fitment",
+  "sourceUrl": "https://dromex.co.za/product/hard-hats/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dromex-hard-hat-2.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Polypropylene copolymer hard hat",
+      "Retractable ventilation holes",
+      "Ratchet type adjustment for easy fitment",
+      "2-Point adjustable webbed polyester chin strap",
+      "Side slots for fitment of face & hearing PPE",
+      "8-Point suspension within the shell provides optimum shock absorption"
+    ],
+    "suitableFor": [
+      "General use",
+      "Mining",
+      "Construction",
+      "Petrochemical Industry",
+      "Utilities",
+      "Warehousing",
+      "Forestry"
+    ],
+    "composition": "Polypropylene copolymer hard hat",
+    "colours": [
+      "Orange",
+      "Black",
+      "Brown",
+      "Green",
+      "Grey",
+      "Pink",
+      "Red",
+      "Royal Blue",
+      "Sky Blue",
+      "White",
+      "Yellow"
+    ]
+  },
+  "variants": [
+    {
+      "sku": "DH-HH-1",
+      "size": null,
+      "colour": "White"
+    },
+    {
+      "sku": "DH-HH-2",
+      "size": null,
+      "colour": "Royal Blue"
+    },
+    {
+      "sku": "DH-HH-3",
+      "size": null,
+      "colour": "Yellow"
+    },
+    {
+      "sku": "DH-HH-4",
+      "size": null,
+      "colour": "Grey"
+    },
+    {
+      "sku": "DH-HH-5",
+      "size": null,
+      "colour": "Red"
+    },
+    {
+      "sku": "DH-HH-6",
+      "size": null,
+      "colour": "Green"
+    },
+    {
+      "sku": "DH-HH-7",
+      "size": null,
+      "colour": "Black"
+    },
+    {
+      "sku": "DH-HH-8",
+      "size": null,
+      "colour": "Pink"
+    },
+    {
+      "sku": "DH-HH-9",
+      "size": null,
+      "colour": "Brown"
+    },
+    {
+      "sku": "DH-HH-10",
+      "size": null,
+      "colour": "Sky Blue"
+    },
+    {
+      "sku": "DH-HH-11",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-grey-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-grey-front-600x600-1.jpg",
+      "altText": "Hard Hats",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-white-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-white-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-grey-back-600x600-1.jpg",
+      "fileName": "dromex-hardhat-grey-back-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 2
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-nb-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-nb-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 3
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-yellow-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-yellow-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 4
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-red-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-red-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 5
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-green-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-green-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 6
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh-hh-blk_hr-600x600-1.jpg",
+      "fileName": "dh-hh-blk_hr-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 7
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh-hh-pnk_hr-600x600-1.jpg",
+      "fileName": "dh-hh-pnk_hr-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 8
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh-hh-gy_brn-600x600-1.jpg",
+      "fileName": "dh-hh-gy_brn-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 9
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-blue-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-blue-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 10
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex-hardhat-orange-front-600x600-1.jpg",
+      "fileName": "dromex-hardhat-orange-front-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 11
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

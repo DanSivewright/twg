@@ -1,0 +1,39 @@
+{
+  "slug": "retractable-webbing-mini-block-2-5m-with-swivel",
+  "title": "Retractable Webbing Mini Block (2.5m) with Swivel",
+  "productCode": "DFA-PN2002",
+  "shortDescription": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "description": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "sourceUrl": "https://dromex.co.za/product/retractable-webbing-mini-block-2-5m-with-swivel/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-protection-retractable-fall-arrestor-lanyard-pn2002-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [
+      "Vertical length systems (DFA-PN2002)",
+      "Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06)",
+      "Colour impact indicators at attachment ends"
+    ],
+    "suitableFor": [],
+    "colours": ["Silver"],
+    "sizes": ["2.5m"]
+  },
+  "variants": [
+    {
+      "sku": "cc0b5607004b",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/retractable-webbing-mini-block-2m.jpg",
+      "fileName": "retractable-webbing-mini-block-2m.jpg",
+      "altText": "Retractable Webbing Mini Block (2.5m) with Swivel",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

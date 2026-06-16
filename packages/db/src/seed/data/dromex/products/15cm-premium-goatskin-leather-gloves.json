@@ -1,0 +1,40 @@
+{
+  "slug": "15cm-premium-goatskin-leather-gloves",
+  "title": "15cm Premium Goatskin Leather Gloves",
+  "productCode": "DG-GOAT-15CMC",
+  "shortDescription": "Natural lanolin content of the hide ensures the glove is soft and supple. Consists of natural premium full grain goatskin leather. Syntax thread & a 6-inch chrome leather elbow cuff for additional protection",
+  "description": "Natural lanolin content of the hide ensures the glove is soft and supple. Consists of natural premium full grain goatskin leather. Syntax thread & a 6-inch chrome leather elbow cuff for additional protection",
+  "sourceUrl": "https://dromex.co.za/product/15cm-premium-goatskin-leather-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-ggoat-15cmc.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": [
+      "Natural lanolin content of the hide ensures the glove is soft and supple",
+      "Consists of natural premium full grain goatskin leather",
+      "Syntax thread & a 6-inch chrome leather elbow cuff for additional protection"
+    ],
+    "suitableFor": ["Driving", "TIG (Tungsten Inert Gas) Welding"],
+    "composition": "Fourchette; Keystone thumb; Full grain goat leather palm & back; Cow chrome split leather cuff",
+    "colours": ["White"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-GOAT-15CMC-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_goat_15mc-600x600-1.jpg",
+      "fileName": "dromex_gloves_goat_15mc-600x600-1.jpg",
+      "altText": "15cm Premium Goatskin Leather Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

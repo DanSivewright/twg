@@ -1,0 +1,54 @@
+{
+  "slug": "viper-plus-chemical-gloves",
+  "title": "Viper Plus Chemical Gloves",
+  "productCode": "DG-VIPERPLUS",
+  "shortDescription": "Higher flexibility for long duration wear comfort. High dexterity. High abrasion",
+  "description": "Higher flexibility for long duration wear comfort. High dexterity. High abrasion",
+  "sourceUrl": "https://dromex.co.za/product/viper-plus-chemical-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-viper-plus-chemical-glove-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "chemical"]
+  ],
+  "attributes": {
+    "features": [
+      "Higher flexibility for long duration wear comfort",
+      "High dexterity",
+      "High abrasion",
+      "Super grip",
+      "Impermeable protection"
+    ],
+    "suitableFor": [
+      "Petrochemical Industry",
+      "Component Assembly",
+      "Mild Chemicals, Bacteria, Fungi, Viruses and Food Products",
+      "Chemical Processing",
+      "Metal Fabrication",
+      "Tools & working in processing applications in fishing",
+      "Metal Treatment",
+      "Water Treatment Industries"
+    ],
+    "composition": "Double dipped PVC; Seamless cotton liner; AZO free/ Chromite 6 free; Extra length sleeve & elasticated cuff",
+    "colours": ["Royal Blue"],
+    "sizes": ["9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-VIPERPLUS-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/viperplus-600x600-1.jpg",
+      "fileName": "viperplus-600x600-1.jpg",
+      "altText": "Viper Plus Chemical Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

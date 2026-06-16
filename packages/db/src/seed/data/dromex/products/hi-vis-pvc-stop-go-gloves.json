@@ -1,0 +1,59 @@
+{
+  "slug": "hi-vis-pvc-stop-go-gloves",
+  "title": "HI-VIS PVC Stop &#038; Go Gloves",
+  "productCode": "CRONUS/RGE or RGW",
+  "shortDescription": "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.. Excellent abrasion protection and tear resistant properties. Provides good grip and performs well in wet, greasy, oily and dry environments.",
+  "description": "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.. Excellent abrasion protection and tear resistant properties. Provides good grip and performs well in wet, greasy, oily and dry environments.",
+  "sourceUrl": "https://dromex.co.za/product/hi-vis-pvc-stop-go-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-hi-vis-pvc-stop-go-gloves-cronus-rg.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.",
+      "Excellent abrasion protection and tear resistant properties",
+      "Provides good grip and performs well in wet, greasy, oily and dry environments.",
+      "Polyester interlock jersey lining is extremely soft, warm, and a little stretchy providing comfort to the hand",
+      "Stop and Go gloves for visual signal purposes, required in the mining industry"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Automotive Industry",
+      "Utilities",
+      "Assembling of Materials",
+      "Sheet Metal",
+      "Recycling"
+    ],
+    "composition": "Fully coated lime green & red PVC gloves with interlock lining; Polyester cotton lining; PVC rough palm; CRONUS/RGW – 26cm elbow glove with a  7.5 cm open cuff; CRONUS/RGE – 35cm elbow glove with a 16 cm open cuff",
+    "colours": ["Green", "Red"]
+  },
+  "variants": [
+    {
+      "sku": "CRONUS/RGE or RGW-1",
+      "size": null,
+      "colour": "Green"
+    },
+    {
+      "sku": "CRONUS/RGE or RGW-2",
+      "size": null,
+      "colour": "Red"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_cronus_cronuse_cronusw-600x600-1.jpg",
+      "fileName": "dromex_gloves_cronus_cronuse_cronusw-600x600-1.jpg",
+      "altText": "HI-VIS PVC Stop &#038; Go Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

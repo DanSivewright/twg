@@ -1,0 +1,48 @@
+{
+  "slug": "qsa-2010-ffp1-face-mask",
+  "title": "QSA 2010 FFP1 Face Mask",
+  "productCode": "QSA 2010 - FFP1",
+  "shortDescription": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "description": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "sourceUrl": "https://dromex.co.za/product/qsa-2010-ffp1-face-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-qsa-2010.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Low breathing resistance for increased wearer comfort",
+      "Light weight & comfortable",
+      "Elasticated straps",
+      "PP inner with no loose fibres",
+      "Protection against solid and water based liquid aerosols",
+      "For use in low toxicity dust areas when used in"
+    ],
+    "suitableFor": [
+      "General use",
+      "Construction",
+      "Agriculture",
+      "General Maintenance Indoor and Outdoor"
+    ],
+    "composition": "Polypropylene; Polyester synthetic material",
+    "standards": ["SANS 10338:2009", "NRCS AZ2006/21"],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "QSA 2010 - FFP1-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/qsa2010-600x600-1.jpg",
+      "fileName": "qsa2010-600x600-1.jpg",
+      "altText": "QSA 2010 FFP1 Face Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

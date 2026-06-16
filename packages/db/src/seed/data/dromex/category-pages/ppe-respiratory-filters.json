@@ -1,0 +1,133 @@
+{
+  "categorySlugPath": ["ppe", "respiratory", "filters"],
+  "sourceUrl": "https://dromex.co.za/product-category/respiratory/filters/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "a1-twin-filters",
+      "title": "A1 Twin Filters",
+      "productCode": "DR-A1-EN",
+      "sourceUrl": "https://dromex.co.za/product/a1-twin-filters/"
+    },
+    {
+      "slug": "a1p2-twin-filter",
+      "title": "A1p2 Twin Filter",
+      "productCode": "DR-A1P2-EN",
+      "sourceUrl": "https://dromex.co.za/product/a1p2-twin-filter/"
+    },
+    {
+      "slug": "a2-twin-filters",
+      "title": "A2 Twin Filters",
+      "productCode": "DR-A2-EN",
+      "sourceUrl": "https://dromex.co.za/product/a2-twin-filters/"
+    },
+    {
+      "slug": "a2p3-twin-filters",
+      "title": "A2p3 Twin Filters",
+      "productCode": "DR-A2P3-EN",
+      "sourceUrl": "https://dromex.co.za/product/a2p3-twin-filters/"
+    },
+    {
+      "slug": "abek1p3-twin-filters",
+      "title": "Abek1p3 Twin Filters",
+      "productCode": "DR-ABEK1P3-EN",
+      "sourceUrl": "https://dromex.co.za/product/abek1p3-twin-filters/"
+    },
+    {
+      "slug": "abek1-twin-filters",
+      "title": "Abek1 Twin Filters",
+      "productCode": "DR-ABEK1-EN",
+      "sourceUrl": "https://dromex.co.za/product/abek1-twin-filters/"
+    },
+    {
+      "slug": "p2-twin-filters",
+      "title": "P2 Twin Filters",
+      "productCode": "DR-P2-EN",
+      "sourceUrl": "https://dromex.co.za/product/p2-twin-filters/"
+    },
+    {
+      "slug": "p2pf-pre-filters",
+      "title": "P2pf Pre Filters",
+      "productCode": "DR-P2PF-EN",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-pre-filters/"
+    },
+    {
+      "slug": "p3ov-twin-filters",
+      "title": "P3ov Twin Filters",
+      "productCode": "DR-P3OV-EN",
+      "sourceUrl": "https://dromex.co.za/product/p3ov-twin-filters/"
+    },
+    {
+      "slug": "p3pf-twin-filters",
+      "title": "P3pf Twin Filters",
+      "productCode": "DR-P3PF-EN",
+      "sourceUrl": "https://dromex.co.za/product/p3pf-twin-filters/"
+    },
+    {
+      "slug": "a1-single-unifit-filter",
+      "title": "A1 Single Unifit Filter",
+      "productCode": "DHCS A1",
+      "sourceUrl": "https://dromex.co.za/product/a1-single-unifit-filter/"
+    },
+    {
+      "slug": "a1-twin-unifit-filter",
+      "title": "A1 Twin Unifit Filter",
+      "productCode": "DHCT A1",
+      "sourceUrl": "https://dromex.co.za/product/a1-twin-unifit-filter/"
+    },
+    {
+      "slug": "a2-twin-unifit-filter",
+      "title": "A2 Twin Unifit Filter",
+      "productCode": "DHCT A2",
+      "sourceUrl": "https://dromex.co.za/product/a2-twin-unifit-filter/"
+    },
+    {
+      "slug": "b1-twin-unifit-filter",
+      "title": "B1 Twin Unifit Filter",
+      "productCode": "DHCT-ABEK 1",
+      "sourceUrl": "https://dromex.co.za/product/b1-twin-unifit-filter/"
+    },
+    {
+      "slug": "p2-single-unifit-filter",
+      "title": "P2 Single Unifit Filter",
+      "productCode": "DHCS P2",
+      "sourceUrl": "https://dromex.co.za/product/p2-single-unifit-filter/"
+    },
+    {
+      "slug": "p2-twin-unifit-filter",
+      "title": "P2 Twin Unifit Filter",
+      "productCode": "DHCT P2",
+      "sourceUrl": "https://dromex.co.za/product/p2-twin-unifit-filter/"
+    },
+    {
+      "slug": "p2pf-single-unifit-pre-filters",
+      "title": "P2pf Single Unifit Pre Filters",
+      "productCode": "DHCS / DHCT P2PF",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-single-unifit-pre-filters/"
+    },
+    {
+      "slug": "p2pf-twin-unifit-pre-filter",
+      "title": "P2pf Twin Unifit Pre Filter",
+      "productCode": "DHCT P2PF",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-twin-unifit-pre-filter/"
+    },
+    {
+      "slug": "b1-twin-unifit-filter-2",
+      "title": "B1 Twin Unifit Filter 2",
+      "productCode": "DHCT B1",
+      "sourceUrl": "https://dromex.co.za/product/b1-twin-unifit-filter-2/"
+    },
+    {
+      "slug": "p3-twin-unifit-filter",
+      "title": "P3 Twin Unifit Filter",
+      "productCode": "DHCT P3",
+      "sourceUrl": "https://dromex.co.za/product/p3-twin-unifit-filter/"
+    },
+    {
+      "slug": "p3pf-twin-unifit-pre-filter",
+      "title": "P3pf Twin Unifit Pre Filter",
+      "productCode": "DHCT P3",
+      "sourceUrl": "https://dromex.co.za/product/p3pf-twin-unifit-pre-filter/"
+    }
+  ]
+}

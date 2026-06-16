@@ -1,0 +1,39 @@
+{
+  "slug": "retractable-fall-arrester-6m",
+  "title": "Retractable Fall Arrester 6m",
+  "productCode": "DFA-TPGS06",
+  "shortDescription": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "description": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-6m/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-protection-retractable-fall-arrestor-lanyard-blocks-tpgstpwb-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [
+      "Vertical length systems (DFA-PN2002)",
+      "Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06)",
+      "Colour impact indicators at attachment ends"
+    ],
+    "suitableFor": [],
+    "colours": ["Black"],
+    "sizes": ["6m"]
+  },
+  "variants": [
+    {
+      "sku": "351f40500d9b",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/retractable-fall-arrester-6m.jpg",
+      "fileName": "retractable-fall-arrester-6m.jpg",
+      "altText": "Retractable Fall Arrester 6m",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

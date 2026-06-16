@@ -1,0 +1,54 @@
+{
+  "slug": "heavy-duty-green-pvc-gloves-27cm",
+  "title": "Heavy Duty Green PVC Gloves 27cm",
+  "productCode": "GPVC/27/HG",
+  "shortDescription": "Double dipped green PVC (Poly Vinyl Chloride) coating on a Jersey Cotton blend liner. Open wrist gauntlet cuff. Provides excellent resistance to most acids, oils, fats and petroleum hydrocarbons",
+  "description": "Double dipped green PVC (Poly Vinyl Chloride) coating on a Jersey Cotton blend liner. Open wrist gauntlet cuff. Provides excellent resistance to most acids, oils, fats and petroleum hydrocarbons",
+  "sourceUrl": "https://dromex.co.za/product/heavy-duty-green-pvc-gloves-27cm/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-heavy-duty-pvc-gloves-gpvc-hg-1.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Double dipped green PVC (Poly Vinyl Chloride) coating on a Jersey Cotton blend liner",
+      "Open wrist gauntlet cuff",
+      "Provides excellent resistance to most acids, oils, fats and petroleum hydrocarbons",
+      "Rough finish on the palm for grip especially in wet and oily handling conditions",
+      "Available in 27cm and 40cm lengths",
+      "PVC functions well between temperatures of -4°C & 66°C"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Petrochemical Industry",
+      "Chemical Handling",
+      "Machine and Equipment Operators"
+    ],
+    "composition": "Green, double dipped PVC (Poly Vinyl Chloride); Jersey cotton blend liner",
+    "colours": ["Green"]
+  },
+  "variants": [
+    {
+      "sku": "GPVC/27/HG-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_pvc27-1-600x600-1.jpg",
+      "fileName": "dromex_gloves_pvc27-1-600x600-1.jpg",
+      "altText": "Heavy Duty Green PVC Gloves 27cm",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

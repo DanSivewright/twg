@@ -1,0 +1,50 @@
+{
+  "slug": "miizu-400-thermal",
+  "title": "MIIZU 400 Thermal",
+  "productCode": "MIIZULFM4001W",
+  "shortDescription": "High visibility. Soft yellow polyester glove with poly-acrylic fleece lined fibre. Micro foam latex palm & fingers for excellent grip",
+  "description": "High visibility. Soft yellow polyester glove with poly-acrylic fleece lined fibre. Micro foam latex palm & fingers for excellent grip",
+  "sourceUrl": "https://dromex.co.za/product/miizu-400-thermal/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-miizu400-thermal-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High visibility",
+      "Soft yellow polyester glove with poly-acrylic fleece lined fibre",
+      "Micro foam latex palm & fingers for excellent grip",
+      "Good abrasion, puncture, tear & cut resistance",
+      "Functions at temperatures up to -50 °C"
+    ],
+    "suitableFor": [
+      "Fisheries",
+      "Cold Storage",
+      "Outdoor Winter Applications",
+      "Logisitics"
+    ],
+    "composition": "100% Polyurethane palm coating; Waterbased PU Micro Foam finish; Composite knitted wrist",
+    "colours": ["Lime"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "MIIZULFM4001W-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_miizulfm4001w-600x600-1.jpg",
+      "fileName": "dromex_gloves_miizulfm4001w-600x600-1.jpg",
+      "altText": "MIIZU 400 Thermal",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

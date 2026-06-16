@@ -1,0 +1,46 @@
+{
+  "slug": "dv-11-wide-vision-goggles",
+  "title": "DV-11 Wide Vision Goggles",
+  "productCode": "DV-11",
+  "shortDescription": "Clear polycarbonate mono lens. Efficient direct micro ventilation system. 14 mm elasticated & adjustable cotton knit headband",
+  "description": "Clear polycarbonate mono lens. Efficient direct micro ventilation system. 14 mm elasticated & adjustable cotton knit headband",
+  "sourceUrl": "https://dromex.co.za/product/dv-11-wide-vision-goggles/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-wide-vision-goggles.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Clear polycarbonate mono lens",
+      "Efficient direct micro ventilation system",
+      "14 mm elasticated & adjustable cotton knit headband",
+      "High quality polyvinyl chloride frame",
+      "Ergonomic design",
+      "Face contact area designed for comfort and seal",
+      "Compatible with respiratory equipment",
+      "Scratch resistant lens",
+      "120° lateral vision"
+    ],
+    "suitableFor": ["Woodworking", "Grinding", "Chemical Splashes"],
+    "composition": "Polycarbonate Lens; Vinyl Frame",
+    "standards": ["EN 166 FCE | DV-1 F"],
+    "colours": ["IR Green"]
+  },
+  "variants": [
+    {
+      "sku": "DV-11-1",
+      "size": null,
+      "colour": "Ir Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dv11-600x600-1.jpg",
+      "fileName": "dv11-600x600-1.jpg",
+      "altText": "DV-11 Wide Vision Goggles",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

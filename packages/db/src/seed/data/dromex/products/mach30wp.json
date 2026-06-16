@@ -1,0 +1,53 @@
+{
+  "slug": "mach30wp",
+  "title": "Mach30WP",
+  "productCode": "MACH-30WP",
+  "shortDescription": "Hi-Viz Cut5 Mechanical glove. Multi function. Impact resistant",
+  "description": "Hi-Viz Cut5 Mechanical glove. Multi function. Impact resistant",
+  "sourceUrl": "https://dromex.co.za/product/mach30wp/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-MACH-30WP-IMPACT-GLOVE.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "Hi-Viz Cut5 Mechanical glove",
+      "Multi function",
+      "Impact resistant",
+      "Anti-vibration",
+      "Checker palm for grip",
+      "Waterproof",
+      "Latex foam reinforced multi-colour TPR back of hand impact protection"
+    ],
+    "suitableFor": [
+      "General use",
+      "Mining",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Packing Assembly",
+      "Logisitics",
+      "Heavy Machinery"
+    ],
+    "composition": "Black leatherette palm with silicon checker-plate finish; Black sand finish palm and thumb crotch area.; Double stitched; Kevlar fabric patch inside the palm; Finger tipped and knuckle impact resistant TPR multi-colour ribs; Back of hand impact resistant TPR multi-colour pads; Foam coated back of hand; 60mm neoprene cuff; 4mm soft plastic continuous pull with hanging loop and glove info",
+    "standards": ["EN 388:2016"],
+    "colours": ["Lime"],
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "MACH-30WP-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_MACH30WP-768x768-1.jpg",
+      "fileName": "dromex_gloves_MACH30WP-768x768-1.jpg",
+      "altText": "Mach30WP",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

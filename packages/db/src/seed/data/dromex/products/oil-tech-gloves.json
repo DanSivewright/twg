@@ -1,0 +1,60 @@
+{
+  "slug": "oil-tech-gloves",
+  "title": "Oil-Tech Gloves",
+  "productCode": "DG-OIL-TECH",
+  "shortDescription": "Protection against mechanical risks. Super dexterity. Textured palm for grip in wet & oily conditions",
+  "description": "Protection against mechanical risks. Super dexterity. Textured palm for grip in wet & oily conditions",
+  "sourceUrl": "https://dromex.co.za/product/oil-tech-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-oil-tech-glove.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Protection against mechanical risks",
+      "Super dexterity",
+      "Textured palm for grip in wet & oily conditions",
+      "13-Gauge comfortable seamless nylon liner",
+      "High abrasion protection & tear resistance",
+      "Impermeable protection",
+      "Provides liquid protection & water resistant"
+    ],
+    "suitableFor": [
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Heavy Machinery",
+      "Mining Extractions Industry",
+      "Aerospace",
+      "Mechanical Workshops",
+      "Oil & Grease Environments",
+      "Precision Engineering Application"
+    ],
+    "composition": "Double dipped & fully coated nitrile glove",
+    "standards": ["EN 388: 4121X"],
+    "colours": ["Magenta Red"],
+    "sizes": ["10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "DG-OIL-TECH-1",
+      "size": null,
+      "colour": "Magenta Red"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/oiltech-768x768-1.jpg",
+      "fileName": "oiltech-768x768-1.jpg",
+      "altText": "Oil-Tech Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

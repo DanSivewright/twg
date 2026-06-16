@@ -1,0 +1,50 @@
+{
+  "slug": "bump-caps",
+  "title": "Bump Caps",
+  "productCode": "BUMPCAP",
+  "shortDescription": "80% Cotton 20% Polyester Bump Cap. Ventilated, baseball cap style",
+  "description": "80% Cotton 20% Polyester Bump Cap. Ventilated, baseball cap style",
+  "sourceUrl": "https://dromex.co.za/product/bump-caps/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-bumpcap.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "80% Cotton 20% Polyester Bump Cap",
+      "Ventilated, baseball cap style"
+    ],
+    "suitableFor": [
+      "General use",
+      "Mining",
+      "Construction",
+      "Petrochemical Industry",
+      "Utilities",
+      "Warehousing",
+      "Forestry"
+    ],
+    "colours": ["Navy Blue", "Black"]
+  },
+  "variants": [
+    {
+      "sku": "BUMPCAP-1",
+      "size": null,
+      "colour": "Navy Blue"
+    },
+    {
+      "sku": "BUMPCAP-2",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/head-and-face-bump-caps-product-img-600x600-1.jpg",
+      "fileName": "head-and-face-bump-caps-product-img-600x600-1.jpg",
+      "altText": "Bump Caps",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

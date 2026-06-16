@@ -1,0 +1,41 @@
+{
+  "slug": "dr-099c-disposable-foam-ear-plugs-corded",
+  "title": "DR-099C Disposable Foam Ear Plugs Corded",
+  "productCode": "DR-099C",
+  "shortDescription": "Disposable, hi-visibility fluorescent PU foam ear plugs. PU coated for hygiene. Smooth, soft, pliable & easy to use",
+  "description": "Disposable, hi-visibility fluorescent PU foam ear plugs. PU coated for hygiene. Smooth, soft, pliable & easy to use",
+  "sourceUrl": "https://dromex.co.za/product/dr-099c-disposable-foam-ear-plugs-corded/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-disposable-corded-ear-plugs-dr-099c.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Disposable, hi-visibility fluorescent PU foam ear plugs",
+      "PU coated for hygiene",
+      "Smooth, soft, pliable & easy to use",
+      "Superb attenuation",
+      "Expands to fit ear canal comfortably, increasing overall protection"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "CE EN 352-2 (H=33 dB, M=33 dB, L=32 dB); SNR 35 dB",
+    "colours": ["Magenta &amp; Yellow"]
+  },
+  "variants": [
+    {
+      "sku": "DR-099C-1",
+      "size": null,
+      "colour": "Magenta And Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dr-099c.jpeg",
+      "fileName": "dr-099c.jpeg",
+      "altText": "DR-099C Disposable Foam Ear Plugs Corded",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

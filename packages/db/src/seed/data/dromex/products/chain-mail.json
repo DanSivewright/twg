@@ -1,0 +1,45 @@
+{
+  "slug": "chain-mail",
+  "title": "Chain Mail",
+  "productCode": "RTCMG-01",
+  "shortDescription": "Stainless steel chain mail glove. Ambidextrous. Wrist length",
+  "description": "Stainless steel chain mail glove. Ambidextrous. Wrist length",
+  "sourceUrl": "https://dromex.co.za/product/chain-mail/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-chain-mail-glove.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Stainless steel chain mail glove",
+      "Ambidextrous",
+      "Wrist length",
+      "Washable",
+      "Tapered fit design",
+      "20mm Colour coded fastening wrist band",
+      "Supplied with glove tensioner"
+    ],
+    "suitableFor": ["General use", "Engineering", "Workshops"],
+    "composition": "Grey nitrile palm coated; Nylon seamless shell; Composite knitted wrist",
+    "standards": ["DIN EN 1082-1"],
+    "colours": ["White"],
+    "sizes": ["XS - XL (Colour of band differs per size)"]
+  },
+  "variants": [
+    {
+      "sku": "RTCMG-01-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_chain-mail-600x600-1.jpg",
+      "fileName": "dromex_gloves_chain-mail-600x600-1.jpg",
+      "altText": "Chain Mail",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

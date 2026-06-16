@@ -1,0 +1,40 @@
+{
+  "slug": "premium-leather-rigger-gloves",
+  "title": "Premium Leather Rigger Gloves",
+  "productCode": "DG-RIGGER/EXEC",
+  "shortDescription": "High abrasion resistance. High cut resistance. High contact protection",
+  "description": "High abrasion resistance. High cut resistance. High contact protection",
+  "sourceUrl": "https://dromex.co.za/product/premium-leather-rigger-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-premium-leather-rigger-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": [
+      "High abrasion resistance",
+      "High cut resistance",
+      "High contact protection"
+    ],
+    "suitableFor": ["General use", "Rigging Operations"],
+    "composition": "Gunn cut; Reinforced index finger, palm & knuckle protection; Shirred EVA (Ethylene-vinyl acetate) safety cuff; Pull tabs & leather padded finger tips",
+    "colours": ["Silver"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-RIGGER/EXEC-1",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_riggerexec-600x600-1.jpg",
+      "fileName": "dromex_gloves_riggerexec-600x600-1.jpg",
+      "altText": "Premium Leather Rigger Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

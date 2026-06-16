@@ -1,0 +1,43 @@
+{
+  "slug": "mach-5-mining-impact-gloves",
+  "title": "Mach 5 Mining Impact Gloves",
+  "productCode": "DG-MACH-5",
+  "shortDescription": "Multi-functional anti-vibration mechanical glove with finger, thumb palm and back protection. Maximum dexterity and non-slip performance. Synthetic leather palm and durable anti-slip PVC patches",
+  "description": "Multi-functional anti-vibration mechanical glove with finger, thumb palm and back protection. Maximum dexterity and non-slip performance. Synthetic leather palm and durable anti-slip PVC patches",
+  "sourceUrl": "https://dromex.co.za/product/mach-5-mining-impact-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-mach-5-mining-impact-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Multi-functional anti-vibration mechanical glove with finger, thumb palm and back protection",
+      "Maximum dexterity and non-slip performance",
+      "Synthetic leather palm and durable anti-slip PVC patches",
+      "Strengthened palm of the glove for gripping power in slippery conditions",
+      "High visibility composite poly/spandex knitted fabric for impact protection",
+      "Optimum balance between anti-slip and protection for back of hand"
+    ],
+    "suitableFor": ["Mining", "Automotive Industry", "Outdoor Machinery"],
+    "composition": "Black triangular indent pattern PVC palm, index and thumb patch, double stitched; Black form fitting leatherette palm & knuckle area; Fluorescent yellow spandex back; Finer tipped; Velcro closing elasticated cuff",
+    "colours": ["Lime"],
+    "sizes": ["9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-MACH-5-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_mach5-600x600-1.jpg",
+      "fileName": "dromex_gloves_mach5-600x600-1.jpg",
+      "altText": "Mach 5 Mining Impact Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

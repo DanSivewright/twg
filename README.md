@@ -35,6 +35,8 @@ This project uses PostgreSQL with Drizzle ORM.
 pnpm run db:push
 ```
 
+Commerce catalog tables (categories, products, variants, media) are documented in [docs/commerce-schema.md](docs/commerce-schema.md). Domain terms live in [CONTEXT.md](CONTEXT.md).
+
 Then, run the development server:
 
 ```bash

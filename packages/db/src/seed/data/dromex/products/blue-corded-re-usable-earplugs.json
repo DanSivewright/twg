@@ -1,0 +1,35 @@
+{
+  "slug": "blue-corded-re-usable-earplugs",
+  "title": "Blue Corded Re-usable Earplugs",
+  "productCode": "DR-118C",
+  "shortDescription": "Hi-visibility fluorescent blue triple flange TPR ear plugs",
+  "description": "Hi-visibility fluorescent blue triple flange TPR ear plugs",
+  "sourceUrl": "https://dromex.co.za/product/blue-corded-re-usable-earplugs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-blue-corded-re-usable-ear-plugs-dr118c-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": ["Hi-visibility fluorescent blue triple flange TPR ear plugs"],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "H=31 dB, M=28 dB, L=27 dB; SNR 31 dB",
+    "colours": ["Royal Blue"]
+  },
+  "variants": [
+    {
+      "sku": "DR-118C-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hearing-re-usable-dh-118-product-img.jpeg",
+      "fileName": "hearing-re-usable-dh-118-product-img.jpeg",
+      "altText": "Blue Corded Re-usable Earplugs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

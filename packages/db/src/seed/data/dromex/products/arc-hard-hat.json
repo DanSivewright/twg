@@ -1,0 +1,49 @@
+{
+  "slug": "arc-hard-hat",
+  "title": "Arc Hard Hat",
+  "productCode": "DH-ARCHHKW",
+  "shortDescription": "TYPE 1 white, non-vented industrial hard hat with UV (Ultraviolet), inhibitor protector. Protects against impact, penetration and exposure to high voltage conductors. Dielectric protection up to 20,000 volts (phase to ground)",
+  "description": "TYPE 1 white, non-vented industrial hard hat with UV (Ultraviolet), inhibitor protector. Protects against impact, penetration and exposure to high voltage conductors. Dielectric protection up to 20,000 volts (phase to ground)",
+  "sourceUrl": "https://dromex.co.za/product/arc-hard-hat/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "TYPE 1 white, non-vented industrial hard hat with UV (Ultraviolet), inhibitor protector",
+      "Protects against impact, penetration and exposure to high voltage conductors",
+      "Dielectric protection up to 20,000 volts (phase to ground)",
+      "4-point quick fit suspension, with double straps for shock absorption",
+      "Adjustable Fast-Trac III rachet suspension",
+      "Fixed stitched sweat band",
+      "Side slots for integration with face and hearing protective equipment",
+      "Medium shell, that is fully adjustable to fit head sizes between 52cm – 64cm (centimetres)"
+    ],
+    "suitableFor": [
+      "General use",
+      "Manufacturing",
+      "Electrical Purposes",
+      "Utilities"
+    ],
+    "composition": "HDPE ( High Density Polyethylene)",
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "DH-ARCHHKW-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/12/dh-arc-hh.jpg",
+      "fileName": "dh-arc-hh.jpg",
+      "altText": "Arc Hard Hat",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

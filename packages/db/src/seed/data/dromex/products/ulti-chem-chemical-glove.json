@@ -1,0 +1,60 @@
+{
+  "slug": "ulti-chem-chemical-glove",
+  "title": "Ulti-Chem Chemical Glove",
+  "productCode": "DG-ULTICHEM",
+  "shortDescription": "Triple coated, lightweight nitrile glove with micro foam palm. Protection against chemicals, mechanical and micro-organism risks.. Excellent dexterity & grip",
+  "description": "Triple coated, lightweight nitrile glove with micro foam palm. Protection against chemicals, mechanical and micro-organism risks.. Excellent dexterity & grip",
+  "sourceUrl": "https://dromex.co.za/product/ulti-chem-chemical-glove/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-ulti-chem-chemical-glove-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "chemical"]
+  ],
+  "attributes": {
+    "features": [
+      "Triple coated, lightweight nitrile glove with micro foam palm",
+      "Protection against chemicals, mechanical and micro-organism risks.",
+      "Excellent dexterity & grip",
+      "Resistance to    A: Methanol",
+      "J: n-Heptane",
+      "K: Sodium Hydroxide 40%",
+      "L: Sulphuric Acid 96%"
+    ],
+    "suitableFor": [
+      "Janitorial",
+      "Chemical Handling",
+      "Cleaning Industry",
+      "Environmental Clean-up"
+    ],
+    "standards": [
+      "EN 388 (4",
+      "1",
+      "2",
+      "1",
+      "X)",
+      "EN 374-1 TYPE B (AJKL)",
+      "EN 374-5"
+    ],
+    "colours": ["Green"],
+    "sizes": ["9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-ULTICHEM-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/ultichem-600x600-1.jpg",
+      "fileName": "ultichem-600x600-1.jpg",
+      "altText": "Ulti-Chem Chemical Glove",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

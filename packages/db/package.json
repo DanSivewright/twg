@@ -13,7 +13,9 @@
     "db:push": "drizzle-kit push",
     "db:generate": "drizzle-kit generate",
     "db:studio": "drizzle-kit studio",
-    "db:migrate": "drizzle-kit migrate"
+    "db:migrate": "drizzle-kit migrate",
+    "db:seed": "tsx src/seed/run.ts",
+    "db:scrape": "tsx src/seed/scrape-dromex-catalog.ts"
   },
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
@@ -25,6 +27,7 @@
   "devDependencies": {
     "@twg/config": "workspace:*",
     "drizzle-kit": "^0.31.8",
+    "tsx": "^4.20.5",
     "typescript": "catalog:"
   }
 }

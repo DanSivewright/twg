@@ -1,0 +1,47 @@
+{
+  "slug": "28-cal-arc-ergos-intec-helmet",
+  "title": "28 Cal Arc Ergos Intec Helmet",
+  "productCode": "ARC ERGOS-INTEC",
+  "shortDescription": "Electrically insulated helmet with integrated retractable visor & chin protection. Provides safety against thermal hazards of an electric arc & projected droplets of molten metal. Electrical insulation 1000V AC & 1500V DC",
+  "description": "Electrically insulated helmet with integrated retractable visor & chin protection. Provides safety against thermal hazards of an electric arc & projected droplets of molten metal. Electrical insulation 1000V AC & 1500V DC",
+  "sourceUrl": "https://dromex.co.za/product/28-cal-arc-ergos-intec-helmet/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Electrically insulated helmet with integrated retractable visor & chin protection",
+      "Provides safety against thermal hazards of an electric arc & projected droplets of molten metal",
+      "Electrical insulation 1000V AC & 1500V DC",
+      "ATPV 28 cal/cm2"
+    ],
+    "suitableFor": [],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "ARC ERGOS-INTEC-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/arc_white_helmet-600x600-1.jpg",
+      "fileName": "arc_white_helmet-600x600-1.jpg",
+      "altText": "28 Cal Arc Ergos Intec Helmet",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/arc_white_helmet_shield-600x600-1.jpg",
+      "fileName": "arc_white_helmet_shield-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

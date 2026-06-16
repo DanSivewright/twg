@@ -1,0 +1,85 @@
+{
+  "categorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "sourceUrl": "https://dromex.co.za/product-category/head-and-face/hearing/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "banded-re-usable-earplugs",
+      "title": "Banded Re Usable Earplugs",
+      "productCode": "EG-3301B",
+      "sourceUrl": "https://dromex.co.za/product/banded-re-usable-earplugs/"
+    },
+    {
+      "slug": "blue-corded-re-usable-earplugs",
+      "title": "Blue Corded Re Usable Earplugs",
+      "productCode": "DR-118C",
+      "sourceUrl": "https://dromex.co.za/product/blue-corded-re-usable-earplugs/"
+    },
+    {
+      "slug": "boxed-re-usable-earplugs",
+      "title": "Boxed Re Usable Earplugs",
+      "productCode": "DR-090CI",
+      "sourceUrl": "https://dromex.co.za/product/boxed-re-usable-earplugs/"
+    },
+    {
+      "slug": "classic-ear-muff",
+      "title": "Classic Ear Muff",
+      "productCode": "CEM",
+      "sourceUrl": "https://dromex.co.za/product/classic-ear-muff/"
+    },
+    {
+      "slug": "detectable-re-usable-earplugs",
+      "title": "Detectable Re Usable Earplugs",
+      "productCode": "DR-090CDET",
+      "sourceUrl": "https://dromex.co.za/product/detectable-re-usable-earplugs/"
+    },
+    {
+      "slug": "disposable-corded-earplugs",
+      "title": "Disposable Corded Earplugs",
+      "productCode": "DR-099C",
+      "sourceUrl": "https://dromex.co.za/product/disposable-corded-earplugs/"
+    },
+    {
+      "slug": "dr-098-disposable-foam-ear-plugs",
+      "title": "Dr 098 Disposable Foam Ear Plugs",
+      "productCode": "DR-098",
+      "sourceUrl": "https://dromex.co.za/product/dr-098-disposable-foam-ear-plugs/"
+    },
+    {
+      "slug": "dr-098c-disposable-foam-ear-plugs-corded",
+      "title": "Dr 098c Disposable Foam Ear Plugs Corded",
+      "productCode": "DR-098C",
+      "sourceUrl": "https://dromex.co.za/product/dr-098c-disposable-foam-ear-plugs-corded/"
+    },
+    {
+      "slug": "ear-pulg-dispenser",
+      "title": "Ear Pulg Dispenser",
+      "productCode": "DRO30-DISP",
+      "sourceUrl": "https://dromex.co.za/product/ear-pulg-dispenser/"
+    },
+    {
+      "slug": "green-corded-re-usable-earplugs",
+      "title": "Green Corded Re Usable Earplugs",
+      "productCode": "DR-090C",
+      "sourceUrl": "https://dromex.co.za/product/green-corded-re-usable-earplugs/"
+    },
+    {
+      "slug": "interex-ear-muffs",
+      "title": "Interex Ear Muffs",
+      "productCode": "INTEREX",
+      "sourceUrl": "https://dromex.co.za/product/interex-ear-muffs/"
+    },
+    {
+      "slug": "junior-ear-muffs",
+      "title": "Junior Ear Muffs",
+      "productCode": "JM-B",
+      "sourceUrl": "https://dromex.co.za/product/junior-ear-muffs/"
+    },
+    {
+      "slug": "dr-099c-disposable-foam-ear-plugs-corded",
+      "title": "Dr 099c Disposable Foam Ear Plugs Corded",
+      "productCode": "DR-099C",
+      "sourceUrl": "https://dromex.co.za/product/dr-099c-disposable-foam-ear-plugs-corded/"
+    }
+  ]
+}

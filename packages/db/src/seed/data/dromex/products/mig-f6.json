@@ -1,0 +1,47 @@
+{
+  "slug": "mig-f6",
+  "title": "MIG-F6",
+  "productCode": "DG-MIG-F6",
+  "shortDescription": "HDPE lining. High impact, abrasion, cut & tear resistance. High visibility TPR (Thermo Plastic Rubber)",
+  "description": "HDPE lining. High impact, abrasion, cut & tear resistance. High visibility TPR (Thermo Plastic Rubber)",
+  "sourceUrl": "https://dromex.co.za/product/mig-f6/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2024/08/technical-datasheet-mig-f6-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "specialised"]
+  ],
+  "attributes": {
+    "features": [
+      "HDPE lining",
+      "High impact, abrasion, cut & tear resistance",
+      "High visibility TPR (Thermo Plastic Rubber)",
+      "Hi-Viz TPR on back of fingers & thumb",
+      "Foamed padding on palm for anti-vibration",
+      "Multifunctional mechanical glove"
+    ],
+    "suitableFor": ["Mining", "Automotive Industry", "Outdoor Machinery"],
+    "composition": "Touch screen compatible high visibility, reusable, three-dimensional impact glove, with reinforced thumb crotch, nitrile palm coating and TPR (Thermo Plastic Rubber) finger and back of hand protection; Black and white HDPE combined with steel fiber and elastane; Black Micro fiber with EVA padding; Knuckle region, with TPR (Thermo Plastic Rubber); Adjustable Hook and Loop closure; 285g per glove (size 10)",
+    "standards": ["EN 388"],
+    "colours": ["Black"],
+    "sizes": ["8", "9", "10", "11", "12"]
+  },
+  "variants": [
+    {
+      "sku": "DG-MIG-F6-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2024/08/mig-6.png",
+      "fileName": "mig-6.png",
+      "altText": "MIG-F6",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

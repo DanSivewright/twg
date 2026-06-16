@@ -1,0 +1,115 @@
+{
+  "categorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "sourceUrl": "https://dromex.co.za/product-category/head-and-face/eyewear/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "black-pouch-bag",
+      "title": "Black Pouch Bag",
+      "productCode": "F-POUCH",
+      "sourceUrl": "https://dromex.co.za/product/black-pouch-bag/"
+    },
+    {
+      "slug": "classics",
+      "title": "Classics",
+      "productCode": "DV-55G-AF | DV-55C-AF",
+      "sourceUrl": "https://dromex.co.za/product/classics/"
+    },
+    {
+      "slug": "dv-11-wide-vision-goggles",
+      "title": "Dv 11 Wide Vision Goggles",
+      "productCode": "DV-11",
+      "sourceUrl": "https://dromex.co.za/product/dv-11-wide-vision-goggles/"
+    },
+    {
+      "slug": "dv-21-wide-vision-goggles",
+      "title": "Dv 21 Wide Vision Goggles",
+      "productCode": "DV-21",
+      "sourceUrl": "https://dromex.co.za/product/dv-21-wide-vision-goggles/"
+    },
+    {
+      "slug": "euro",
+      "title": "Euro",
+      "productCode": "DV-026-C / DV-026-C-AF | DV-026-G | DV-026-A | DV-026-GN",
+      "sourceUrl": "https://dromex.co.za/product/euro/"
+    },
+    {
+      "slug": "focus",
+      "title": "Focus",
+      "productCode": "DV-894G-AF-R | DV-894G-AF-B | DV-894G-AF-Y",
+      "sourceUrl": "https://dromex.co.za/product/focus/"
+    },
+    {
+      "slug": "green-retainer-cord",
+      "title": "Green Retainer Cord",
+      "productCode": "8A-G",
+      "sourceUrl": "https://dromex.co.za/product/green-retainer-cord/"
+    },
+    {
+      "slug": "maxi-view-goggles",
+      "title": "Maxi View Goggles",
+      "productCode": "DV-004MAX",
+      "sourceUrl": "https://dromex.co.za/product/maxi-view-goggles/"
+    },
+    {
+      "slug": "spoggle",
+      "title": "Spoggle",
+      "productCode": "DV-326B-C-AF | DV-326B-G-AF",
+      "sourceUrl": "https://dromex.co.za/product/spoggle/"
+    },
+    {
+      "slug": "sporty",
+      "title": "Sporty",
+      "productCode": "DV-12C / AF | DV-12G | DV-12A-AF | DV-12GN | DV-12M (Mirror)",
+      "sourceUrl": "https://dromex.co.za/product/sporty/"
+    },
+    {
+      "slug": "sporty-cool",
+      "title": "Sporty Cool",
+      "productCode": "DV-353C-AFL | DV-353C-AFB | DV-353C-AFR",
+      "sourceUrl": "https://dromex.co.za/product/sporty-cool/"
+    },
+    {
+      "slug": "welding",
+      "title": "Welding",
+      "productCode": "DV-026-IR3",
+      "sourceUrl": "https://dromex.co.za/product/welding/"
+    },
+    {
+      "slug": "welding-ir5",
+      "title": "Welding Ir5",
+      "productCode": "DV-026-IR5",
+      "sourceUrl": "https://dromex.co.za/product/welding-ir5/"
+    },
+    {
+      "slug": "welding-goggles",
+      "title": "Welding Goggles",
+      "productCode": "DV-GW5",
+      "sourceUrl": "https://dromex.co.za/product/welding-goggles/"
+    },
+    {
+      "slug": "wildland-goggles",
+      "title": "Wildland Goggles",
+      "productCode": "DV-EF20B",
+      "sourceUrl": "https://dromex.co.za/product/wildland-goggles/"
+    },
+    {
+      "slug": "wire-mesh",
+      "title": "Wire Mesh",
+      "productCode": "DV-504",
+      "sourceUrl": "https://dromex.co.za/product/wire-mesh/"
+    },
+    {
+      "slug": "wrap-arounds",
+      "title": "Wrap Arounds",
+      "productCode": "DV-1C | DV-1A | DV-1GN",
+      "sourceUrl": "https://dromex.co.za/product/wrap-arounds/"
+    },
+    {
+      "slug": "arc-goggle",
+      "title": "Arc Goggle",
+      "productCode": "DV-AVG2B",
+      "sourceUrl": "https://dromex.co.za/product/arc-goggle/"
+    }
+  ]
+}

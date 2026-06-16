@@ -1,0 +1,53 @@
+{
+  "slug": "dh-302-reusable-half-mask",
+  "title": "DH-302 Reusable Half Mask",
+  "productCode": "DH-302",
+  "shortDescription": "A durable ABS yoke. A TPR (Thermo Plastic \nRubber Elastomer) body providing a soft seal on the face. A fixed,stitched dual elastic head band",
+  "description": "A durable ABS yoke. A TPR (Thermo Plastic \nRubber Elastomer) body providing a soft seal on the face. A fixed,stitched dual elastic head band",
+  "sourceUrl": "https://dromex.co.za/product/dh-302-reusable-half-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2025/01/technical-datasheet-dh302-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]],
+  "attributes": {
+    "features": [
+      "A durable ABS yoke",
+      "A TPR (Thermo Plastic \nRubber Elastomer) body providing a soft seal on the face",
+      "A fixed,stitched dual elastic head band",
+      "Pressure-correct skull cradle and large \nquick release toggles for easy donning and doffing"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Agriculture",
+      "Oil & Gas Industry",
+      "Welding",
+      "Foundry",
+      "Metal Fabrication",
+      "Chemical Industry",
+      "Steel Foundry",
+      "Smelting Operations"
+    ],
+    "composition": "Soft TPR (Thermo Plastic Rubber)",
+    "standards": ["NRCS/8072/0413   EN 143 &amp; EN 14387"],
+    "colours": ["Black"],
+    "sizes": ["Small, Medium &amp; Large"]
+  },
+  "variants": [
+    {
+      "sku": "DH-302-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2025/01/dh-302.png",
+      "fileName": "dh-302.png",
+      "altText": "DH-302 Reusable Half Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

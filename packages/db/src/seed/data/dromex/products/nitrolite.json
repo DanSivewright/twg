@@ -1,0 +1,50 @@
+{
+  "slug": "nitrolite",
+  "title": "Nitrolite",
+  "productCode": "NITROLITE",
+  "shortDescription": "High abrasion. Oil solvent resistance. High dexterity",
+  "description": "High abrasion. Oil solvent resistance. High dexterity",
+  "sourceUrl": "https://dromex.co.za/product/nitrolite/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-nitrile-palm-coated-gloves-nitrolite.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High abrasion",
+      "Oil solvent resistance",
+      "High dexterity",
+      "Grey nitrile palm coated",
+      "Nylon seamless shell",
+      "Composite knitted wrist"
+    ],
+    "suitableFor": ["General use", "Engineering", "Workshops"],
+    "composition": "Grey nitrile palm coated; Nylon seamless shell; Composite knitted wrist",
+    "standards": ["EN 388"],
+    "colours": ["White"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "NITROLITE-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nitrolite-600x600-1.jpg",
+      "fileName": "dromex_gloves_nitrolite-600x600-1.jpg",
+      "altText": "Nitrolite",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

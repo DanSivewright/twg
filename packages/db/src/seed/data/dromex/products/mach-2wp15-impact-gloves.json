@@ -1,0 +1,51 @@
+{
+  "slug": "mach-2wp15-impact-gloves",
+  "title": "Mach 2WP15 Impact Gloves",
+  "productCode": "DG-MACH-2WP15",
+  "shortDescription": "Maximum dexterity & high grip performance. Back of hand impact protection. Provides optimum balance between flexibility & impact dispersion",
+  "description": "Maximum dexterity & high grip performance. Back of hand impact protection. Provides optimum balance between flexibility & impact dispersion",
+  "sourceUrl": "https://dromex.co.za/product/mach-2wp15-impact-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-mach-impact-gloves-mach-2wp.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Maximum dexterity & high grip performance",
+      "Back of hand impact protection",
+      "Provides optimum balance between flexibility & impact dispersion",
+      "Waterproof"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Agriculture",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Assembly Industries and Plants",
+      "Heavy Machinery",
+      "Industrial Handling & Packaging",
+      "Landscaping"
+    ],
+    "composition": "Yellow TPR (Thermo Plastic Rubber) ribs to absorb the energy of a blow & redirect it along the length of the glove; Synthetic leather on the palm with raised PVC dots for added grip and life of glove; Neoprene cuff provides added wrist protection",
+    "colours": ["Orange"],
+    "sizes": ["L"]
+  },
+  "variants": [
+    {
+      "sku": "DG-MACH-2WP15-1",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_mach2-600x600-1.jpg",
+      "fileName": "dromex_gloves_mach2-600x600-1.jpg",
+      "altText": "Mach 2WP15 Impact Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

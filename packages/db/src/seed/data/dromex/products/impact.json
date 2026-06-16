@@ -1,0 +1,61 @@
+{
+  "slug": "impact",
+  "title": "Impact",
+  "productCode": "52LSTPV",
+  "shortDescription": "100% Cut5 fibre. Innovative TPV impact protection. PU dipped palm",
+  "description": "100% Cut5 fibre. Innovative TPV impact protection. PU dipped palm",
+  "sourceUrl": "https://dromex.co.za/product/impact/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-IMPACT-GLOVE-52LSTPV-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "specialised"]
+  ],
+  "attributes": {
+    "features": [
+      "100% Cut5 fibre",
+      "Innovative TPV impact protection",
+      "PU dipped palm",
+      "Seamless ergonomic liner",
+      "Velcro closing for enhanced fit",
+      "Composite knitted wrist",
+      "High abrasion & puncture resistance",
+      "High cut & tear resistance",
+      "High impact protection",
+      "TPV impact protection",
+      "Enhanced dexterity & flexibilty",
+      "Good grip"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Industrial Handling & Packaging",
+      "Landscaping",
+      "Assembly Industry & Plants",
+      "Heavy Machinery Equipment Operations"
+    ],
+    "composition": "100% Taeki5 fibre; Innovative TPV impact protection; Ultra grip HCT palm coating; Seamless ergonomic liner; Velcro closing for enhanced fit",
+    "standards": ["EN 388: 4442CP"],
+    "colours": ["Lime"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "52LSTPV-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/52LSTPV_HR-768x1152-1.jpg",
+      "fileName": "52LSTPV_HR-768x1152-1.jpg",
+      "altText": "Impact",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

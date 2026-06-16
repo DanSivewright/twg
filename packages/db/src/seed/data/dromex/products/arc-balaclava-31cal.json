@@ -1,0 +1,45 @@
+{
+  "slug": "arc-balaclava-31cal",
+  "title": "Arc Balaclava 31Cal",
+  "productCode": "DW-ARC31-BAL-DBL",
+  "shortDescription": "100% Meta-Aramid. Double layer: 406gsm fabric. Flame retardant thread throughout",
+  "description": "100% Meta-Aramid. Double layer: 406gsm fabric. Flame retardant thread throughout",
+  "sourceUrl": "https://dromex.co.za/product/arc-balaclava-31cal/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "100% Meta-Aramid",
+      "Double layer: 406gsm fabric",
+      "Flame retardant thread throughout",
+      "Lightweight & breathable"
+    ],
+    "suitableFor": [
+      "Petrochemical Industry",
+      "Electrical & Gas Utility",
+      "Chemical Processing"
+    ],
+    "composition": "190gsm 100% Meta-Aramid",
+    "colours": ["Navy Blue"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DW-ARC31-BAL-DBL-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/arc-balaclava-31-600x600-1.jpg",
+      "fileName": "arc-balaclava-31-600x600-1.jpg",
+      "altText": "Arc Balaclava 31Cal",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

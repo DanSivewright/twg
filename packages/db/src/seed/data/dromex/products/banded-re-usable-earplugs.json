@@ -1,0 +1,35 @@
+{
+  "slug": "banded-re-usable-earplugs",
+  "title": "Banded Re-usable Earplugs",
+  "productCode": "EG-3301B",
+  "shortDescription": "Hi-visibility blue triple flange TPR ear plugs",
+  "description": "Hi-visibility blue triple flange TPR ear plugs",
+  "sourceUrl": "https://dromex.co.za/product/banded-re-usable-earplugs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-banded-re-usable-ear-plugs-eg3301b.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": ["Hi-visibility blue triple flange TPR ear plugs"],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "H=28 bB, M=25 dB, L=25 dB); SNR 28 dB",
+    "colours": ["Royal Blue"]
+  },
+  "variants": [
+    {
+      "sku": "EG-3301B-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hearing-re-usable-dh-eg3301-product-img.jpeg",
+      "fileName": "hearing-re-usable-dh-eg3301-product-img.jpeg",
+      "altText": "Banded Re-usable Earplugs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

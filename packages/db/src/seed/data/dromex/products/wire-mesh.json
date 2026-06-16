@@ -1,0 +1,38 @@
+{
+  "slug": "wire-mesh",
+  "title": "Wire Mesh",
+  "productCode": "DV-504",
+  "shortDescription": "Metal wire mesh dual lens. Clear polycarbonate & removable side protectors & vinyl  adjustable temples",
+  "description": "Metal wire mesh dual lens. Clear polycarbonate & removable side protectors & vinyl  adjustable temples",
+  "sourceUrl": "https://dromex.co.za/product/wire-mesh/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-wire-mesh-spectacle.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Metal wire mesh dual lens",
+      "Clear polycarbonate & removable side protectors & vinyl  adjustable temples"
+    ],
+    "suitableFor": ["Mining", "Woodworking", "Forestry", "Carpentry"],
+    "standards": ["EN 1731"],
+    "colours": ["Blue"]
+  },
+  "variants": [
+    {
+      "sku": "DV-504-1",
+      "size": null,
+      "colour": "Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/wire-mesh.jpg",
+      "fileName": "wire-mesh.jpg",
+      "altText": "Wire Mesh",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

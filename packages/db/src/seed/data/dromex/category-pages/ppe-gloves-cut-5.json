@@ -1,0 +1,103 @@
+{
+  "categorySlugPath": ["ppe", "gloves", "cut-5"],
+  "sourceUrl": "https://dromex.co.za/product-category/gloves/cut-5/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "camo",
+      "title": "Camo",
+      "productCode": "52J",
+      "sourceUrl": "https://dromex.co.za/product/camo/"
+    },
+    {
+      "slug": "chemical",
+      "title": "Chemical",
+      "productCode": "57H201B",
+      "sourceUrl": "https://dromex.co.za/product/chemical/"
+    },
+    {
+      "slug": "chemical-plus",
+      "title": "Chemical Plus",
+      "productCode": "57H201PLUS",
+      "sourceUrl": "https://dromex.co.za/product/chemical-plus/"
+    },
+    {
+      "slug": "food-series",
+      "title": "Food Series",
+      "productCode": "55LF",
+      "sourceUrl": "https://dromex.co.za/product/food-series/"
+    },
+    {
+      "slug": "impact",
+      "title": "Impact",
+      "productCode": "52LSTPV",
+      "sourceUrl": "https://dromex.co.za/product/impact/"
+    },
+    {
+      "slug": "latex-coated",
+      "title": "Latex Coated",
+      "productCode": "59YSP",
+      "sourceUrl": "https://dromex.co.za/product/latex-coated/"
+    },
+    {
+      "slug": "mach-777",
+      "title": "Mach 777",
+      "productCode": "MACH-777",
+      "sourceUrl": "https://dromex.co.za/product/mach-777/"
+    },
+    {
+      "slug": "mig-f6",
+      "title": "MIG-F6",
+      "productCode": "DG-MIG-F6",
+      "sourceUrl": "https://dromex.co.za/product/mig-f6/"
+    },
+    {
+      "slug": "mach-mechanic",
+      "title": "Mach Mechanic",
+      "productCode": "MACH100WP",
+      "sourceUrl": "https://dromex.co.za/product/mach-mechanic/"
+    },
+    {
+      "slug": "mach30wp",
+      "title": "Mach30WP",
+      "productCode": "MACH-30WP",
+      "sourceUrl": "https://dromex.co.za/product/mach30wp/"
+    },
+    {
+      "slug": "cut-5-hfm606-glove",
+      "title": "Cut 6 HFM606 Glove",
+      "productCode": "DG-HFM606",
+      "sourceUrl": "https://dromex.co.za/product/cut-5-hfm606-glove/"
+    },
+    {
+      "slug": "mechanical",
+      "title": "Mechanical",
+      "productCode": "HFM305",
+      "sourceUrl": "https://dromex.co.za/product/mechanical/"
+    },
+    {
+      "slug": "nitrile-coated",
+      "title": "Nitrile Coated",
+      "productCode": "#57",
+      "sourceUrl": "https://dromex.co.za/product/nitrile-coated/"
+    },
+    {
+      "slug": "seamless",
+      "title": "Seamless",
+      "productCode": "55M-Y",
+      "sourceUrl": "https://dromex.co.za/product/seamless/"
+    },
+    {
+      "slug": "sleeves",
+      "title": "Sleeves",
+      "productCode": "50-135-TY",
+      "sourceUrl": "https://dromex.co.za/product/sleeves/"
+    },
+    {
+      "slug": "full-length-sleeves",
+      "title": "Full Length Sleeves",
+      "productCode": "50-60THV",
+      "sourceUrl": "https://dromex.co.za/product/full-length-sleeves/"
+    }
+  ]
+}

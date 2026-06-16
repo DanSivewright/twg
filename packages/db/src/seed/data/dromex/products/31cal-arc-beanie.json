@@ -1,0 +1,53 @@
+{
+  "slug": "31cal-arc-beanie",
+  "title": "31Cal Arc Beanie",
+  "productCode": "DW-ARC31BEAN",
+  "shortDescription": "Double layer construction for insulation and warmth.. Pleated crown area for a snug fit on the head.. It is lightweight with a high cotton content which improves breathability.",
+  "description": "Double layer construction for insulation and warmth.. Pleated crown area for a snug fit on the head.. It is lightweight with a high cotton content which improves breathability.",
+  "sourceUrl": "https://dromex.co.za/product/31cal-arc-beanie/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Double layer construction for insulation and warmth.",
+      "Pleated crown area for a snug fit on the head.",
+      "It is lightweight with a high cotton content which improves breathability.",
+      "Centre front with ATPV 31 cal/cm² embroidery for accessory suitability identification.",
+      "Dromex Arc sidewinder on the right hand side of beanie."
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Petroleum Service Industry",
+      "Manufacturing",
+      "Automotive Industry",
+      "Substations",
+      "Switchrooms",
+      "Utilities",
+      "Power Generators",
+      "Data Centres"
+    ],
+    "composition": "Dromex® A.P.T™ 88/12 FR (flame retardant) interlock stretch fabric",
+    "colours": ["Navy Blue"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DW-ARC31BEAN-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/arc-beanie-600x600-1.jpg",
+      "fileName": "arc-beanie-600x600-1.jpg",
+      "altText": "31Cal Arc Beanie",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

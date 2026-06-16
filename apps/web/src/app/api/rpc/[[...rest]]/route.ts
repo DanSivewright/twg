@@ -4,8 +4,8 @@ import { onError } from "@orpc/server";
 import { RPCHandler } from "@orpc/server/fetch";
 import { ZodToJsonSchemaConverter } from "@orpc/zod/zod4";
 import { createContext } from "@twg/api/context";
-import { appRouter } from "@twg/api/routers/index";
-import { NextRequest } from "next/server";
+import { appRouter } from "@twg/api/routers";
+import type { NextRequest } from "next/server";
 
 import { withEvlog } from "@/lib/evlog";
 import { identifyEvlogUser } from "@/lib/evlog-auth";
@@ -36,13 +36,17 @@ async function handleRequest(req: NextRequest) {
     prefix: "/api/rpc",
     context: await createContext(req),
   });
-  if (rpcResult.response) return rpcResult.response;
+  if (rpcResult.response) {
+    return rpcResult.response;
+  }
 
   const apiResult = await apiHandler.handle(req, {
     prefix: "/api/rpc/api-reference",
     context: await createContext(req),
   });
-  if (apiResult.response) return apiResult.response;
+  if (apiResult.response) {
+    return apiResult.response;
+  }
 
   return new Response("Not found", { status: 404 });
 }

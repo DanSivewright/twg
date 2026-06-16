@@ -1,0 +1,44 @@
+{
+  "slug": "junior-ear-muffs",
+  "title": "Junior Ear Muffs",
+  "productCode": "JM-B",
+  "shortDescription": "The original class leading ear defender. Designed with comfort in mind. Light weight and robust design",
+  "description": "The original class leading ear defender. Designed with comfort in mind. Light weight and robust design",
+  "sourceUrl": "https://dromex.co.za/product/junior-ear-muffs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/12/technical-datasheet-junior-muff.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "The original class leading ear defender",
+      "Designed with comfort in mind",
+      "Light weight and robust design",
+      "Self adjusting ABS cups",
+      "oft foam cushions for all day comfort",
+      "Suitable for light industrial duty and outdoor construction",
+      "Used under hard hat or around the neck",
+      "Adjustable rotational cup"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "Universal ear ABS muffs",
+    "colours": ["Blue"]
+  },
+  "variants": [
+    {
+      "sku": "JM-B-1",
+      "size": null,
+      "colour": "Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/12/hearing-junior-muff-product-img-600x600-1.jpg",
+      "fileName": "hearing-junior-muff-product-img-600x600-1.jpg",
+      "altText": "Junior Ear Muffs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

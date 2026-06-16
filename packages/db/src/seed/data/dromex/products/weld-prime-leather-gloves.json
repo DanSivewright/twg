@@ -1,0 +1,44 @@
+{
+  "slug": "weld-prime-leather-gloves",
+  "title": "Weld Prime Leather Gloves",
+  "productCode": "DG-WELD/PRIME",
+  "shortDescription": "High abrasion resistance. High cut resistance. High contact protection",
+  "description": "High abrasion resistance. High cut resistance. High contact protection",
+  "sourceUrl": "https://dromex.co.za/product/weld-prime-leather-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-weld-prime-leather-gloves-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "leather"]
+  ],
+  "attributes": {
+    "features": [
+      "High abrasion resistance",
+      "High cut resistance",
+      "High contact protection",
+      "Heat resistance"
+    ],
+    "suitableFor": ["Welding"],
+    "composition": "Gunn cut; Reinforced & fully welted; Yellow cotton fleece liner; Thumb yoke reinforcing; 16 inch green split leather cuff",
+    "colours": ["Green"],
+    "sizes": ["10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-WELD/PRIME-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_weldprime-600x600-1.jpg",
+      "fileName": "dromex_gloves_weldprime-600x600-1.jpg",
+      "altText": "Weld Prime Leather Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

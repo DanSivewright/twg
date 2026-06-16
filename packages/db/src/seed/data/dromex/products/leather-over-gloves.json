@@ -1,0 +1,46 @@
+{
+  "slug": "leather-over-gloves",
+  "title": "Leather Over Gloves",
+  "productCode": "DG-OV",
+  "shortDescription": "Protects the Dromex® Thor Electrical Insulating Gloves from potential hazards such as cut, abrasion, tear, puncture and flame.. Adjustable Velcro strap. Flexible & water repellent",
+  "description": "Protects the Dromex® Thor Electrical Insulating Gloves from potential hazards such as cut, abrasion, tear, puncture and flame.. Adjustable Velcro strap. Flexible & water repellent",
+  "sourceUrl": "https://dromex.co.za/product/leather-over-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dg-ov-leather-over-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "leather"]
+  ],
+  "attributes": {
+    "features": [
+      "Protects the Dromex® Thor Electrical Insulating Gloves from potential hazards such as cut, abrasion, tear, puncture and flame.",
+      "Adjustable Velcro strap",
+      "Flexible & water repellent",
+      "13cm chrome leather cuff",
+      "High resistance to flammability",
+      "Reinforced keystone thumb and welted seams construction on the two middle fingers"
+    ],
+    "suitableFor": [],
+    "composition": "Grade A Cow grain leather; Dupont Kevlar thread",
+    "colours": ["Orange"],
+    "sizes": ["S/M &amp; L/XL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-OV-1",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/over-glove-600x600-1.jpg",
+      "fileName": "over-glove-600x600-1.jpg",
+      "altText": "Leather Over Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

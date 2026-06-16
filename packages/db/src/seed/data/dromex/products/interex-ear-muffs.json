@@ -1,0 +1,41 @@
+{
+  "slug": "interex-ear-muffs",
+  "title": "INTEREX EAR MUFFS",
+  "productCode": "INTEREX",
+  "shortDescription": "EU slotted Unique DROMEX connector that fits all hard hats. Large twin point mounted cups with soft foam cushions. Easy to attach & detatch with spring loaded arms",
+  "description": "EU slotted Unique DROMEX connector that fits all hard hats. Large twin point mounted cups with soft foam cushions. Easy to attach & detatch with spring loaded arms",
+  "sourceUrl": "https://dromex.co.za/product/interex-ear-muffs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-interex-ear-muffs.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "EU slotted Unique DROMEX connector that fits all hard hats",
+      "Large twin point mounted cups with soft foam cushions",
+      "Easy to attach & detatch with spring loaded arms",
+      "Steel arms maintain a constant & even pressure",
+      "Adjustable cup for optimum comfort & fit"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "H=31 dB, M=26 dB, L=19 dB; SNR 28 dB",
+    "colours": ["Yellow"]
+  },
+  "variants": [
+    {
+      "sku": "INTEREX-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/interex-ear-muffs-1.jpeg",
+      "fileName": "interex-ear-muffs-1.jpeg",
+      "altText": "INTEREX EAR MUFFS",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

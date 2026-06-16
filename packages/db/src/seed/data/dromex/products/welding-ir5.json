@@ -1,0 +1,42 @@
+{
+  "slug": "welding-ir5",
+  "title": "Welding &#8211; IR5",
+  "productCode": "DV-026-IR5",
+  "shortDescription": "Polycarbonate mono lens. Black vinyl adjustable temples. Ergonomic design to fit snug with the face contour",
+  "description": "Polycarbonate mono lens. Black vinyl adjustable temples. Ergonomic design to fit snug with the face contour",
+  "sourceUrl": "https://dromex.co.za/product/welding-ir5/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/12/technical-datasheet-euro-weld-spectacles.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Polycarbonate mono lens",
+      "Black vinyl adjustable temples",
+      "Ergonomic design to fit snug with the face contour",
+      "Compatible with respiratory equipment",
+      "Scratch resistant lens",
+      "180° lateral vision"
+    ],
+    "suitableFor": ["Welding"],
+    "standards": ["EN166 F CE | IR5: 5DV1F"],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DV-026-IR5-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/welding-ir5.jpg",
+      "fileName": "welding-ir5.jpg",
+      "altText": "Welding &#8211; IR5",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

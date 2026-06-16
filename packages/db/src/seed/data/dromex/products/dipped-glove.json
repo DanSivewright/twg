@@ -1,0 +1,48 @@
+{
+  "slug": "dipped-glove",
+  "title": "Dipped Glove",
+  "productCode": "DG-58SC",
+  "shortDescription": "High Abrasion Resistance. High Contact Protection. High Cut Resistance",
+  "description": "High Abrasion Resistance. High Contact Protection. High Cut Resistance",
+  "sourceUrl": "https://dromex.co.za/product/dipped-glove/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-DIPPED-GLOVE-58SC.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High Abrasion Resistance",
+      "High Contact Protection",
+      "High Cut Resistance",
+      "High Grip Power",
+      "Colour UV Resistance"
+    ],
+    "suitableFor": [],
+    "composition": "100% Dromex Cut5 fibre",
+    "standards": ["EN 388: 4543", "EN 407: X2XXX"],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DG-58SC-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/58SC_HR-768x768-1.jpg",
+      "fileName": "58SC_HR-768x768-1.jpg",
+      "altText": "Dipped Glove",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

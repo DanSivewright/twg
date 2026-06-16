@@ -1,0 +1,48 @@
+{
+  "slug": "mach-4-meta-mine-impact-gloves",
+  "title": "Mach 4 Meta Mine Impact Gloves",
+  "productCode": "DG-MACH-4",
+  "shortDescription": "Flexible Accordion style foam padded channels on back. Thermal Plastic Rubber on back of fingers & thumb. Anti-slip palm",
+  "description": "Flexible Accordion style foam padded channels on back. Thermal Plastic Rubber on back of fingers & thumb. Anti-slip palm",
+  "sourceUrl": "https://dromex.co.za/product/mach-4-meta-mine-impact-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-mach-meta-mine-impact-gloves-mach4-6-2.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Flexible Accordion style foam padded channels on back",
+      "Thermal Plastic Rubber on back of fingers & thumb",
+      "Anti-slip palm",
+      "Fluorescent orange spandex back for safety",
+      "Highly reflective knuckle strip with an ergonomic design reducing hand fatique",
+      "Extended neoprene cuff with an adjustable wrist tab & loop"
+    ],
+    "suitableFor": [
+      "Mechanics",
+      "Machine and Equipment Operators",
+      "General Warehouse Use",
+      "Strip Miners"
+    ],
+    "composition": "Meta compound technology",
+    "colours": ["Orange"],
+    "sizes": ["8", "9", "10", "11", "12"]
+  },
+  "variants": [
+    {
+      "sku": "DG-MACH-4-1",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_mach4-600x600-1.jpg",
+      "fileName": "dromex_gloves_mach4-600x600-1.jpg",
+      "altText": "Mach 4 Meta Mine Impact Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

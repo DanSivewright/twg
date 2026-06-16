@@ -1,0 +1,85 @@
+{
+  "categorySlugPath": ["ppe", "head-and-face", "head"],
+  "sourceUrl": "https://dromex.co.za/product-category/head-and-face/head/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "28-cal-arc-ergos-intec-helmet",
+      "title": "28 Cal Arc Ergos Intec Helmet",
+      "productCode": "ARC ERGOS-INTEC",
+      "sourceUrl": "https://dromex.co.za/product/28-cal-arc-ergos-intec-helmet/"
+    },
+    {
+      "slug": "31cal-arc-beanie",
+      "title": "31cal Arc Beanie",
+      "productCode": "DW-ARC31BEAN",
+      "sourceUrl": "https://dromex.co.za/product/31cal-arc-beanie/"
+    },
+    {
+      "slug": "aramid-balaclava",
+      "title": "Aramid Balaclava",
+      "productCode": "DW-BALA(S or D) - (NB or OM)",
+      "sourceUrl": "https://dromex.co.za/product/aramid-balaclava/"
+    },
+    {
+      "slug": "arc-balaclava-31cal",
+      "title": "Arc Balaclava 31cal",
+      "productCode": "DW-ARC31-BAL-DBL",
+      "sourceUrl": "https://dromex.co.za/product/arc-balaclava-31cal/"
+    },
+    {
+      "slug": "arc-balaclava-9-9cal",
+      "title": "Arc Balaclava 9 9cal",
+      "productCode": "DW-ARC9.9-BAL-S",
+      "sourceUrl": "https://dromex.co.za/product/arc-balaclava-9-9cal/"
+    },
+    {
+      "slug": "arc-hard-hat",
+      "title": "Arc Hard Hat",
+      "productCode": "DH-ARCHHKW",
+      "sourceUrl": "https://dromex.co.za/product/arc-hard-hat/"
+    },
+    {
+      "slug": "bump-caps",
+      "title": "Bump Caps",
+      "productCode": "BUMPCAP",
+      "sourceUrl": "https://dromex.co.za/product/bump-caps/"
+    },
+    {
+      "slug": "d59-welders-hood",
+      "title": "D59 Welders Hood",
+      "productCode": "DW-D59FAWH-NB",
+      "sourceUrl": "https://dromex.co.za/product/d59-welders-hood/"
+    },
+    {
+      "slug": "ergos-2-3-plus-arc-visor",
+      "title": "Ergos 2 3 Plus Arc Visor",
+      "productCode": "ARC ERGOS",
+      "sourceUrl": "https://dromex.co.za/product/ergos-2-3-plus-arc-visor/"
+    },
+    {
+      "slug": "hard-hat-with-lamp-mount",
+      "title": "Hard Hat With Lamp Mount",
+      "productCode": "DH-HHCL-W",
+      "sourceUrl": "https://dromex.co.za/product/hard-hat-with-lamp-mount/"
+    },
+    {
+      "slug": "hard-hats",
+      "title": "Hard Hats",
+      "productCode": "DH-HH",
+      "sourceUrl": "https://dromex.co.za/product/hard-hats/"
+    },
+    {
+      "slug": "hh-carrier-visor",
+      "title": "Hh Carrier Visor",
+      "productCode": "DH-HHCARRIER",
+      "sourceUrl": "https://dromex.co.za/product/hh-carrier-visor/"
+    },
+    {
+      "slug": "martcare",
+      "title": "Martcare",
+      "productCode": "DH-MARTCARE",
+      "sourceUrl": "https://dromex.co.za/product/martcare/"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "cut-5-hfm606-glove",
+  "title": "Cut 6 HFM606 Glove",
+  "productCode": "DG-HFM606",
+  "shortDescription": "HCT Nitrile multilayer coating on palms & fingers. Excellent grip & resistance to oil. High cut & abrasion resistance",
+  "description": "HCT Nitrile multilayer coating on palms & fingers. Excellent grip & resistance to oil. High cut & abrasion resistance",
+  "sourceUrl": "https://dromex.co.za/product/cut-5-hfm606-glove/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2025/06/technical-datasheet-dg-hfm606-glove-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "HCT Nitrile multilayer coating on palms & fingers",
+      "Excellent grip & resistance to oil",
+      "High cut & abrasion resistance",
+      "High dexterity",
+      "High tear & puncture resistance",
+      "Compliant with OEKO-TEX® standard 100"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Glass & Steel",
+      "Chemical Handling"
+    ],
+    "standards": ["EN 388:2016 | ANSI CUT LEVEL 6"],
+    "colours": ["Grey"],
+    "sizes": ["XS - XXL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-HFM606-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2025/06/hfm606-2.png",
+      "fileName": "hfm606-2.png",
+      "altText": "Cut 6 HFM606 Glove",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

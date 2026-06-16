@@ -1,0 +1,103 @@
+{
+  "categorySlugPath": ["ppe", "gloves", "leather"],
+  "sourceUrl": "https://dromex.co.za/product-category/gloves/leather/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "15cm-premium-goatskin-leather-gloves",
+      "title": "15cm Premium Goatskin Leather Gloves",
+      "productCode": "DG-GOAT-15CMC",
+      "sourceUrl": "https://dromex.co.za/product/15cm-premium-goatskin-leather-gloves/"
+    },
+    {
+      "slug": "16-superior-lined-leather-gloves",
+      "title": "16 Superior Lined Leather Gloves",
+      "productCode": "DG-WELD/16GR",
+      "sourceUrl": "https://dromex.co.za/product/16-superior-lined-leather-gloves/"
+    },
+    {
+      "slug": "2-5-chrome-leather-dbl-palm-gloves",
+      "title": "2 5 Chrome Leather Dbl Palm Gloves",
+      "productCode": "DG-WELD/2.5",
+      "sourceUrl": "https://dromex.co.za/product/2-5-chrome-leather-dbl-palm-gloves/"
+    },
+    {
+      "slug": "2-5-superior-lined-leather-gloves",
+      "title": "2 5 Superior Lined Leather Gloves",
+      "productCode": "DG-WELD/2.5GR",
+      "sourceUrl": "https://dromex.co.za/product/2-5-superior-lined-leather-gloves/"
+    },
+    {
+      "slug": "6-chrome-leather-dbl-palm-gloves",
+      "title": "6 Chrome Leather Dbl Palm Gloves",
+      "productCode": "DG-WELD/6",
+      "sourceUrl": "https://dromex.co.za/product/6-chrome-leather-dbl-palm-gloves/"
+    },
+    {
+      "slug": "candy-stripe-gloves",
+      "title": "Candy Stripe Gloves",
+      "productCode": "DG-CANDY",
+      "sourceUrl": "https://dromex.co.za/product/candy-stripe-gloves/"
+    },
+    {
+      "slug": "premium-goatskin-leather-gloves",
+      "title": "Premium Goatskin Leather Gloves",
+      "productCode": "DG-GOAT-A",
+      "sourceUrl": "https://dromex.co.za/product/premium-goatskin-leather-gloves/"
+    },
+    {
+      "slug": "premium-leather-rigger-gloves",
+      "title": "Premium Leather Rigger Gloves",
+      "productCode": "DG-RIGGER/EXEC",
+      "sourceUrl": "https://dromex.co.za/product/premium-leather-rigger-gloves/"
+    },
+    {
+      "slug": "premium-pig-leather-gloves",
+      "title": "Premium Pig Leather Gloves",
+      "productCode": "DG-TIG",
+      "sourceUrl": "https://dromex.co.za/product/premium-pig-leather-gloves/"
+    },
+    {
+      "slug": "51-cal-leather-arc-gloves",
+      "title": "51 Cal Leather Arc Gloves",
+      "productCode": "DG-CA420",
+      "sourceUrl": "https://dromex.co.za/product/51-cal-leather-arc-gloves/"
+    },
+    {
+      "slug": "6%e2%80%b3-superior-lined-leather-gloves",
+      "title": "6%e2%80%b3 Superior Lined Leather Gloves",
+      "productCode": "DG-WELD/6GR",
+      "sourceUrl": "https://dromex.co.za/product/6%e2%80%b3-superior-lined-leather-gloves/"
+    },
+    {
+      "slug": "inferno-gloves",
+      "title": "Inferno Gloves",
+      "productCode": "DG-INFERNO",
+      "sourceUrl": "https://dromex.co.za/product/inferno-gloves/"
+    },
+    {
+      "slug": "leather-over-gloves",
+      "title": "Leather Over Gloves",
+      "productCode": "DG-OV",
+      "sourceUrl": "https://dromex.co.za/product/leather-over-gloves/"
+    },
+    {
+      "slug": "weld-blue-leather-gloves",
+      "title": "Weld Blue Leather Gloves",
+      "productCode": "DG-WELD/BLUE",
+      "sourceUrl": "https://dromex.co.za/product/weld-blue-leather-gloves/"
+    },
+    {
+      "slug": "weld-prime-leather-gloves",
+      "title": "Weld Prime Leather Gloves",
+      "productCode": "DG-WELD/PRIME",
+      "sourceUrl": "https://dromex.co.za/product/weld-prime-leather-gloves/"
+    },
+    {
+      "slug": "weld-red-leather-gloves",
+      "title": "Weld Red Leather Gloves",
+      "productCode": "DG-WELD/RED",
+      "sourceUrl": "https://dromex.co.za/product/weld-red-leather-gloves/"
+    }
+  ]
+}

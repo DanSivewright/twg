@@ -1,0 +1,56 @@
+{
+  "slug": "arc-goggle",
+  "title": "Arc Goggle",
+  "productCode": "DV-AVG2B",
+  "shortDescription": "An impact resistant lens, that is antifog, antistatic and UV resistant.. A lightweight, soft and durable PVC frame with nose shield for a comfortable  and protective fit and seal on the face.. Indirect ventilation points, protecting the eyes from high speed, high energy  impact particles, liquids and chemicals.",
+  "description": "An impact resistant lens, that is antifog, antistatic and UV resistant.. A lightweight, soft and durable PVC frame with nose shield for a comfortable  and protective fit and seal on the face.. Indirect ventilation points, protecting the eyes from high speed, high energy  impact particles, liquids and chemicals.",
+  "sourceUrl": "https://dromex.co.za/product/arc-goggle/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "An impact resistant lens, that is antifog, antistatic and UV resistant.",
+      "A lightweight, soft and durable PVC frame with nose shield for a comfortable  and protective fit and seal on the face.",
+      "Indirect ventilation points, protecting the eyes from high speed, high energy  impact particles, liquids and chemicals.",
+      "A large fire resistant adjustable headband for easy donning with gloves."
+    ],
+    "suitableFor": [
+      "Oil & Gas Industry",
+      "Electrical & Gas Utility",
+      "Substations",
+      "Switchrooms",
+      "Power Generators",
+      "Industrial Electrical Maintenance",
+      "Repairs of High Voltage Equipment"
+    ],
+    "composition": "Oil & Gas Industry; Electrical & Gas Utility; Substations; Switchrooms; Power Generators; Industrial Electrical Maintenance; Repairs of High Voltage Equipment",
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DV-AVG2B-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2024/12/arc-goggle.jpg",
+      "fileName": "arc-goggle.jpg",
+      "altText": "Arc Goggle",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2024/12/arc-goggle-1.jpg",
+      "fileName": "arc-goggle-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

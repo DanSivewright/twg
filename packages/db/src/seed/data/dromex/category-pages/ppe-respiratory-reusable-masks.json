@@ -1,0 +1,37 @@
+{
+  "categorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "sourceUrl": "https://dromex.co.za/product-category/respiratory/reusable-masks/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "dh-302-reusable-half-mask",
+      "title": "Dh 302 Reusable Half Mask",
+      "productCode": "DH-302",
+      "sourceUrl": "https://dromex.co.za/product/dh-302-reusable-half-mask/"
+    },
+    {
+      "slug": "single-half-mask",
+      "title": "Single Half Mask",
+      "productCode": "DH-101",
+      "sourceUrl": "https://dromex.co.za/product/single-half-mask/"
+    },
+    {
+      "slug": "pvc-twin-half-mask",
+      "title": "Pvc Twin Half Mask",
+      "productCode": "DH-102",
+      "sourceUrl": "https://dromex.co.za/product/pvc-twin-half-mask/"
+    },
+    {
+      "slug": "tpr-twin-half-mask",
+      "title": "Tpr Twin Half Mask",
+      "productCode": "DH-202",
+      "sourceUrl": "https://dromex.co.za/product/tpr-twin-half-mask/"
+    },
+    {
+      "slug": "full-face-mask",
+      "title": "Full Face Mask",
+      "productCode": "DH-FFM",
+      "sourceUrl": "https://dromex.co.za/product/full-face-mask/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "full-body-harness-complete",
+  "title": "Full Body Harness Complete",
+  "productCode": "DFA-PN21",
+  "shortDescription": "Polyester full body harness with adjustable chest & leg straps. Includes a Dorsal D-Ring for fall arrest. Ideally placed sit strap for extended comfort",
+  "description": "Polyester full body harness with adjustable chest & leg straps. Includes a Dorsal D-Ring for fall arrest. Ideally placed sit strap for extended comfort",
+  "sourceUrl": "https://dromex.co.za/product/full-body-harness-complete/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-fall-protection-harness-pn21-2.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [
+      "Polyester full body harness with adjustable chest & leg straps",
+      "Includes a Dorsal D-Ring for fall arrest",
+      "Ideally placed sit strap for extended comfort",
+      "Equipped with Lanyard Keepers for placement of free lanyards",
+      "Weight capacity of 140kg (incl. tools)",
+      "Includes shock absorbing double lanyard with steel scaffold hooks \n(DFA-PN361N)",
+      "Adjustable 44mm sliding chest strap, shoulder straps, leg straps \nand waist belt"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Refineries",
+      "Scaffolding applications",
+      "Oil Rigs",
+      "Cleaning, painting & building maintenance"
+    ],
+    "colours": ["Yellow"],
+    "sizes": ["One Size"]
+  },
+  "variants": [
+    {
+      "sku": "9e795021ea98",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/fall-arrest-pn21.jpg",
+      "fileName": "fall-arrest-pn21.jpg",
+      "altText": "Full Body Harness Complete",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,73 @@
+{
+  "categorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "sourceUrl": "https://dromex.co.za/product-category/respiratory/disposable-masks/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "qsa-2010-ffp1-face-mask",
+      "title": "Qsa 2010 Ffp1 Face Mask",
+      "productCode": "QSA 2010 - FFP1",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2010-ffp1-face-mask/"
+    },
+    {
+      "slug": "qsa-2020-ffp2-face-mask",
+      "title": "Qsa 2020 Ffp2 Face Mask",
+      "productCode": "QSA 2020 - FFP2",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2020-ffp2-face-mask/"
+    },
+    {
+      "slug": "qsa-2020-rp5",
+      "title": "Qsa 2020 Rp5",
+      "productCode": "QSA 2020RP5",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2020-rp5/"
+    },
+    {
+      "slug": "qsa-2021-ffp2-valved-face-mask",
+      "title": "Qsa 2021 Ffp2 Valved Face Mask",
+      "productCode": "QSA 2021 - FFP2 VALVED",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2021-ffp2-valved-face-mask/"
+    },
+    {
+      "slug": "disposable-moulded-ffp2-mask",
+      "title": "Disposable Moulded Ffp2 Mask",
+      "productCode": "1020 - FFP2",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-ffp2-mask/"
+    },
+    {
+      "slug": "valved-disposable-moulded-ffp2-mask",
+      "title": "Valved Disposable Moulded Ffp2 Mask",
+      "productCode": "1021 - FFP2 VALVED",
+      "sourceUrl": "https://dromex.co.za/product/valved-disposable-moulded-ffp2-mask/"
+    },
+    {
+      "slug": "n95-moulded-face-mask",
+      "title": "N95 Moulded Face Mask",
+      "productCode": "N95-5150 (UNVALVED)",
+      "sourceUrl": "https://dromex.co.za/product/n95-moulded-face-mask/"
+    },
+    {
+      "slug": "disposable-moulded-active-carbon-ffp2-mask",
+      "title": "Disposable Moulded Active Carbon Ffp2 Mask",
+      "productCode": "1121C VALVED - FFP2",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp2-mask/"
+    },
+    {
+      "slug": "disposable-flat-fold-ffp3-mask",
+      "title": "Disposable Flat Fold Ffp3 Mask",
+      "productCode": "3231- FFP3 VALVED",
+      "sourceUrl": "https://dromex.co.za/product/disposable-flat-fold-ffp3-mask/"
+    },
+    {
+      "slug": "valved-disposable-moulded-ffp3-mask",
+      "title": "Valved Disposable Moulded Ffp3 Mask",
+      "productCode": "1231 - FFP3 VALVED",
+      "sourceUrl": "https://dromex.co.za/product/valved-disposable-moulded-ffp3-mask/"
+    },
+    {
+      "slug": "disposable-moulded-active-carbon-ffp3-mask",
+      "title": "Disposable Moulded Active Carbon Ffp3 Mask",
+      "productCode": "1131 VALVED - FFP3",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp3-mask/"
+    }
+  ]
+}

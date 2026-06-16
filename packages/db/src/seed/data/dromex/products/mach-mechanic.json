@@ -1,0 +1,51 @@
+{
+  "slug": "mach-mechanic",
+  "title": "Mach Mechanic",
+  "productCode": "MACH100WP",
+  "shortDescription": "Hi-Viz Cut5 Mechanical glove. Waterproof. Impact resistant",
+  "description": "Hi-Viz Cut5 Mechanical glove. Waterproof. Impact resistant",
+  "sourceUrl": "https://dromex.co.za/product/mach-mechanic/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-mach-mechanic-glove.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "Hi-Viz Cut5 Mechanical glove",
+      "Waterproof",
+      "Impact resistant",
+      "Anti-vibration",
+      "Oil repellant fabric",
+      "Kevlar fabric patch & anti-vibration patch on palm",
+      "Latex foam reinforced multi-colour TPR back of hand impact protection"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Heavy Machinery",
+      "Aerospace"
+    ],
+    "composition": "Seamless glove with fluted cuff; Cut level 5 seamless performance fibre shell; High abrasion fabric on palm and fingers; Black sand finish palm and thumb crotch area.; Kevlar fabric patch & anti-vibration patch on palm; TPR anti-impact patch on the fingers’ back and knuckle; Waterproof & oil repellant lining; Foam coated back of hand; Neoprene cuff with",
+    "standards": ["EN 388"],
+    "colours": ["Orange"],
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "MACH100WP-1",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_mach100wp-600x600-1.jpg",
+      "fileName": "dromex_gloves_mach100wp-600x600-1.jpg",
+      "altText": "Mach Mechanic",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

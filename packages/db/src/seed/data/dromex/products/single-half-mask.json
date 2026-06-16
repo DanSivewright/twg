@@ -1,0 +1,42 @@
+{
+  "slug": "single-half-mask",
+  "title": "Single Half Mask",
+  "productCode": "DH-101",
+  "shortDescription": "Soft PVC mask with deep face mould for a comfortable fit with an excellent seal. Dual wide elastic headband connected with a pin swivel connector, adjustable & with a quick release toggle. Efficient exhalation valve",
+  "description": "Soft PVC mask with deep face mould for a comfortable fit with an excellent seal. Dual wide elastic headband connected with a pin swivel connector, adjustable & with a quick release toggle. Efficient exhalation valve",
+  "sourceUrl": "https://dromex.co.za/product/single-half-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-single-half-mask-dh-101.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]],
+  "attributes": {
+    "features": [
+      "Soft PVC mask with deep face mould for a comfortable fit with an excellent seal",
+      "Dual wide elastic headband connected with a pin swivel connector, adjustable & with a quick release toggle",
+      "Efficient exhalation valve",
+      "For use with the DHCS single unifit filter cartridge system"
+    ],
+    "suitableFor": [],
+    "composition": "Soft PVC mask",
+    "standards": ["NRCS AZ2011/43"],
+    "colours": ["Navy Blue"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DH-101-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh-101.jpg",
+      "fileName": "dh-101.jpg",
+      "altText": "Single Half Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

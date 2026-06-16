@@ -1,6 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema.json",
-  "style": "base-lyra",
+  "style": "base-nova",
   "rsc": true,
   "tsx": true,
   "tailwind": {
@@ -10,7 +10,7 @@
     "cssVariables": true,
     "prefix": ""
   },
-  "iconLibrary": "lucide",
+  "iconLibrary": "hugeicons",
   "aliases": {
     "components": "@twg/ui/components",
     "utils": "@twg/ui/lib/utils",
@@ -18,7 +18,8 @@
     "lib": "@twg/ui/lib",
     "ui": "@twg/ui/components"
   },
-  "menuColor": "default",
+  "menuColor": "default-translucent",
   "menuAccent": "subtle",
-  "registries": {}
+  "registries": {},
+  "rtl": false
 }

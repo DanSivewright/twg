@@ -1,0 +1,52 @@
+{
+  "slug": "nitriflex-coated-gloves",
+  "title": "Nitriflex Coated Gloves",
+  "productCode": "DG-NITRIFLEX",
+  "shortDescription": "High abrasion. Strong oil-resistance. Super grip",
+  "description": "High abrasion. Strong oil-resistance. Super grip",
+  "sourceUrl": "https://dromex.co.za/product/nitriflex-coated-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-NITRIFLEX-COATED-GLOVES.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High abrasion",
+      "Strong oil-resistance",
+      "Super grip",
+      "Softer touch and higher flexibility",
+      "Sanitised"
+    ],
+    "suitableFor": [
+      "General Maintenance Indoor and Outdoor",
+      "Assembly Work Indoor and Outdoor"
+    ],
+    "composition": "100% Nitrile micro foam finish; Nylon blended spandex liner; Innovative fibre; Composite knitted wrist",
+    "standards": ["EN 388: 4121"],
+    "colours": ["Olive"],
+    "sizes": ["7", "8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "DG-NITRIFLEX-1",
+      "size": null,
+      "colour": "Olive"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_NITRIFLEX-768x768-1.jpg",
+      "fileName": "dromex_gloves_NITRIFLEX-768x768-1.jpg",
+      "altText": "Nitriflex Coated Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

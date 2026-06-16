@@ -1,0 +1,52 @@
+{
+  "slug": "anti-static",
+  "title": "Anti-static",
+  "productCode": "PU20.07E",
+  "shortDescription": "Anti-static. High durability & dexterity. Super grip",
+  "description": "Anti-static. High durability & dexterity. Super grip",
+  "sourceUrl": "https://dromex.co.za/product/anti-static/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-pu-coated-anti-static-gloves-pu2007e.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Anti-static",
+      "High durability & dexterity",
+      "Super grip",
+      "High sensitivity on the fingers area",
+      "PU Coated palm & fingers",
+      "White seamless light nylon liner",
+      "Innovative fibre",
+      "Composite knitted wrist"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Computer and Circuit board work",
+      "Avoid Static Discharge"
+    ],
+    "composition": "100% PU (Polyurethane) black coated palm and fingers; White/grey carbon polyester; Innovative fibre; Composite knitted wrist",
+    "colours": ["Grey"],
+    "sizes": ["7", "8", "9", "10", "11", "12"]
+  },
+  "variants": [
+    {
+      "sku": "PU20.07E-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/pu2007-g_hr-600x600-1.jpg",
+      "fileName": "pu2007-g_hr-600x600-1.jpg",
+      "altText": "Anti-static",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

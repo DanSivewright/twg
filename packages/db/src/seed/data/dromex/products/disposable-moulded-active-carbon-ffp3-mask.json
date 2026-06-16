@@ -1,0 +1,43 @@
+{
+  "slug": "disposable-moulded-active-carbon-ffp3-mask",
+  "title": "Disposable Moulded Active Carbon FFP3 Mask",
+  "productCode": "1131 VALVED - FFP3",
+  "shortDescription": "Low breathing resistance for increased wearer comfort. Fully adjustable head straps. Colour coded plastic adjustable nose clip",
+  "description": "Low breathing resistance for increased wearer comfort. Fully adjustable head straps. Colour coded plastic adjustable nose clip",
+  "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp3-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-1131-aluminium-ce-2797.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Low breathing resistance for increased wearer comfort",
+      "Fully adjustable head straps",
+      "Colour coded plastic adjustable nose clip",
+      "Contour face seal for performance and comfort",
+      "Exhalation valve reduces hot air build-up and provides easy breathing in hot and humid environments",
+      "Active carbon pre-filter for nuisance organic vapours, welding fumes",
+      "Dolomite tested as per BSI, CE 690046"
+    ],
+    "suitableFor": [],
+    "standards": ["BS EN 149:2001 + A1:2009 FFP2 OR NR D", "NRCS AZ2004/14"],
+    "colours": ["Grey"]
+  },
+  "variants": [
+    {
+      "sku": "1131 VALVED - FFP3-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/1131-sl-600x600-1.jpg",
+      "fileName": "1131-sl-600x600-1.jpg",
+      "altText": "Disposable Moulded Active Carbon FFP3 Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

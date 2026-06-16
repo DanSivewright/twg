@@ -1,0 +1,55 @@
+{
+  "slug": "nitrile-coated",
+  "title": "Nitrile Coated",
+  "productCode": "#57",
+  "shortDescription": "High cut & abrasion resistance. High contact heat protection. High grip power",
+  "description": "High cut & abrasion resistance. High contact heat protection. High grip power",
+  "sourceUrl": "https://dromex.co.za/product/nitrile-coated/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-NITRILE-COATED-GLOVE-57-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High cut & abrasion resistance",
+      "High contact heat protection",
+      "High grip power",
+      "Colour UV resistant",
+      "100% Dromex Cut5 fibre",
+      "Ultra grip Nitrile coating",
+      "Composite knitted wrist",
+      "Colour UV resistant",
+      "Lint free & washable"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Glass & Steel",
+      "Welding",
+      "Clean Room Application"
+    ],
+    "composition": "100% Cut5 fibre; Ultra grip nitrile coating; Composite knitted wrist",
+    "standards": ["EN 388: 4542", "EN 407: X1XXX"],
+    "colours": ["Grey"],
+    "sizes": ["7", "8", "9", "10", "11", "12"]
+  },
+  "variants": [
+    {
+      "sku": "#57-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/57.png",
+      "fileName": "57.png",
+      "altText": "Nitrile Coated",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

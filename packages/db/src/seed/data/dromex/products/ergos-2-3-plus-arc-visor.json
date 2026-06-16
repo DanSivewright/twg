@@ -1,0 +1,43 @@
+{
+  "slug": "ergos-2-3-plus-arc-visor",
+  "title": "Ergos 2 &#038; 3 Plus Arc Visor",
+  "productCode": "ARC ERGOS",
+  "shortDescription": "Increased worker safety because of REAL VIEW of work environment.. A3:A31New generation of face protection against the thermal hazards and impact of an arc flash. A3:A31Tested to EN 166 for protection against molten metals & hot solids",
+  "description": "Increased worker safety because of REAL VIEW of work environment.. A3:A31New generation of face protection against the thermal hazards and impact of an arc flash. A3:A31Tested to EN 166 for protection against molten metals & hot solids",
+  "sourceUrl": "https://dromex.co.za/product/ergos-2-3-plus-arc-visor/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Increased worker safety because of REAL VIEW of work environment.",
+      "A3:A31New generation of face protection against the thermal hazards and impact of an arc flash",
+      "A3:A31Tested to EN 166 for protection against molten metals & hot solids",
+      "A3:A31Realistic colour reproduction &gt;95%",
+      "A3:A31Protection against high-speed particles: medium energy impact (B)",
+      "A3:A31Extended length visor & transprent chin guard",
+      "A3:A31Optimised weight balance & no time limit on durability",
+      "A3:A31Fitted with a universal bracket for use with front brim arc rated hard hats according to EN 50365 or EN 397 standards"
+    ],
+    "suitableFor": [],
+    "colours": ["Blue"]
+  },
+  "variants": [
+    {
+      "sku": "ARC ERGOS-1",
+      "size": null,
+      "colour": "Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/12/head-face-arc-face-shield-product-img-600x600-1.jpg",
+      "fileName": "head-face-arc-face-shield-product-img-600x600-1.jpg",
+      "altText": "Ergos 2 &#038; 3 Plus Arc Visor",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

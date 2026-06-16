@@ -1,0 +1,55 @@
+{
+  "slug": "full-face-mask",
+  "title": "Full Face Mask",
+  "productCode": "DH-FFM",
+  "shortDescription": "Premium protection against hazardous vapours, gases & particulates. Thermo Plastic Rubber full face seal. Anti-fog visor with 220° vision",
+  "description": "Premium protection against hazardous vapours, gases & particulates. Thermo Plastic Rubber full face seal. Anti-fog visor with 220° vision",
+  "sourceUrl": "https://dromex.co.za/product/full-face-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dhffm.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]],
+  "attributes": {
+    "features": [
+      "Premium protection against hazardous vapours, gases & particulates",
+      "Thermo Plastic Rubber full face seal",
+      "Anti-fog visor with 220° vision",
+      "5-Point comfort harness with 2 grip holes ensures easier fitting",
+      "Lightweight dual filter cartridge system evenly distributes weight of the mask during use",
+      "Compatible with Dromex unifit twin filters",
+      "Designed to withstand temperatures up to 70 °C",
+      "One size fits all",
+      "For use with the DHCT twin unifit filter cartridge system"
+    ],
+    "suitableFor": [
+      "Search & Recovery",
+      "Chemical Processing",
+      "Cleaning, painting & building maintenance",
+      "Grinding",
+      "Asbestos",
+      "Law Enforcement",
+      "Sanding",
+      "General Industrial"
+    ],
+    "composition": "Polycarbonate anti-mist visor; TPR 5-point adjustable head harness",
+    "colours": ["Black"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DH-FFM-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/nrcs-product-img-600x600-1.jpg",
+      "fileName": "nrcs-product-img-600x600-1.jpg",
+      "altText": "Full Face Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

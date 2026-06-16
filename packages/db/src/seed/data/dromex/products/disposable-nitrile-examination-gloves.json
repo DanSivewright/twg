@@ -1,0 +1,54 @@
+{
+  "slug": "disposable-nitrile-examination-gloves",
+  "title": "Disposable Nitrile Examination Gloves",
+  "productCode": "DG-NITS",
+  "shortDescription": "100% Nitrile which prevents allergies. Disposable & powder free. Lightweight yet strong due to the glove construction",
+  "description": "100% Nitrile which prevents allergies. Disposable & powder free. Lightweight yet strong due to the glove construction",
+  "sourceUrl": "https://dromex.co.za/product/disposable-nitrile-examination-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dg-nits-examination-gloves-nitro-shield.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "chemical"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "chemical"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "100% Nitrile which prevents allergies",
+      "Disposable & powder free",
+      "Lightweight yet strong due to the glove construction",
+      "Comfort able and good dexterity",
+      "Food safe and chemical resistant",
+      "Beaded cuff for easy putting on & taking off in addition to offering drip protection for the forearm",
+      "Biodegradable",
+      "Ambidextrous",
+      "FDA com pliant"
+    ],
+    "suitableFor": [
+      "Janitorial",
+      "Mild Chemicals, Bacteria, Fungi, Viruses and Food Products",
+      "Maintenance"
+    ],
+    "composition": "Straight cuff",
+    "standards": ["EN ISO 374-5:2016", "EN 374-1 TYPE B (KPT)"],
+    "colours": ["Royal Blue"],
+    "sizes": ["S - XL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-NITS-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dissposable-nitrile-gloves-600x600-1.jpg",
+      "fileName": "dissposable-nitrile-gloves-600x600-1.jpg",
+      "altText": "Disposable Nitrile Examination Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

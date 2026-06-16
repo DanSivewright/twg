@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@hugeicons/core-free-icons": "catalog:",
+    "@hugeicons/react": "catalog:",
     "@orpc/client": "catalog:",
     "@orpc/openapi": "catalog:",
     "@orpc/server": "catalog:",
@@ -22,8 +24,9 @@
     "babel-plugin-react-compiler": "^1.0.0",
     "better-auth": "catalog:",
     "dotenv": "catalog:",
+    "embla-carousel-autoplay": "^8.6.0",
     "evlog": "^2.18.1",
-    "lucide-react": "catalog:",
+    "motion": "^12.40.0",
     "next": "catalog:",
     "next-themes": "catalog:",
     "react": "catalog:",

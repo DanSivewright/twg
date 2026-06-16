@@ -5,6 +5,24 @@
     ".": {
       "default": "./src/index.ts"
     },
+    "./context": {
+      "default": "./src/context.ts"
+    },
+    "./contracts": {
+      "default": "./src/contracts/index.ts"
+    },
+    "./routers": {
+      "default": "./src/routers/index.ts"
+    },
+    "./modules/tenant": {
+      "default": "./src/modules/tenant/index.ts"
+    },
+    "./modules/storefront": {
+      "default": "./src/modules/storefront/index.ts"
+    },
+    "./modules/platform": {
+      "default": "./src/modules/platform/index.ts"
+    },
     "./*": {
       "default": "./src/*.ts"
     }
@@ -12,6 +30,7 @@
   "scripts": {},
   "dependencies": {
     "@orpc/client": "catalog:",
+    "@orpc/contract": "catalog:",
     "@orpc/openapi": "catalog:",
     "@orpc/server": "catalog:",
     "@orpc/zod": "catalog:",
@@ -19,6 +38,7 @@
     "@twg/db": "workspace:*",
     "@twg/env": "workspace:*",
     "dotenv": "catalog:",
+    "drizzle-orm": "^0.45.1",
     "next": "catalog:",
     "zod": "catalog:"
   },

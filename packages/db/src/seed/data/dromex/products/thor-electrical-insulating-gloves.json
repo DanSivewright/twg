@@ -1,0 +1,49 @@
+{
+  "slug": "thor-electrical-insulating-gloves",
+  "title": "Thor Electrical Insulating Gloves",
+  "productCode": "DG-THOR",
+  "shortDescription": "Exclusively for electrical purposes -voltage up to 1kV (Kilovolts). R &#8211; acid resistant, oil resistant, ozone-resistant C &#8211; resistant to extremely low temperatures. High flexibility preventing hand fatigue",
+  "description": "Exclusively for electrical purposes -voltage up to 1kV (Kilovolts). R &#8211; acid resistant, oil resistant, ozone-resistant C &#8211; resistant to extremely low temperatures. High flexibility preventing hand fatigue",
+  "sourceUrl": "https://dromex.co.za/product/thor-electrical-insulating-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-THOR-ELECTRICAL-INSULATING-GLOVES.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "Exclusively for electrical purposes -voltage up to 1kV (Kilovolts)",
+      "R &#8211; acid resistant, oil resistant, ozone-resistant C &#8211; resistant to extremely low temperatures",
+      "High flexibility preventing hand fatigue",
+      "Fits well when worn with protective leather overgloves",
+      "Each glove is electrically tested & issued with an examination certificate",
+      "360mm (±15mm) long"
+    ],
+    "suitableFor": [
+      "Electrical Purposes",
+      "Installation",
+      "Maintenance",
+      "Repairs"
+    ],
+    "composition": "High-quality rubber latex",
+    "standards": ["EN 60903:2006(EN 60903:2003 + AC2:2005)"],
+    "colours": ["Yellow"],
+    "sizes": ["9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-THOR-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/thor-768x768-1.jpg",
+      "fileName": "thor-768x768-1.jpg",
+      "altText": "Thor Electrical Insulating Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

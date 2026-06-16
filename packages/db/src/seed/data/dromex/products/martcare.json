@@ -1,0 +1,40 @@
+{
+  "slug": "martcare",
+  "title": "Martcare",
+  "productCode": "DH-MARTCARE",
+  "shortDescription": "Polycarbonate visor & brow guard carrier. Elasticated adjustable headband. Adjustable tilt & engage mechanism",
+  "description": "Polycarbonate visor & brow guard carrier. Elasticated adjustable headband. Adjustable tilt & engage mechanism",
+  "sourceUrl": "https://dromex.co.za/product/martcare/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-martcare.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Polycarbonate visor & brow guard carrier",
+      "Elasticated adjustable headband",
+      "Adjustable tilt & engage mechanism",
+      "Provides protection against flying objects, particles, chemical splashes, splashes of molten metals & penetration of hot solids.",
+      "Compatible for use with half mask respiratory protective devices"
+    ],
+    "suitableFor": [],
+    "colours": ["Grey"]
+  },
+  "variants": [
+    {
+      "sku": "DH-MARTCARE-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh-martcare_hr-600x400-1.jpg",
+      "fileName": "dh-martcare_hr-600x400-1.jpg",
+      "altText": "Martcare",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

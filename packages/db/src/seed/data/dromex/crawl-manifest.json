@@ -1,0 +1,1197 @@
+{
+  "version": 1,
+  "source": "https://dromex.co.za/",
+  "startedAt": "2026-06-09",
+  "updatedAt": "2026-06-09",
+  "categories": {
+    "status": "complete",
+    "completedAt": "2026-06-09"
+  },
+  "categoryPages": {
+    "https://dromex.co.za/product-category/gloves/cut-5/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "gloves", "cut-5"],
+      "productCount": 16,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/gloves/specialised/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "gloves", "specialised"],
+      "productCount": 24,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/gloves/chemical/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "gloves", "chemical"],
+      "productCount": 8,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/gloves/synthetic-gloves-gpvc-nitrile-latex/": {
+      "status": "complete",
+      "categorySlugPath": [
+        "ppe",
+        "gloves",
+        "synthetic-gloves-gpvc-nitrile-latex"
+      ],
+      "productCount": 32,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/gloves/leather/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "gloves", "leather"],
+      "productCount": 16,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/head-and-face/head/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "head-and-face", "head"],
+      "productCount": 13,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/head-and-face/eyewear/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "head-and-face", "eyewear"],
+      "productCount": 18,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/head-and-face/hearing/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "head-and-face", "hearing"],
+      "productCount": 13,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/respiratory/disposable-masks/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+      "productCount": 11,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/respiratory/reusable-masks/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+      "productCount": 5,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/respiratory/filters/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "respiratory", "filters"],
+      "productCount": 21,
+      "completedAt": "2026-06-09"
+    },
+    "https://dromex.co.za/product-category/fall-arrest/": {
+      "status": "complete",
+      "categorySlugPath": ["ppe", "fall-arrest"],
+      "productCount": 11,
+      "completedAt": "2026-06-09"
+    }
+  },
+  "products": {
+    "camo": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/camo/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "chemical": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/chemical/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "chemical"]
+      ]
+    },
+    "chemical-plus": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/chemical-plus/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "chemical"]
+      ]
+    },
+    "food-series": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/food-series/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "impact": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/impact/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "specialised"]
+      ]
+    },
+    "latex-coated": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/latex-coated/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "mach-777": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-777/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "specialised"]
+      ]
+    },
+    "mig-f6": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mig-f6/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "specialised"]
+      ]
+    },
+    "mach-mechanic": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-mechanic/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "mach30wp": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach30wp/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "cut-5-hfm606-glove": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/cut-5-hfm606-glove/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "mechanical": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mechanical/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nitrile-coated": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nitrile-coated/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "cut-5"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "seamless": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/seamless/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "sleeves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/sleeves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "full-length-sleeves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/full-length-sleeves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "cut-5"]]
+    },
+    "100-cal-arc-switching-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/100-cal-arc-switching-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "gnylon": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/gnylon/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "freezer-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/freezer-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "16-8-cal-arc-dipped-glove": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/16-8-cal-arc-dipped-glove/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "51-cal-leather-arc-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/51-cal-leather-arc-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "leather"]
+      ]
+    },
+    "70-cal-arc-switching-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/70-cal-arc-switching-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "anti-static": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/anti-static/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "chain-mail": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/chain-mail/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "inferno-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/inferno-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "leather"]
+      ]
+    },
+    "leather-over-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/leather-over-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "leather"]
+      ]
+    },
+    "mach-2wp15-impact-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-2wp15-impact-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "mach-4-meta-mine-impact-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-4-meta-mine-impact-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "mach-5-mining-impact-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-5-mining-impact-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "mach-6-meta-mine-impact-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/mach-6-meta-mine-impact-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "miizu-400-thermal": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/miizu-400-thermal/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "thor-electrical-insulating-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/thor-electrical-insulating-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "specialised"]]
+    },
+    "ulti-chem-chemical-glove": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/ulti-chem-chemical-glove/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "chemical"]
+      ]
+    },
+    "viper-chemical-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/viper-chemical-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "chemical"]
+      ]
+    },
+    "viper-plus-chemical-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/viper-plus-chemical-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "chemical"]
+      ]
+    },
+    "weld-prime-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/weld-prime-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "specialised"],
+        ["ppe", "gloves", "leather"]
+      ]
+    },
+    "chemical-nitrile": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/chemical-nitrile/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "chemical"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "disposable-nitrile-examination-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-nitrile-examination-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "chemical"],
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "ulti-chem-plus-chemical-glove": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/ulti-chem-plus-chemical-glove/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "chemical"]]
+    },
+    "cotton-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/cotton-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "h1-40-black-rubber-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/h1-40-black-rubber-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "miizu-300": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/miizu-300/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nitriflex-coated-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nitriflex-coated-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nylon-inspectors-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nylon-inspectors-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "double-dotted-cotton-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/double-dotted-cotton-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "h2-40-crinkle-palm-rubber-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/h2-40-crinkle-palm-rubber-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "0722-nitrile-coated-knitted-wrist-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/0722-nitrile-coated-knitted-wrist-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "0742-nitrile-coated-safety-cuff-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/0742-nitrile-coated-safety-cuff-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "actifresh-nitrile-coated-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/actifresh-nitrile-coated-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "crinkle-rubber-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/crinkle-rubber-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "cronus-e-hi-vis-pvc-elbow-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/cronus-e-hi-vis-pvc-elbow-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "dipped-glove": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dipped-glove/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "h2-55-crinkle-palm-rubber-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/h2-55-crinkle-palm-rubber-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "heavy-duty-green-pvc-gloves-27cm": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/heavy-duty-green-pvc-gloves-27cm/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "xtra-heavy-duty-pvc-gloves-copy": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/xtra-heavy-duty-pvc-gloves-copy/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "hi-vis-pvc-stop-go-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/hi-vis-pvc-stop-go-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nitriflex-palm-coated-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nitriflex-palm-coated-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nitrile-fully-dipped-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nitrile-fully-dipped-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "nitrolite": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/nitrolite/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "oil-tech-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/oil-tech-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "oil-tech-knit-wrist": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/oil-tech-knit-wrist/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "pu20-01": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/pu20-01/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [
+        ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+      ]
+    },
+    "15cm-premium-goatskin-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/15cm-premium-goatskin-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "16-superior-lined-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/16-superior-lined-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "2-5-chrome-leather-dbl-palm-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/2-5-chrome-leather-dbl-palm-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "2-5-superior-lined-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/2-5-superior-lined-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "6-chrome-leather-dbl-palm-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/6-chrome-leather-dbl-palm-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "candy-stripe-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/candy-stripe-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "premium-goatskin-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/premium-goatskin-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "premium-leather-rigger-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/premium-leather-rigger-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "premium-pig-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/premium-pig-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "6%e2%80%b3-superior-lined-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/6%e2%80%b3-superior-lined-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "weld-blue-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/weld-blue-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "weld-red-leather-gloves": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/weld-red-leather-gloves/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "gloves", "leather"]]
+    },
+    "28-cal-arc-ergos-intec-helmet": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/28-cal-arc-ergos-intec-helmet/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "31cal-arc-beanie": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/31cal-arc-beanie/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "aramid-balaclava": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/aramid-balaclava/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "arc-balaclava-31cal": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/arc-balaclava-31cal/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "arc-balaclava-9-9cal": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/arc-balaclava-9-9cal/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "arc-hard-hat": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/arc-hard-hat/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "bump-caps": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/bump-caps/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "d59-welders-hood": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/d59-welders-hood/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "ergos-2-3-plus-arc-visor": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/ergos-2-3-plus-arc-visor/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "hard-hat-with-lamp-mount": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/hard-hat-with-lamp-mount/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "hard-hats": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/hard-hats/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "hh-carrier-visor": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/hh-carrier-visor/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "martcare": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/martcare/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "head"]]
+    },
+    "black-pouch-bag": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/black-pouch-bag/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "classics": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/classics/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "dv-11-wide-vision-goggles": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dv-11-wide-vision-goggles/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "dv-21-wide-vision-goggles": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dv-21-wide-vision-goggles/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "euro": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/euro/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "focus": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/focus/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "green-retainer-cord": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/green-retainer-cord/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "maxi-view-goggles": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/maxi-view-goggles/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "spoggle": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/spoggle/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "sporty": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/sporty/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "sporty-cool": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/sporty-cool/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "welding": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/welding/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "welding-ir5": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/welding-ir5/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "welding-goggles": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/welding-goggles/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "wildland-goggles": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/wildland-goggles/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "wire-mesh": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/wire-mesh/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "wrap-arounds": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/wrap-arounds/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "arc-goggle": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/arc-goggle/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]]
+    },
+    "banded-re-usable-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/banded-re-usable-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "blue-corded-re-usable-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/blue-corded-re-usable-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "boxed-re-usable-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/boxed-re-usable-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "classic-ear-muff": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/classic-ear-muff/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "detectable-re-usable-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/detectable-re-usable-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "disposable-corded-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-corded-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "dr-098-disposable-foam-ear-plugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dr-098-disposable-foam-ear-plugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "dr-098c-disposable-foam-ear-plugs-corded": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dr-098c-disposable-foam-ear-plugs-corded/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "ear-pulg-dispenser": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/ear-pulg-dispenser/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "green-corded-re-usable-earplugs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/green-corded-re-usable-earplugs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "interex-ear-muffs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/interex-ear-muffs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "junior-ear-muffs": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/junior-ear-muffs/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "dr-099c-disposable-foam-ear-plugs-corded": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dr-099c-disposable-foam-ear-plugs-corded/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "head-and-face", "hearing"]]
+    },
+    "qsa-2010-ffp1-face-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2010-ffp1-face-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "qsa-2020-ffp2-face-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2020-ffp2-face-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "qsa-2020-rp5": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2020-rp5/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "qsa-2021-ffp2-valved-face-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/qsa-2021-ffp2-valved-face-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "disposable-moulded-ffp2-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-ffp2-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "valved-disposable-moulded-ffp2-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/valved-disposable-moulded-ffp2-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "n95-moulded-face-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/n95-moulded-face-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "disposable-moulded-active-carbon-ffp2-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp2-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "disposable-flat-fold-ffp3-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-flat-fold-ffp3-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "valved-disposable-moulded-ffp3-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/valved-disposable-moulded-ffp3-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "disposable-moulded-active-carbon-ffp3-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp3-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]]
+    },
+    "dh-302-reusable-half-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/dh-302-reusable-half-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]]
+    },
+    "single-half-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/single-half-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]]
+    },
+    "pvc-twin-half-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/pvc-twin-half-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]]
+    },
+    "tpr-twin-half-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/tpr-twin-half-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]]
+    },
+    "full-face-mask": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/full-face-mask/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]]
+    },
+    "a1-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a1-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a1p2-twin-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a1p2-twin-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a2-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a2-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a2p3-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a2p3-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "abek1p3-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/abek1p3-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "abek1-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/abek1-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2pf-pre-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-pre-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p3ov-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p3ov-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p3pf-twin-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p3pf-twin-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a1-single-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a1-single-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a1-twin-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a1-twin-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "a2-twin-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/a2-twin-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "b1-twin-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/b1-twin-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2-single-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2-single-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2-twin-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2-twin-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2pf-single-unifit-pre-filters": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-single-unifit-pre-filters/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p2pf-twin-unifit-pre-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p2pf-twin-unifit-pre-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "b1-twin-unifit-filter-2": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/b1-twin-unifit-filter-2/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p3-twin-unifit-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p3-twin-unifit-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "p3pf-twin-unifit-pre-filter": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/p3pf-twin-unifit-pre-filter/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "respiratory", "filters"]]
+    },
+    "double-scaff-hook-lanyard": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/double-scaff-hook-lanyard/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "full-body-harness": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "full-body-harness-complete": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness-complete/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "full-body-harness-with-lanyard": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness-with-lanyard/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "retractable-fall-arrester-15m": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-15m/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "retractable-fall-arrester-2m-with-hook": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-2m-with-hook/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "retractable-fall-arrester-6m": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-6m/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "retractable-webbing-mini-block-2-5m-with-swivel": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/retractable-webbing-mini-block-2-5m-with-swivel/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "suspension-intolerance-strap": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/suspension-intolerance-strap/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "tool-lanyard": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/tool-lanyard/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    },
+    "twin-tool-lanyard": {
+      "status": "complete",
+      "sourceUrl": "https://dromex.co.za/product/twin-tool-lanyard/",
+      "completedAt": "2026-06-09",
+      "categorySlugPaths": [["ppe", "fall-arrest"]]
+    }
+  },
+  "notes": "Tracks crawl progress. categoryPages keys are category sourceUrl; products keys are product slug."
+}

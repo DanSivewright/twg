@@ -1,0 +1,47 @@
+{
+  "slug": "qsa-2020-rp5",
+  "title": "QSA 2020 RP5",
+  "productCode": "QSA 2020RP5",
+  "shortDescription": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "description": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "sourceUrl": "https://dromex.co.za/product/qsa-2020-rp5/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2025/05/technical-datasheet-qsa-2020rp5.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Low breathing resistance for increased wearer comfort",
+      "Light weight & comfortable",
+      "Elasticated straps",
+      "PP inner with no loose fibres",
+      "Protection against solid and water based liquid aerosols",
+      "For use in low toxicity dust areas when used in"
+    ],
+    "suitableFor": [
+      "General use",
+      "Construction",
+      "Agriculture",
+      "General Maintenance Indoor and Outdoor"
+    ],
+    "composition": "Polypropylene; Polyester synthetic material",
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "QSA 2020RP5-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2025/05/qsa2020rp5.png",
+      "fileName": "qsa2020rp5.png",
+      "altText": "QSA 2020 RP5",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

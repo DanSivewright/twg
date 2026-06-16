@@ -1,0 +1,47 @@
+{
+  "slug": "a1p2-twin-filter",
+  "title": "A1P2 Twin Filter",
+  "productCode": "DR-A1P2-EN",
+  "shortDescription": "Ergonomic. Lightweight. Low-profile (provides unobstructed worker vision)",
+  "description": "Ergonomic. Lightweight. Low-profile (provides unobstructed worker vision)",
+  "sourceUrl": "https://dromex.co.za/product/a1p2-twin-filter/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2025/01/technical-datasheet-reusable-gas-cartridges-dr-a1p2-en.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "filters"],
+  "categorySlugPaths": [["ppe", "respiratory", "filters"]],
+  "attributes": {
+    "features": [
+      "Ergonomic",
+      "Lightweight",
+      "Low-profile (provides unobstructed worker vision)",
+      "Large surface areas for greater loading filter capacity"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Manufacturing",
+      "Welding",
+      "Foundry",
+      "Airports",
+      "Metal Fabrication"
+    ],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DR-A1P2-EN-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2025/01/dr-a1p2.png",
+      "fileName": "dr-a1p2.png",
+      "altText": "A1P2 Twin Filter",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

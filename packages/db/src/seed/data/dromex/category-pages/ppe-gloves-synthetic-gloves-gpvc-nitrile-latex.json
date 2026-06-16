@@ -1,0 +1,199 @@
+{
+  "categorySlugPath": ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"],
+  "sourceUrl": "https://dromex.co.za/product-category/gloves/synthetic-gloves-gpvc-nitrile-latex/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "cut-5-hfm606-glove",
+      "title": "Cut 5 Hfm606 Glove",
+      "productCode": "DG-HFM606",
+      "sourceUrl": "https://dromex.co.za/product/cut-5-hfm606-glove/"
+    },
+    {
+      "slug": "mechanical",
+      "title": "Mechanical",
+      "productCode": "HFM305",
+      "sourceUrl": "https://dromex.co.za/product/mechanical/"
+    },
+    {
+      "slug": "nitrile-coated",
+      "title": "Nitrile Coated",
+      "productCode": "#57",
+      "sourceUrl": "https://dromex.co.za/product/nitrile-coated/"
+    },
+    {
+      "slug": "cotton-gloves",
+      "title": "Cotton Gloves",
+      "productCode": "DG-COT or DG-COT/W",
+      "sourceUrl": "https://dromex.co.za/product/cotton-gloves/"
+    },
+    {
+      "slug": "gnylon",
+      "title": "Gnylon",
+      "productCode": "GNYLON",
+      "sourceUrl": "https://dromex.co.za/product/gnylon/"
+    },
+    {
+      "slug": "h1-40-black-rubber-gloves",
+      "title": "H1 40 Black Rubber Gloves",
+      "productCode": "DG-H1-40",
+      "sourceUrl": "https://dromex.co.za/product/h1-40-black-rubber-gloves/"
+    },
+    {
+      "slug": "miizu-300",
+      "title": "Miizu 300",
+      "productCode": "MIIZU300BLU | MIIZU300HI",
+      "sourceUrl": "https://dromex.co.za/product/miizu-300/"
+    },
+    {
+      "slug": "nitriflex-coated-gloves",
+      "title": "Nitriflex Coated Gloves",
+      "productCode": "DG-NITRIFLEX",
+      "sourceUrl": "https://dromex.co.za/product/nitriflex-coated-gloves/"
+    },
+    {
+      "slug": "nylon-inspectors-gloves",
+      "title": "Nylon Inspectors Gloves",
+      "productCode": "DG-NYLON-W",
+      "sourceUrl": "https://dromex.co.za/product/nylon-inspectors-gloves/"
+    },
+    {
+      "slug": "anti-static",
+      "title": "Anti Static",
+      "productCode": "PU20.07E",
+      "sourceUrl": "https://dromex.co.za/product/anti-static/"
+    },
+    {
+      "slug": "double-dotted-cotton-gloves",
+      "title": "Double Dotted Cotton Gloves",
+      "productCode": "DG-COT/DD",
+      "sourceUrl": "https://dromex.co.za/product/double-dotted-cotton-gloves/"
+    },
+    {
+      "slug": "h2-40-crinkle-palm-rubber-gloves",
+      "title": "H2 40 Crinkle Palm Rubber Gloves",
+      "productCode": "DG-H2-40",
+      "sourceUrl": "https://dromex.co.za/product/h2-40-crinkle-palm-rubber-gloves/"
+    },
+    {
+      "slug": "chemical-nitrile",
+      "title": "Chemical Nitrile",
+      "productCode": "0056",
+      "sourceUrl": "https://dromex.co.za/product/chemical-nitrile/"
+    },
+    {
+      "slug": "0722-nitrile-coated-knitted-wrist-gloves",
+      "title": "0722 Nitrile Coated Knitted Wrist Gloves",
+      "productCode": "NITRILE 0722",
+      "sourceUrl": "https://dromex.co.za/product/0722-nitrile-coated-knitted-wrist-gloves/"
+    },
+    {
+      "slug": "0742-nitrile-coated-safety-cuff-gloves",
+      "title": "0742 Nitrile Coated Safety Cuff Gloves",
+      "productCode": "NITRILE 0742",
+      "sourceUrl": "https://dromex.co.za/product/0742-nitrile-coated-safety-cuff-gloves/"
+    },
+    {
+      "slug": "actifresh-nitrile-coated-gloves",
+      "title": "Actifresh Nitrile Coated Gloves",
+      "productCode": "DH0911A",
+      "sourceUrl": "https://dromex.co.za/product/actifresh-nitrile-coated-gloves/"
+    },
+    {
+      "slug": "crinkle-rubber-gloves",
+      "title": "Crinkle Rubber Gloves",
+      "productCode": "DG-COM/KW",
+      "sourceUrl": "https://dromex.co.za/product/crinkle-rubber-gloves/"
+    },
+    {
+      "slug": "cronus-e-hi-vis-pvc-elbow-gloves",
+      "title": "Cronus E Hi Vis Pvc Elbow Gloves",
+      "productCode": "CRONUS/E",
+      "sourceUrl": "https://dromex.co.za/product/cronus-e-hi-vis-pvc-elbow-gloves/"
+    },
+    {
+      "slug": "dipped-glove",
+      "title": "Dipped Glove",
+      "productCode": "DG-58SC",
+      "sourceUrl": "https://dromex.co.za/product/dipped-glove/"
+    },
+    {
+      "slug": "disposable-nitrile-examination-gloves",
+      "title": "Disposable Nitrile Examination Gloves",
+      "productCode": "DG-NITS",
+      "sourceUrl": "https://dromex.co.za/product/disposable-nitrile-examination-gloves/"
+    },
+    {
+      "slug": "freezer-gloves",
+      "title": "Freezer Gloves",
+      "productCode": "DG-FREEZER",
+      "sourceUrl": "https://dromex.co.za/product/freezer-gloves/"
+    },
+    {
+      "slug": "h2-55-crinkle-palm-rubber-gloves",
+      "title": "H2 55 Crinkle Palm Rubber Gloves",
+      "productCode": "DG-H2-55",
+      "sourceUrl": "https://dromex.co.za/product/h2-55-crinkle-palm-rubber-gloves/"
+    },
+    {
+      "slug": "heavy-duty-green-pvc-gloves-27cm",
+      "title": "Heavy Duty Green Pvc Gloves 27cm",
+      "productCode": "GPVC/27/HG",
+      "sourceUrl": "https://dromex.co.za/product/heavy-duty-green-pvc-gloves-27cm/"
+    },
+    {
+      "slug": "xtra-heavy-duty-pvc-gloves-copy",
+      "title": "Xtra Heavy Duty Pvc Gloves Copy",
+      "productCode": "GPVC/40/HG",
+      "sourceUrl": "https://dromex.co.za/product/xtra-heavy-duty-pvc-gloves-copy/"
+    },
+    {
+      "slug": "hi-vis-pvc-stop-go-gloves",
+      "title": "Hi Vis Pvc Stop Go Gloves",
+      "productCode": "CRONUS/RGE or RGW",
+      "sourceUrl": "https://dromex.co.za/product/hi-vis-pvc-stop-go-gloves/"
+    },
+    {
+      "slug": "miizu-400-thermal",
+      "title": "Miizu 400 Thermal",
+      "productCode": "MIIZULFM4001W",
+      "sourceUrl": "https://dromex.co.za/product/miizu-400-thermal/"
+    },
+    {
+      "slug": "nitriflex-palm-coated-gloves",
+      "title": "Nitriflex Palm Coated Gloves",
+      "productCode": "DG-NITRIFLEX-PC",
+      "sourceUrl": "https://dromex.co.za/product/nitriflex-palm-coated-gloves/"
+    },
+    {
+      "slug": "nitrile-fully-dipped-gloves",
+      "title": "Nitrile Fully Dipped Gloves",
+      "productCode": "NITRILE 0921",
+      "sourceUrl": "https://dromex.co.za/product/nitrile-fully-dipped-gloves/"
+    },
+    {
+      "slug": "nitrolite",
+      "title": "Nitrolite",
+      "productCode": "NITROLITE",
+      "sourceUrl": "https://dromex.co.za/product/nitrolite/"
+    },
+    {
+      "slug": "oil-tech-gloves",
+      "title": "Oil Tech Gloves",
+      "productCode": "DG-OIL-TECH",
+      "sourceUrl": "https://dromex.co.za/product/oil-tech-gloves/"
+    },
+    {
+      "slug": "oil-tech-knit-wrist",
+      "title": "Oil Tech Knit Wrist",
+      "productCode": "DG-OIL-TECH-KW",
+      "sourceUrl": "https://dromex.co.za/product/oil-tech-knit-wrist/"
+    },
+    {
+      "slug": "pu20-01",
+      "title": "Pu20 01",
+      "productCode": "PU2001/B",
+      "sourceUrl": "https://dromex.co.za/product/pu20-01/"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "nitrile-fully-dipped-gloves",
+  "title": "Nitrile Fully Dipped Gloves",
+  "productCode": "NITRILE 0921",
+  "shortDescription": "Excellent grip. High abrasion. High cut resistance",
+  "description": "Excellent grip. High abrasion. High cut resistance",
+  "sourceUrl": "https://dromex.co.za/product/nitrile-fully-dipped-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-nitrile-fully-dipped-gloves.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": ["Excellent grip", "High abrasion", "High cut resistance"],
+    "suitableFor": [
+      "General use",
+      "Packing Assembly",
+      "Packaging",
+      "Small Component Handling",
+      "Maintenance",
+      "Material Handling"
+    ],
+    "composition": "Fully coated nitrile; Interlock liner; Wrib cuff",
+    "colours": ["Yellow"],
+    "sizes": ["10"]
+  },
+  "variants": [
+    {
+      "sku": "NITRILE 0921-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nitrile0921-600x600-1.jpg",
+      "fileName": "dromex_gloves_nitrile0921-600x600-1.jpg",
+      "altText": "Nitrile Fully Dipped Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

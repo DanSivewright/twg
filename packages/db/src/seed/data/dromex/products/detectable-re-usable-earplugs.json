@@ -1,0 +1,41 @@
+{
+  "slug": "detectable-re-usable-earplugs",
+  "title": "Detectable Re-usable Earplugs",
+  "productCode": "DR-090CDET",
+  "shortDescription": "Hi-visibility fluorescent blue triple flange TPR ear plugs with detectable bearing",
+  "description": "Hi-visibility fluorescent blue triple flange TPR ear plugs with detectable bearing",
+  "sourceUrl": "https://dromex.co.za/product/detectable-re-usable-earplugs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-detectable-re-usable-ear-plugs-dr-090cdet.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Hi-visibility fluorescent blue triple flange TPR ear plugs with detectable bearing"
+    ],
+    "suitableFor": [
+      "Food Processing",
+      "Pharmaceutical",
+      "Toy Equipment Manufacturing"
+    ],
+    "composition": "H=33 dB, M=30 dB, L=28 dB; SNR 32 dB",
+    "colours": ["Royal Blue"]
+  },
+  "variants": [
+    {
+      "sku": "DR-090CDET-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dr-090c-detectable.jpeg",
+      "fileName": "dr-090c-detectable.jpeg",
+      "altText": "Detectable Re-usable Earplugs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

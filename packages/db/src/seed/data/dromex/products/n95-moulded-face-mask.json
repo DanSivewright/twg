@@ -1,0 +1,62 @@
+{
+  "slug": "n95-moulded-face-mask",
+  "title": "N95 Moulded Face Mask",
+  "productCode": "N95-5150 (UNVALVED)",
+  "shortDescription": "Suitable for a single 8-hour use against solid &  water based liquid aerosols, that do not contain oil. Protection against inhalation of dangerous  particulates in high dust areas. Meets CDC guidelines for M. Tuberculosis exposure  control",
+  "description": "Suitable for a single 8-hour use against solid &  water based liquid aerosols, that do not contain oil. Protection against inhalation of dangerous  particulates in high dust areas. Meets CDC guidelines for M. Tuberculosis exposure  control",
+  "sourceUrl": "https://dromex.co.za/product/n95-moulded-face-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-n95-moulded-face-mask-n95-5150.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Suitable for a single 8-hour use against solid &  water based liquid aerosols, that do not contain oil",
+      "Protection against inhalation of dangerous  particulates in high dust areas",
+      "Meets CDC guidelines for M. Tuberculosis exposure  control",
+      "Can be used as part of a disease control strategy",
+      "An ergonomic design that provides a comfortable  and secure fit for different facial sizes",
+      "A welded elastic strap along with the half face  seal foam reinforces the seal with the lowest  leakage.",
+      "Lightweight with low breathing resistance for  increased wearer comfort",
+      "N95-5151 & N95-6151 includes an exhalation valve,  which reduces hot air build-up & provides easy  breathing in hot & humid environments",
+      "Conforms to 42 CFR part 84, N95 class, NIOSH  approved, TC-84A-448 (6151), TC-84A-7220 (5151)  TC84A-7719 (5150)"
+    ],
+    "suitableFor": [
+      "General use",
+      "Construction",
+      "Agriculture",
+      "Medical Industry Applications"
+    ],
+    "standards": [
+      "Conforms to 42 CFR part 84",
+      "N95 class",
+      "NIOSH approved TC-84A-7220 (5151)"
+    ],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "N95-5150 (UNVALVED)-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/5050-600x600-1.jpg",
+      "fileName": "5050-600x600-1.jpg",
+      "altText": "N95 Moulded Face Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/5150-2-600x600-1.jpg",
+      "fileName": "5150-2-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

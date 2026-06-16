@@ -1,0 +1,56 @@
+{
+  "slug": "h1-40-black-rubber-gloves",
+  "title": "H1-40 Black Rubber Gloves",
+  "productCode": "DG-H1-40",
+  "shortDescription": "Heavy duty. Unlined natural rubber latex. High durability & elasticity",
+  "description": "Heavy duty. Unlined natural rubber latex. High durability & elasticity",
+  "sourceUrl": "https://dromex.co.za/product/h1-40-black-rubber-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-h1-h2.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Heavy duty",
+      "Unlined natural rubber latex",
+      "High durability & elasticity",
+      "High puncture & abrasion resistance",
+      "Available in 40cm & 55cm lengths",
+      "Available in smooth & crinkle palm finish (H2-40 & H2-55)"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Industrial",
+      "Hardwares",
+      "Plumbing",
+      "Material Handling"
+    ],
+    "composition": "Black rubber latex; Rolled open cuff; Smooth palm; 40cm length",
+    "colours": ["Black"],
+    "sizes": ["L"]
+  },
+  "variants": [
+    {
+      "sku": "DG-H1-40-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_h140-600x600-1.jpg",
+      "fileName": "dromex_gloves_h140-600x600-1.jpg",
+      "altText": "H1-40 Black Rubber Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

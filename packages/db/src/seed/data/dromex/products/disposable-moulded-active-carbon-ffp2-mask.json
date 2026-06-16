@@ -1,0 +1,48 @@
+{
+  "slug": "disposable-moulded-active-carbon-ffp2-mask",
+  "title": "Disposable Moulded Active Carbon FFP2 Mask",
+  "productCode": "1121C VALVED - FFP2",
+  "shortDescription": "Active Carbon Pre-Filter for organic vapours & welding fumes. Low breathing resistance for increased wearer comfort. Heavy duty, tab mounted, head straps",
+  "description": "Active Carbon Pre-Filter for organic vapours & welding fumes. Low breathing resistance for increased wearer comfort. Heavy duty, tab mounted, head straps",
+  "sourceUrl": "https://dromex.co.za/product/disposable-moulded-active-carbon-ffp2-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-1121c-aluminium.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Active Carbon Pre-Filter for organic vapours & welding fumes",
+      "Low breathing resistance for increased wearer comfort",
+      "Heavy duty, tab mounted, head straps",
+      "An external aluminium adjustable nose clips",
+      "PP inner with no loose fibres",
+      "Soft foam nosepiece for comfort & custom fit",
+      "Contour face seal for performance & comfort",
+      "Exhalation valve reduces hot air build-up & provides easy breathing in hot & humid environments",
+      "Dolomite tested as per BSI, CE 690046"
+    ],
+    "suitableFor": [],
+    "standards": [
+      "(NRCS AZ2004/24)",
+      "Complies with BS EN 149:2001 + A1:2009 FFP2 OR NR D"
+    ],
+    "colours": ["Grey"]
+  },
+  "variants": [
+    {
+      "sku": "1121C VALVED - FFP2-1",
+      "size": null,
+      "colour": "Grey"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/1121c-sl-600x600-1.jpg",
+      "fileName": "1121c-sl-600x600-1.jpg",
+      "altText": "Disposable Moulded Active Carbon FFP2 Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

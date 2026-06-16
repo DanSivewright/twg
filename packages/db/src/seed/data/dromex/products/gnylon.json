@@ -1,0 +1,53 @@
+{
+  "slug": "gnylon",
+  "title": "Gnylon",
+  "productCode": "GNYLON",
+  "shortDescription": "Ultra thin for comfort & tactile sensitivity. Ambidextrous. Eliminates fingerprints & scratches",
+  "description": "Ultra thin for comfort & tactile sensitivity. Ambidextrous. Eliminates fingerprints & scratches",
+  "sourceUrl": "https://dromex.co.za/product/gnylon/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-gnylon.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Ultra thin for comfort & tactile sensitivity",
+      "Ambidextrous",
+      "Eliminates fingerprints & scratches",
+      "Reduces perspiration on palms",
+      "Composite knitted wrist",
+      "Dust & lint retardant",
+      "Washable & reusable"
+    ],
+    "suitableFor": [
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Glass & Steel",
+      "Chemical Handling"
+    ],
+    "composition": "Superior 13gg Nylon seamless machine knitted; Composite knitted wrist",
+    "standards": ["EN 388"],
+    "colours": ["White"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "GNYLON-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nylonw-600x600-1.jpg",
+      "fileName": "dromex_gloves_nylonw-600x600-1.jpg",
+      "altText": "Gnylon",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

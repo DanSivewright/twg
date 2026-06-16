@@ -1,0 +1,42 @@
+{
+  "slug": "maxi-view-goggles",
+  "title": "Maxi View Goggles",
+  "productCode": "DV-004MAX",
+  "shortDescription": "Clear (EN 170 2-1,2) polycarbonate mono lens. 25mm Elasticated & adjustable headband. High quality PVC frame",
+  "description": "Clear (EN 170 2-1,2) polycarbonate mono lens. 25mm Elasticated & adjustable headband. High quality PVC frame",
+  "sourceUrl": "https://dromex.co.za/product/maxi-view-goggles/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dv-004max-maxi-view-goggles.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Clear (EN 170 2-1,2) polycarbonate mono lens",
+      "25mm Elasticated & adjustable headband",
+      "High quality PVC frame",
+      "Wide face contact area for comfort & seal",
+      "Efficient indirect ventilation system",
+      "Suitable with prescription spectacles",
+      "Anti-fog lens & scratch resistant lens"
+    ],
+    "suitableFor": ["Woodworking", "Grinding", "Chemical Industry"],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DV-004MAX-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/maxi-view-goggles.jpg",
+      "fileName": "maxi-view-goggles.jpg",
+      "altText": "Maxi View Goggles",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

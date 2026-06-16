@@ -1,0 +1,40 @@
+{
+  "slug": "welding-goggles",
+  "title": "Welding Goggles",
+  "productCode": "DV-GW5",
+  "shortDescription": "Shade 5, flip-up, polycarbonate mono lens. Soft rubber face seal. Efficient indirect ventilation system",
+  "description": "Shade 5, flip-up, polycarbonate mono lens. Soft rubber face seal. Efficient indirect ventilation system",
+  "sourceUrl": "https://dromex.co.za/product/welding-goggles/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-welding-goggles.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Shade 5, flip-up, polycarbonate mono lens",
+      "Soft rubber face seal",
+      "Efficient indirect ventilation system",
+      "11mm Adjustable elasticated headband",
+      "Scratch resistant lens & anti-mist lens"
+    ],
+    "suitableFor": ["Welding"],
+    "colours": ["Red"]
+  },
+  "variants": [
+    {
+      "sku": "DV-GW5-1",
+      "size": null,
+      "colour": "Red"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/welding-goggle.jpg",
+      "fileName": "welding-goggle.jpg",
+      "altText": "Welding Goggles",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

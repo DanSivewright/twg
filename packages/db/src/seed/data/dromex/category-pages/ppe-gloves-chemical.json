@@ -1,0 +1,55 @@
+{
+  "categorySlugPath": ["ppe", "gloves", "chemical"],
+  "sourceUrl": "https://dromex.co.za/product-category/gloves/chemical/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "chemical",
+      "title": "Chemical",
+      "productCode": "57H201B",
+      "sourceUrl": "https://dromex.co.za/product/chemical/"
+    },
+    {
+      "slug": "chemical-plus",
+      "title": "Chemical Plus",
+      "productCode": "57H201PLUS",
+      "sourceUrl": "https://dromex.co.za/product/chemical-plus/"
+    },
+    {
+      "slug": "chemical-nitrile",
+      "title": "Chemical Nitrile",
+      "productCode": "0056",
+      "sourceUrl": "https://dromex.co.za/product/chemical-nitrile/"
+    },
+    {
+      "slug": "disposable-nitrile-examination-gloves",
+      "title": "Disposable Nitrile Examination Gloves",
+      "productCode": "DG-NITS",
+      "sourceUrl": "https://dromex.co.za/product/disposable-nitrile-examination-gloves/"
+    },
+    {
+      "slug": "ulti-chem-chemical-glove",
+      "title": "Ulti Chem Chemical Glove",
+      "productCode": "DG-ULTICHEM",
+      "sourceUrl": "https://dromex.co.za/product/ulti-chem-chemical-glove/"
+    },
+    {
+      "slug": "ulti-chem-plus-chemical-glove",
+      "title": "Ulti Chem Plus Chemical Glove",
+      "productCode": "DG-ULTICHEMPLUS",
+      "sourceUrl": "https://dromex.co.za/product/ulti-chem-plus-chemical-glove/"
+    },
+    {
+      "slug": "viper-chemical-gloves",
+      "title": "Viper Chemical Gloves",
+      "productCode": "DG-VIPER",
+      "sourceUrl": "https://dromex.co.za/product/viper-chemical-gloves/"
+    },
+    {
+      "slug": "viper-plus-chemical-gloves",
+      "title": "Viper Plus Chemical Gloves",
+      "productCode": "DG-VIPERPLUS",
+      "sourceUrl": "https://dromex.co.za/product/viper-plus-chemical-gloves/"
+    }
+  ]
+}

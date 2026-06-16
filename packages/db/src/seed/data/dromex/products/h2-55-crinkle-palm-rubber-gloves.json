@@ -1,0 +1,57 @@
+{
+  "slug": "h2-55-crinkle-palm-rubber-gloves",
+  "title": "H2-55 Crinkle Palm Rubber Gloves",
+  "productCode": "DG-H2-55",
+  "shortDescription": "Heavy duty. Unlined natural rubber latex. High durability & elasticity",
+  "description": "Heavy duty. Unlined natural rubber latex. High durability & elasticity",
+  "sourceUrl": "https://dromex.co.za/product/h2-55-crinkle-palm-rubber-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-h1-h2-2.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Heavy duty",
+      "Unlined natural rubber latex",
+      "High durability & elasticity",
+      "High puncture & abrasion resistance",
+      "Available in 40cm & 55cm lengths",
+      "Available in smooth & crinkle palm finish",
+      "Crinkle pam finish for grip in wet & oily applications"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Industrial",
+      "Hardwares",
+      "Plumbing",
+      "Material Handling"
+    ],
+    "composition": "Black rubber latex; Rolled open cuff; Crinkled palm; 55cm length",
+    "colours": ["Black"],
+    "sizes": ["L"]
+  },
+  "variants": [
+    {
+      "sku": "DG-H2-55-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_h240-600x600-2.jpg",
+      "fileName": "dromex_gloves_h240-600x600-2.jpg",
+      "altText": "H2-55 Crinkle Palm Rubber Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

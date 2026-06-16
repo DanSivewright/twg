@@ -1,0 +1,151 @@
+{
+  "categorySlugPath": ["ppe", "gloves", "specialised"],
+  "sourceUrl": "https://dromex.co.za/product-category/gloves/specialised/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "impact",
+      "title": "Impact",
+      "productCode": "52LSTPV",
+      "sourceUrl": "https://dromex.co.za/product/impact/"
+    },
+    {
+      "slug": "cut-5-hfm606-glove",
+      "title": "Cut 5 Hfm606 Glove",
+      "productCode": "DG-HFM606",
+      "sourceUrl": "https://dromex.co.za/product/cut-5-hfm606-glove/"
+    },
+    {
+      "slug": "100-cal-arc-switching-gloves",
+      "title": "100 Cal Arc Switching Gloves",
+      "productCode": "DG-ARC100",
+      "sourceUrl": "https://dromex.co.za/product/100-cal-arc-switching-gloves/"
+    },
+    {
+      "slug": "gnylon",
+      "title": "Gnylon",
+      "productCode": "GNYLON",
+      "sourceUrl": "https://dromex.co.za/product/gnylon/"
+    },
+    {
+      "slug": "freezer-gloves",
+      "title": "Freezer Gloves",
+      "productCode": "DG-FREEZER",
+      "sourceUrl": "https://dromex.co.za/product/freezer-gloves/"
+    },
+    {
+      "slug": "16-8-cal-arc-dipped-glove",
+      "title": "16 8 Cal Arc Dipped Glove",
+      "productCode": "DG-NE423AF",
+      "sourceUrl": "https://dromex.co.za/product/16-8-cal-arc-dipped-glove/"
+    },
+    {
+      "slug": "51-cal-leather-arc-gloves",
+      "title": "51 Cal Leather Arc Gloves",
+      "productCode": "DG-CA420",
+      "sourceUrl": "https://dromex.co.za/product/51-cal-leather-arc-gloves/"
+    },
+    {
+      "slug": "70-cal-arc-switching-gloves",
+      "title": "70 Cal Arc Switching Gloves",
+      "productCode": "DG-ARC55",
+      "sourceUrl": "https://dromex.co.za/product/70-cal-arc-switching-gloves/"
+    },
+    {
+      "slug": "anti-static",
+      "title": "Anti Static",
+      "productCode": "PU20.07E",
+      "sourceUrl": "https://dromex.co.za/product/anti-static/"
+    },
+    {
+      "slug": "chain-mail",
+      "title": "Chain Mail",
+      "productCode": "RTCMG-01",
+      "sourceUrl": "https://dromex.co.za/product/chain-mail/"
+    },
+    {
+      "slug": "mach-777",
+      "title": "Mach 777",
+      "productCode": "MACH-777",
+      "sourceUrl": "https://dromex.co.za/product/mach-777/"
+    },
+    {
+      "slug": "mig-f6",
+      "title": "Mig F6",
+      "productCode": "DG-MIG-F6",
+      "sourceUrl": "https://dromex.co.za/product/mig-f6/"
+    },
+    {
+      "slug": "inferno-gloves",
+      "title": "Inferno Gloves",
+      "productCode": "DG-INFERNO",
+      "sourceUrl": "https://dromex.co.za/product/inferno-gloves/"
+    },
+    {
+      "slug": "leather-over-gloves",
+      "title": "Leather Over Gloves",
+      "productCode": "DG-OV",
+      "sourceUrl": "https://dromex.co.za/product/leather-over-gloves/"
+    },
+    {
+      "slug": "mach-2wp15-impact-gloves",
+      "title": "Mach 2wp15 Impact Gloves",
+      "productCode": "DG-MACH-2WP15",
+      "sourceUrl": "https://dromex.co.za/product/mach-2wp15-impact-gloves/"
+    },
+    {
+      "slug": "mach-4-meta-mine-impact-gloves",
+      "title": "Mach 4 Meta Mine Impact Gloves",
+      "productCode": "DG-MACH-4",
+      "sourceUrl": "https://dromex.co.za/product/mach-4-meta-mine-impact-gloves/"
+    },
+    {
+      "slug": "mach-5-mining-impact-gloves",
+      "title": "Mach 5 Mining Impact Gloves",
+      "productCode": "DG-MACH-5",
+      "sourceUrl": "https://dromex.co.za/product/mach-5-mining-impact-gloves/"
+    },
+    {
+      "slug": "mach-6-meta-mine-impact-gloves",
+      "title": "Mach 6 Meta Mine Impact Gloves",
+      "productCode": "DG-MACH-6",
+      "sourceUrl": "https://dromex.co.za/product/mach-6-meta-mine-impact-gloves/"
+    },
+    {
+      "slug": "miizu-400-thermal",
+      "title": "Miizu 400 Thermal",
+      "productCode": "MIIZULFM4001W",
+      "sourceUrl": "https://dromex.co.za/product/miizu-400-thermal/"
+    },
+    {
+      "slug": "thor-electrical-insulating-gloves",
+      "title": "Thor Electrical Insulating Gloves",
+      "productCode": "DG-THOR",
+      "sourceUrl": "https://dromex.co.za/product/thor-electrical-insulating-gloves/"
+    },
+    {
+      "slug": "ulti-chem-chemical-glove",
+      "title": "Ulti Chem Chemical Glove",
+      "productCode": "DG-ULTICHEM",
+      "sourceUrl": "https://dromex.co.za/product/ulti-chem-chemical-glove/"
+    },
+    {
+      "slug": "viper-chemical-gloves",
+      "title": "Viper Chemical Gloves",
+      "productCode": "DG-VIPER",
+      "sourceUrl": "https://dromex.co.za/product/viper-chemical-gloves/"
+    },
+    {
+      "slug": "viper-plus-chemical-gloves",
+      "title": "Viper Plus Chemical Gloves",
+      "productCode": "DG-VIPERPLUS",
+      "sourceUrl": "https://dromex.co.za/product/viper-plus-chemical-gloves/"
+    },
+    {
+      "slug": "weld-prime-leather-gloves",
+      "title": "Weld Prime Leather Gloves",
+      "productCode": "DG-WELD/PRIME",
+      "sourceUrl": "https://dromex.co.za/product/weld-prime-leather-gloves/"
+    }
+  ]
+}

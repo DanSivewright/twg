@@ -1,0 +1,55 @@
+{
+  "slug": "food-series",
+  "title": "Food Series",
+  "productCode": "55LF",
+  "shortDescription": "100% Dromex Cut5 fibre. FDA & German food grade approved. Seamless with a composite knitted wrist",
+  "description": "100% Dromex Cut5 fibre. FDA & German food grade approved. Seamless with a composite knitted wrist",
+  "sourceUrl": "https://dromex.co.za/product/food-series/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-FOOD-GLOVE-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "100% Dromex Cut5 fibre",
+      "FDA & German food grade approved",
+      "Seamless with a composite knitted wrist",
+      "Ambidextrous",
+      "High cut & abrasion resistance",
+      "Contact heat protection",
+      "Colour UV resistance",
+      "Sanitised treatment",
+      "Extra length",
+      "Lint free & washable"
+    ],
+    "suitableFor": [
+      "Food Processing",
+      "Boning",
+      "Carving",
+      "Fish filleting",
+      "Meals preparations",
+      "Food Handling"
+    ],
+    "composition": "100% Dromex Cut5 fibre; FDA approved; Seamless; Composite knitted wrist",
+    "standards": ["EN 388: 454X", "EN 407: X2XXX"],
+    "colours": ["Silver"],
+    "sizes": ["7", "8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "55LF-1",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/55LF_HR-768x768-1.jpg",
+      "fileName": "55LF_HR-768x768-1.jpg",
+      "altText": "Food Series",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

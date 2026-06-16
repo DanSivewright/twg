@@ -1,0 +1,48 @@
+{
+  "slug": "freezer-gloves",
+  "title": "Freezer Gloves",
+  "productCode": "DG-FREEZER",
+  "shortDescription": "High visibility. Protects against cold temperatures & mechanical hazards. Liquid proof & light resistance to chemical contact",
+  "description": "High visibility. Protects against cold temperatures & mechanical hazards. Liquid proof & light resistance to chemical contact",
+  "sourceUrl": "https://dromex.co.za/product/freezer-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-freezer-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High visibility",
+      "Protects against cold temperatures & mechanical hazards",
+      "Liquid proof & light resistance to chemical contact",
+      "PVC coating will function well between temperatures of -50ºC and 66ºC."
+    ],
+    "suitableFor": [
+      "Cold Storage",
+      "Assembly Work Indoor and Outdoor",
+      "Fishing Industries"
+    ],
+    "composition": "fluorescent orange, thermoplastic PVC (Poly Vinyl Chloride) coating; Interlock Cotton liner with foam; Gauntlet cuff",
+    "colours": ["Orange"],
+    "sizes": ["L"]
+  },
+  "variants": [
+    {
+      "sku": "DG-FREEZER-1",
+      "size": null,
+      "colour": "Orange"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_freezerc-600x600-1.jpg",
+      "fileName": "dromex_gloves_freezerc-600x600-1.jpg",
+      "altText": "Freezer Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

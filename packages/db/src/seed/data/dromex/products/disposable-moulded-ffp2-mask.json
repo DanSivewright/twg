@@ -1,0 +1,42 @@
+{
+  "slug": "disposable-moulded-ffp2-mask",
+  "title": "Disposable Moulded FFP2 Mask",
+  "productCode": "1020 - FFP2",
+  "shortDescription": "Low breathing resistance for increased wearer comfort. Heavy duty, tab mounted, head straps. Colour coded plastic adjustable nose clip",
+  "description": "Low breathing resistance for increased wearer comfort. Heavy duty, tab mounted, head straps. Colour coded plastic adjustable nose clip",
+  "sourceUrl": "https://dromex.co.za/product/disposable-moulded-ffp2-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-1020-aluminium-ce-2797.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Low breathing resistance for increased wearer comfort",
+      "Heavy duty, tab mounted, head straps",
+      "Colour coded plastic adjustable nose clip",
+      "Soft foam nosepiece for comfort and custom fit",
+      "PP inner with no loose fibres",
+      "Dolomite tested as per BSI, CE 725172."
+    ],
+    "suitableFor": [],
+    "standards": ["BS EN 149:2001 + A1:2009 FFP2 NR D", "NRCS AZ2004/18"],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "1020 - FFP2-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/1020-sl-600x600-1.jpg",
+      "fileName": "1020-sl-600x600-1.jpg",
+      "altText": "Disposable Moulded FFP2 Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

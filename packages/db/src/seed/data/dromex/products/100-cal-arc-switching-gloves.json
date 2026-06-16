@@ -1,0 +1,57 @@
+{
+  "slug": "100-cal-arc-switching-gloves",
+  "title": "100 Cal Arc Switching Gloves",
+  "productCode": "DG-ARC100",
+  "shortDescription": "APTV 100cal/cm2 Mitt-style glove. Elasticated shirred glove for an ideal fit. Cal/cm2 Rating embroidery on cuff",
+  "description": "APTV 100cal/cm2 Mitt-style glove. Elasticated shirred glove for an ideal fit. Cal/cm2 Rating embroidery on cuff",
+  "sourceUrl": "https://dromex.co.za/product/100-cal-arc-switching-gloves/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "APTV 100cal/cm2 Mitt-style glove",
+      "Elasticated shirred glove for an ideal fit",
+      "Cal/cm2 Rating embroidery on cuff"
+    ],
+    "suitableFor": [
+      "Installation",
+      "Substations",
+      "Switchrooms",
+      "Utilities",
+      "Power Generators",
+      "Industrial Electrical Maintenance"
+    ],
+    "composition": "Dromex A.P.T Fabric &#8211; 88% Cotton, 12% Nylon; Triple layer construction: 14oz outer, 700gsm meta aramid lining & 14oz inner; Inherent FR stitching throughout",
+    "standards": [
+      "NFPA 2112",
+      "NFPA 70E",
+      "ASTM F2621-12",
+      "IEC 61482-1-1",
+      "IEC 61482-1-2",
+      "EN 11611",
+      "EN 11612",
+      "EN 61482"
+    ],
+    "colours": ["Royal Blue"],
+    "sizes": ["S/M &amp; L/XL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-ARC100-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/Dromex-100-Cal-Switching-Gloves-DG-ARC100-768x768-1.jpg",
+      "fileName": "Dromex-100-Cal-Switching-Gloves-DG-ARC100-768x768-1.jpg",
+      "altText": "100 Cal Arc Switching Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "nylon-inspectors-gloves",
+  "title": "Nylon Inspectors Gloves",
+  "productCode": "DG-NYLON-W",
+  "shortDescription": "Ultra thin for comfort and tactile sensitivity. Washable and reusable. Ambidextrous",
+  "description": "Ultra thin for comfort and tactile sensitivity. Washable and reusable. Ambidextrous",
+  "sourceUrl": "https://dromex.co.za/product/nylon-inspectors-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-gnylon-1.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Ultra thin for comfort and tactile sensitivity",
+      "Washable and reusable",
+      "Ambidextrous",
+      "Eliminates fingerprints and scratches",
+      "Reduces persperation and clamminess",
+      "Dust and Lint Retarded"
+    ],
+    "suitableFor": [
+      "Component Assembly",
+      "Inspection",
+      "Motor Assembly",
+      "Protects Products along Production line (dirt, scratches etc)"
+    ],
+    "composition": "Superior 13gg Nylon seamless machine knitted; Composite knitted wrist",
+    "colours": ["White"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-NYLON-W-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nylonw-600x600-2.jpg",
+      "fileName": "dromex_gloves_nylonw-600x600-2.jpg",
+      "altText": "Nylon Inspectors Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

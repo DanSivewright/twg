@@ -1,0 +1,55 @@
+{
+  "slug": "crinkle-rubber-gloves",
+  "title": "Crinkle Rubber Gloves",
+  "productCode": "DG-COM/KW",
+  "shortDescription": "27cm length glove. crinkled finished palm for great grip especially in wet. knit wrist cuff",
+  "description": "27cm length glove. crinkled finished palm for great grip especially in wet. knit wrist cuff",
+  "sourceUrl": "https://dromex.co.za/product/crinkle-rubber-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-crinkle-rubber-gloves.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "27cm length glove",
+      "crinkled finished palm for great grip especially in wet",
+      "knit wrist cuff",
+      "Latex coated gloves provide high elasticity, great abrasion and tear resistance"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Mechanical Workshops",
+      "Hardwares",
+      "Plumbing",
+      "Material Handling"
+    ],
+    "composition": "Yellow rubber latex coating; cotton blend interlock lining",
+    "standards": ["EN 388:20XX"],
+    "colours": ["Yellow"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-COM/KW-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_comkw-600x600-1.jpg",
+      "fileName": "dromex_gloves_comkw-600x600-1.jpg",
+      "altText": "Crinkle Rubber Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

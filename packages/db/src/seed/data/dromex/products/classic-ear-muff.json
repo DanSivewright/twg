@@ -1,0 +1,49 @@
+{
+  "slug": "classic-ear-muff",
+  "title": "Classic Ear Muff",
+  "productCode": "CEM",
+  "shortDescription": "Padded headband ear muff with soft foam cushions. Low risk of entanglement on machinery. Hearing protection for extended periods",
+  "description": "Padded headband ear muff with soft foam cushions. Low risk of entanglement on machinery. Hearing protection for extended periods",
+  "sourceUrl": "https://dromex.co.za/product/classic-ear-muff/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-classic-ear-muffs-justin-lpt.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Padded headband ear muff with soft foam cushions",
+      "Low risk of entanglement on machinery",
+      "Hearing protection for extended periods",
+      "Durable self adjusting ABS cups",
+      "Close fitting wire headband"
+    ],
+    "suitableFor": [
+      "Welding",
+      "Power Generators",
+      "Machining",
+      "Woodworking",
+      "Grinding",
+      "Aviation industry",
+      "High pressure steaming"
+    ],
+    "composition": "H=33,9 dB, M=26,4 dB, L=17,7 dB; SNR 28,6 dB",
+    "colours": ["Navy Blue"]
+  },
+  "variants": [
+    {
+      "sku": "CEM-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hearing-classic-extreme-product-img.jpeg",
+      "fileName": "hearing-classic-extreme-product-img.jpeg",
+      "altText": "Classic Ear Muff",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "inferno-gloves",
+  "title": "Inferno Gloves",
+  "productCode": "DG-INFERNO",
+  "shortDescription": "Tan leather multi-layered fire fighters glove. High Breathability. High Heat Resistance & Flash",
+  "description": "Tan leather multi-layered fire fighters glove. High Breathability. High Heat Resistance & Flash",
+  "sourceUrl": "https://dromex.co.za/product/inferno-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-inferno-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "leather"]
+  ],
+  "attributes": {
+    "features": [
+      "Tan leather multi-layered fire fighters glove",
+      "High Breathability",
+      "High Heat Resistance & Flash",
+      "High Temperature Stability",
+      "High Abrasion Resistance",
+      "Waterproof",
+      "Multi-layer protection provides flexibility, comfort and excellent insulation.",
+      "Gunn cut wing thumb with reinforced index & middle finger palm.",
+      "Knitted cuff with continuous pull and shirred back.",
+      "Multi-layer: hand layer is knitted composite modacrylicpara-aramid fibre with a non-woven urethane vapor barrier. Finger tacked.",
+      "Tan split cow leather palm 1.0 to 1.2mm with quivalent reinforcing.",
+      "Tan split cow leather back 1.0 to 1.2mm, shirred.",
+      "Yellow aramid knitted wrist cuff with tan split cow leather 0.8 to 1.0mm leather continuous pull",
+      "380g per pair (size L)"
+    ],
+    "suitableFor": [
+      "Search & Recovery",
+      "Structural and Wildland Fire Fighting Applications"
+    ],
+    "colours": ["Brown"],
+    "sizes": ["XL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-INFERNO-1",
+      "size": null,
+      "colour": "Brown"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/inferno-gloves-product-img-600x600-1.jpg",
+      "fileName": "inferno-gloves-product-img-600x600-1.jpg",
+      "altText": "Inferno Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

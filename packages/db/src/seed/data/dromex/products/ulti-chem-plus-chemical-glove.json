@@ -1,0 +1,63 @@
+{
+  "slug": "ulti-chem-plus-chemical-glove",
+  "title": "Ulti-Chem Plus Chemical Glove",
+  "productCode": "DG-ULTICHEMPLUS",
+  "shortDescription": "Premium protection against chemicals, mechanical, contact heat and micro-organism hazards. High performance Polyethylene, glass fibre, spandex. Triple coated, lightweight nitrile glove with a micro foam finish",
+  "description": "Premium protection against chemicals, mechanical, contact heat and micro-organism hazards. High performance Polyethylene, glass fibre, spandex. Triple coated, lightweight nitrile glove with a micro foam finish",
+  "sourceUrl": "https://dromex.co.za/product/ulti-chem-plus-chemical-glove/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-ulti-chem-plus-chemical-glove.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "chemical"],
+  "categorySlugPaths": [["ppe", "gloves", "chemical"]],
+  "attributes": {
+    "features": [
+      "Premium protection against chemicals, mechanical, contact heat and micro-organism hazards",
+      "High performance Polyethylene, glass fibre, spandex",
+      "Triple coated, lightweight nitrile glove with a micro foam finish",
+      "Excellent dexterity & grip",
+      "Resistance to\n \n J: n-Heptane",
+      "K: Sodium Hydroxide 40%",
+      "L: Sulphuric Acid 96%"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Chemical Handling",
+      "Component Assembly",
+      "Sheet Metal",
+      "Laboratories"
+    ],
+    "standards": [
+      "EN 388 (4",
+      "3",
+      "4",
+      "3",
+      "D)",
+      "EN 374-1 TYPE B (JKL)",
+      "EN 374-5",
+      "EN 407 (X",
+      "1",
+      "X",
+      "X",
+      "X)"
+    ],
+    "colours": ["Green"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-ULTICHEMPLUS-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/ultichemplus-600x600-1.jpg",
+      "fileName": "ultichemplus-600x600-1.jpg",
+      "altText": "Ulti-Chem Plus Chemical Glove",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

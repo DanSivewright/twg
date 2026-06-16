@@ -1,0 +1,54 @@
+{
+  "slug": "mechanical",
+  "title": "Mechanical",
+  "productCode": "HFM305",
+  "shortDescription": "HCT Nitrile multilayer coating on palms & fingers. Excellent grip & resistance to oil. Reinforced thumb crotch",
+  "description": "HCT Nitrile multilayer coating on palms & fingers. Excellent grip & resistance to oil. Reinforced thumb crotch",
+  "sourceUrl": "https://dromex.co.za/product/mechanical/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-DG-HFM305-GLOVE-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "HCT Nitrile multilayer coating on palms & fingers",
+      "Excellent grip & resistance to oil",
+      "Reinforced thumb crotch",
+      "High cut & abrasion resistance",
+      "High dexterity",
+      "High tear & puncture resistance",
+      "Compliant with OEKO-TEX® standard 100"
+    ],
+    "suitableFor": [
+      "Mining",
+      "Construction",
+      "Oil & Gas Industry",
+      "Automotive Industry",
+      "Glass & Steel",
+      "Chemical Handling"
+    ],
+    "standards": ["EN 388:2003", "EN 388:2016"],
+    "colours": ["Purply Blue"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "HFM305-1",
+      "size": null,
+      "colour": "Purply Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dg-hfm-305-600x600-1.jpg",
+      "fileName": "dg-hfm-305-600x600-1.jpg",
+      "altText": "Mechanical",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

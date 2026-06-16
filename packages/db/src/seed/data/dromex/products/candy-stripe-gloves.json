@@ -1,0 +1,40 @@
+{
+  "slug": "candy-stripe-gloves",
+  "title": "Candy Stripe Gloves",
+  "productCode": "DG-CANDY",
+  "shortDescription": "Consists of chrome cow split leather and cotton drilled candy stripped fabric. Cotton laminated safety cuff",
+  "description": "Consists of chrome cow split leather and cotton drilled candy stripped fabric. Cotton laminated safety cuff",
+  "sourceUrl": "https://dromex.co.za/product/candy-stripe-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-candy-stripe-gloves-gcandy.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": [
+      "Consists of chrome cow split leather and cotton drilled candy stripped fabric",
+      "Cotton laminated safety cuff"
+    ],
+    "suitableFor": ["General use", "Rigging Operations"],
+    "composition": "Gunn cut; Keystone thumb; Wool palm and fingers; Split grain cow leather; Candy stripped drilled cotton; Shirred cotton laminated safety cuff",
+    "standards": ["DG-CANDY"],
+    "colours": ["Silver"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-CANDY",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_dg_candy-600x600-1.jpg",
+      "fileName": "dromex_gloves_dg_candy-600x600-1.jpg",
+      "altText": "Candy Stripe Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

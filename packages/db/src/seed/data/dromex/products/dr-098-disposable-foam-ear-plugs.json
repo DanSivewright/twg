@@ -1,0 +1,41 @@
+{
+  "slug": "dr-098-disposable-foam-ear-plugs",
+  "title": "DR-098 Disposable Foam Ear Plugs",
+  "productCode": "DR-098",
+  "shortDescription": "Disposable, hi-visibility fluorescent PU foam ear plugs. PU coated for hygiene. Smooth, soft, pliable & easy to use",
+  "description": "Disposable, hi-visibility fluorescent PU foam ear plugs. PU coated for hygiene. Smooth, soft, pliable & easy to use",
+  "sourceUrl": "https://dromex.co.za/product/dr-098-disposable-foam-ear-plugs/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-disposable-foam-ear-plugs-dr098.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "hearing"],
+  "categorySlugPaths": [["ppe", "head-and-face", "hearing"]],
+  "attributes": {
+    "features": [
+      "Disposable, hi-visibility fluorescent PU foam ear plugs",
+      "PU coated for hygiene",
+      "Smooth, soft, pliable & easy to use",
+      "Superb attenuation",
+      "Expands to fit ear canal comfortably, increasing overall protection"
+    ],
+    "suitableFor": ["Machining", "Woodworking", "Grinding", "Steel cutting"],
+    "composition": "CE EN 352-2 (H=36 dB, M=34 dB, L=33 dB); SNR 37 dB",
+    "colours": ["Lime"]
+  },
+  "variants": [
+    {
+      "sku": "DR-098-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dr-098.jpeg",
+      "fileName": "dr-098.jpeg",
+      "altText": "DR-098 Disposable Foam Ear Plugs",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "70-cal-arc-switching-gloves",
+  "title": "55 Cal Arc Switching Gloves",
+  "productCode": "DG-ARC55",
+  "shortDescription": "ATPV 55 cal/cm2. Flame retardant glove lined with meta aramid mat lining. Inherent FR thread throughout",
+  "description": "ATPV 55 cal/cm2. Flame retardant glove lined with meta aramid mat lining. Inherent FR thread throughout",
+  "sourceUrl": "https://dromex.co.za/product/70-cal-arc-switching-gloves/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [["ppe", "gloves", "specialised"]],
+  "attributes": {
+    "features": [
+      "ATPV 55 cal/cm2",
+      "Flame retardant glove lined with meta aramid mat lining",
+      "Inherent FR thread throughout",
+      "Glove thickness: 2.7mm",
+      "Elasticated shirred cuff for comfort"
+    ],
+    "suitableFor": [
+      "Substations",
+      "Switchrooms",
+      "Utilities",
+      "Power Generators",
+      "Industrial Electrical Maintenance"
+    ],
+    "composition": "Dromex A.P.T Fabric &#8211; 88% Cotton, 12% Nylon",
+    "standards": [
+      "NFPA 2112 NFPA 70E",
+      "ASTM F2621-12",
+      "IEC 61482-1-1",
+      "IEC 61482-1-2",
+      "EN 11611",
+      "EN 11612",
+      "EN 61482"
+    ],
+    "colours": ["Royal Blue"],
+    "sizes": ["M to XL"]
+  },
+  "variants": [
+    {
+      "sku": "DG-ARC55-1",
+      "size": null,
+      "colour": "Royal Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dg-arc55.png",
+      "fileName": "dg-arc55.png",
+      "altText": "55 Cal Arc Switching Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

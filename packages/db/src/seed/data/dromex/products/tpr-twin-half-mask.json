@@ -1,0 +1,42 @@
+{
+  "slug": "tpr-twin-half-mask",
+  "title": "TPR Twin Half Mask",
+  "productCode": "DH-202",
+  "shortDescription": "Soft TPR (Thermo Plastic Rubber) with a deep face mould \nfor a comfortable fit with an excellent seal. Dual wide elastic headband with a skull cradle and a pin \nswivel connector, adjustable & with a quick release toggle. Efficient exhalation valve",
+  "description": "Soft TPR (Thermo Plastic Rubber) with a deep face mould \nfor a comfortable fit with an excellent seal. Dual wide elastic headband with a skull cradle and a pin \nswivel connector, adjustable & with a quick release toggle. Efficient exhalation valve",
+  "sourceUrl": "https://dromex.co.za/product/tpr-twin-half-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dh202.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]],
+  "attributes": {
+    "features": [
+      "Soft TPR (Thermo Plastic Rubber) with a deep face mould \nfor a comfortable fit with an excellent seal",
+      "Dual wide elastic headband with a skull cradle and a pin \nswivel connector, adjustable & with a quick release toggle",
+      "Efficient exhalation valve",
+      "For use with the DHCT twin unifit filter cartridge system"
+    ],
+    "suitableFor": [],
+    "composition": "Soft TPR (Thermo Plastic Rubber)",
+    "standards": ["NRCS AZ2011/46"],
+    "colours": ["Black"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DH-202-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh202-half-mask-1-600x600-1.jpg",
+      "fileName": "dh202-half-mask-1-600x600-1.jpg",
+      "altText": "TPR Twin Half Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

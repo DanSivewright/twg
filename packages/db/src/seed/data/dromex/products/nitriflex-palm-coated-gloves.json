@@ -1,0 +1,49 @@
+{
+  "slug": "nitriflex-palm-coated-gloves",
+  "title": "Nitriflex Palm Coated Gloves",
+  "productCode": "DG-NITRIFLEX-PC",
+  "shortDescription": "High abrasion. Strong oil-resistance. Super grip",
+  "description": "High abrasion. Strong oil-resistance. Super grip",
+  "sourceUrl": "https://dromex.co.za/product/nitriflex-palm-coated-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-NITRIFLEX-PALM-COATED-GLOVES-NITRIFLEX-PC.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High abrasion",
+      "Strong oil-resistance",
+      "Super grip",
+      "Softer touch and higher flexibility",
+      "Sanitised"
+    ],
+    "suitableFor": [],
+    "composition": "100% Nitrile micro foam finish; 15G blended Spandex liner; Innovative fibre; Composite knitted wrist",
+    "standards": ["EN 388: 4121"],
+    "colours": ["Olive"],
+    "sizes": ["7", "8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "DG-NITRIFLEX-PC-1",
+      "size": null,
+      "colour": "Olive"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_NITRIFLEX_PC-768x768-1.jpg",
+      "fileName": "dromex_gloves_NITRIFLEX_PC-768x768-1.jpg",
+      "altText": "Nitriflex Palm Coated Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "qsa-2021-ffp2-valved-face-mask",
+  "title": "QSA 2021 FFP2 Valved Face Mask",
+  "productCode": "QSA 2021 - FFP2 VALVED",
+  "shortDescription": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "description": "Low breathing resistance for increased wearer comfort. Light weight & comfortable. Elasticated straps",
+  "sourceUrl": "https://dromex.co.za/product/qsa-2021-ffp2-valved-face-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-valved-qsa-2000-series-moulded-ffp2-mask-qsa-2021.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Low breathing resistance for increased wearer comfort",
+      "Light weight & comfortable",
+      "Elasticated straps",
+      "PP inner with no loose fibres",
+      "Protection against solid and water based liquid aerosols",
+      "For use in low toxicity dust areas when used in"
+    ],
+    "suitableFor": [
+      "General use",
+      "Construction",
+      "Agriculture",
+      "General Maintenance Indoor and Outdoor"
+    ],
+    "composition": "Polypropylene; Polyester synthetic material",
+    "standards": ["SANS 10338:2009", "NRCS AZ 2006/29"],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "QSA 2021 - FFP2 VALVED-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dr-qsa-2021_hr-1.jpg",
+      "fileName": "dr-qsa-2021_hr-1.jpg",
+      "altText": "QSA 2021 FFP2 Valved Face Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

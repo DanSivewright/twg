@@ -1,0 +1,53 @@
+{
+  "slug": "cronus-e-hi-vis-pvc-elbow-gloves",
+  "title": "Cronus/e HI-VIS PVC Elbow Gloves",
+  "productCode": "CRONUS/E",
+  "shortDescription": "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.. Excellent abrasion protection and tear resistant properties. Provides good grip and performs well in wet, greasy, oily and dry environments.",
+  "description": "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.. Excellent abrasion protection and tear resistant properties. Provides good grip and performs well in wet, greasy, oily and dry environments.",
+  "sourceUrl": "https://dromex.co.za/product/cronus-e-hi-vis-pvc-elbow-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-hi-vis-pvc-gloves-cronus.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Provides hands with protection against hazards of most acids, oils fats, caustics and petroleum hydrocarbons.",
+      "Excellent abrasion protection and tear resistant properties",
+      "Provides good grip and performs well in wet, greasy, oily and dry environments.",
+      "Polyester interlock jersey lining is extremely soft, warm, and a little stretchy providing comfort to the hand"
+    ],
+    "suitableFor": [
+      "Construction",
+      "Automotive Industry",
+      "Utilities",
+      "Assembling of Materials",
+      "Sheet Metal",
+      "Recycling"
+    ],
+    "composition": "Fully coated lime green PVC gloves with interlock lining; Polyester cotton lining; PVC rough palm; 35cm elbow glove with a 16 cm open cuff",
+    "colours": ["Lime"]
+  },
+  "variants": [
+    {
+      "sku": "CRONUS/E-1",
+      "size": null,
+      "colour": "Lime"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_cronus_cronuse-600x600-1.jpg",
+      "fileName": "dromex_gloves_cronus_cronuse-600x600-1.jpg",
+      "altText": "Cronus/e HI-VIS PVC Elbow Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

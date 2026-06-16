@@ -1,0 +1,42 @@
+{
+  "slug": "suspension-intolerance-strap",
+  "title": "Suspension Intolerance Strap",
+  "productCode": "DFA-STS03",
+  "shortDescription": "Buy Suspension Intolerance Strap from Dromex . High-quality Suspension Intolerance Strap for all your needs. Shop Now.",
+  "description": "Buy Suspension Intolerance Strap from Dromex . High-quality Suspension Intolerance Strap for all your needs. Shop Now.",
+  "sourceUrl": "https://dromex.co.za/product/suspension-intolerance-strap/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-fall-protection-acccessories-dfa-sts03.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [],
+    "suitableFor": [],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "aad8ecf61281",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dfa-sts03-open-scaled.jpg",
+      "fileName": "dfa-sts03-open-scaled.jpg",
+      "altText": "Suspension Intolerance Strap",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dfa-sts03-scaled.jpg",
+      "fileName": "dfa-sts03-scaled.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

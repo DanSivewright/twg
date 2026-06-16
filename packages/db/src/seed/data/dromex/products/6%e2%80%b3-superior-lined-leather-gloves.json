@@ -1,0 +1,36 @@
+{
+  "slug": "6%e2%80%b3-superior-lined-leather-gloves",
+  "title": "6″ Superior Lined Leather Gloves",
+  "productCode": "DG-WELD/6GR",
+  "shortDescription": "High abrasion resistance",
+  "description": "High abrasion resistance",
+  "sourceUrl": "https://dromex.co.za/product/6%e2%80%b3-superior-lined-leather-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/12/technical-datasheet-weld-6gr.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": ["High abrasion resistance"],
+    "suitableFor": [],
+    "composition": "Gunn cut; Premium green dyed cow split leather; 6 inch cow split leather elbow cuff lined with a laminated cotton and yellow trim",
+    "colours": ["Green"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-WELD/6GR-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/12/dromex_gloves_weld6gr-600x600-1.jpg",
+      "fileName": "dromex_gloves_weld6gr-600x600-1.jpg",
+      "altText": "6″ Superior Lined Leather Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

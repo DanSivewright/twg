@@ -1,0 +1,54 @@
+{
+  "slug": "51-cal-leather-arc-gloves",
+  "title": "51 Cal Leather Arc Gloves",
+  "productCode": "DG-CA420",
+  "shortDescription": "Leather glove lined with Aramid fibre. Kevlar stitching. Shirred extended 16cm cuff",
+  "description": "Leather glove lined with Aramid fibre. Kevlar stitching. Shirred extended 16cm cuff",
+  "sourceUrl": "https://dromex.co.za/product/51-cal-leather-arc-gloves/",
+  "datasheetUrl": null,
+  "primaryCategorySlugPath": ["ppe", "gloves", "specialised"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "specialised"],
+    ["ppe", "gloves", "leather"]
+  ],
+  "attributes": {
+    "features": [
+      "Leather glove lined with Aramid fibre",
+      "Kevlar stitching",
+      "Shirred extended 16cm cuff",
+      "Tan split cow leather palm 1.0 to 1.2mm with equivalent reinforcing.",
+      "Tan split cow leather back 1.0 to 1.2mm, shirred.",
+      "Yellow aramid knitted wrist cuff with tan split cow leather 0.8 to 1.0mm leather continuous pull",
+      "380g per pair (size L)"
+    ],
+    "suitableFor": [
+      "Installation",
+      "Maintenance",
+      "Power",
+      "Utility Companies",
+      "Repairs of High Voltage Equipment"
+    ],
+    "composition": "51 CAL/CM² arc rated leather gloves; High cut level D; High Abrasion Resistance; High resistance to snatch, tear, cut and heat; Waterproof; Multi-layer protection provides flexibility, comfort and excellent insulation.",
+    "standards": ["EN 388: 3X33D", "EN 407: X1XXXX"],
+    "colours": ["Cream White"],
+    "sizes": ["8", "9", "10", "11"]
+  },
+  "variants": [
+    {
+      "sku": "DG-CA420-1",
+      "size": null,
+      "colour": "Cream White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/ca420-arc-gloves-product-img-768x768-1.jpg",
+      "fileName": "ca420-arc-gloves-product-img-768x768-1.jpg",
+      "altText": "51 Cal Leather Arc Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

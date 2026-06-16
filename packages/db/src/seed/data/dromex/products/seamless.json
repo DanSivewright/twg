@@ -1,0 +1,46 @@
+{
+  "slug": "seamless",
+  "title": "Seamless",
+  "productCode": "55M-Y",
+  "shortDescription": "High cut & abrasion resistance. High contact heat protection. Colour UV resistant",
+  "description": "High cut & abrasion resistance. High contact heat protection. Colour UV resistant",
+  "sourceUrl": "https://dromex.co.za/product/seamless/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-SEAMLESS-GLOVE-55M-Y.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [["ppe", "gloves", "cut-5"]],
+  "attributes": {
+    "features": [
+      "High cut & abrasion resistance",
+      "High contact heat protection",
+      "Colour UV resistant",
+      "Lint free & washable",
+      "100% Dromex Cut5 fibre",
+      "Seamless ergonomic liner",
+      "Reinforced crotch area",
+      "Composite knitted wrist"
+    ],
+    "suitableFor": ["Automotive Industry", "Glass & Steel"],
+    "composition": "100% Dromex Cut5 fibre; Seamless ergonomic liner; Reinforced thumb and index finger crotch area; Composite knitted wrist",
+    "standards": ["EN 388: 454X", "EN 407: X2XXX"],
+    "colours": ["Yellow"],
+    "sizes": ["7", "8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "55M-Y-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_55M-768x768-1.jpg",
+      "fileName": "dromex_gloves_55M-768x768-1.jpg",
+      "altText": "Seamless",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

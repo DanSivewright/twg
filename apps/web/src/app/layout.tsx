@@ -1,9 +1,16 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Inter, Manrope } from "next/font/google";
 
 import "../index.css";
-import Header from "@/components/header";
+import { cn } from "@twg/ui/lib/utils";
 import Providers from "@/components/providers";
+
+const manropeHeading = Manrope({
+  subsets: ["latin"],
+  variable: "--font-heading",
+});
+
+const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -26,14 +33,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <Providers>
-          <div className="grid grid-rows-[auto_1fr] h-svh">
-            <Header />
-            {children}
-          </div>
-        </Providers>
+    <html
+      className={cn("font-sans", inter.variable, manropeHeading.variable)}
+      lang="en"
+      suppressHydrationWarning
+    >
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

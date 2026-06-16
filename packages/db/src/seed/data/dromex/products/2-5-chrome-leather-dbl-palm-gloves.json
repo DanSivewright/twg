@@ -1,0 +1,36 @@
+{
+  "slug": "2-5-chrome-leather-dbl-palm-gloves",
+  "title": "2.5″ Chrome Leather DBL Palm Gloves",
+  "productCode": "DG-WELD/2.5",
+  "shortDescription": "High abrasion resistance",
+  "description": "High abrasion resistance",
+  "sourceUrl": "https://dromex.co.za/product/2-5-chrome-leather-dbl-palm-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-2.5inch-chrome-leather-dbl-palm-gloves.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "leather"],
+  "categorySlugPaths": [["ppe", "gloves", "leather"]],
+  "attributes": {
+    "features": ["High abrasion resistance"],
+    "suitableFor": ["Welding"],
+    "composition": "Gunn cut; Double layer palm; 2.5 inch cow chrome leather cuff",
+    "colours": ["Silver"],
+    "sizes": ["L/10"]
+  },
+  "variants": [
+    {
+      "sku": "DG-WELD/2.5-1",
+      "size": null,
+      "colour": "Silver"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_weld2-600x600-1.jpg",
+      "fileName": "dromex_gloves_weld2-600x600-1.jpg",
+      "altText": "2.5″ Chrome Leather DBL Palm Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

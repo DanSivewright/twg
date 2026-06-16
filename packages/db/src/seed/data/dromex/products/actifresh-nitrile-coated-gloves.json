@@ -1,0 +1,53 @@
+{
+  "slug": "actifresh-nitrile-coated-gloves",
+  "title": "Actifresh Nitrile Coated Gloves",
+  "productCode": "DH0911A",
+  "shortDescription": "High abrasion and cut hazards. High dexterity. Sanitized treatment suppresses the reproduction of microbes, such as bacteria and fungi and hinders both the unpleasant odours as well as material damage from mildew",
+  "description": "High abrasion and cut hazards. High dexterity. Sanitized treatment suppresses the reproduction of microbes, such as bacteria and fungi and hinders both the unpleasant odours as well as material damage from mildew",
+  "sourceUrl": "https://dromex.co.za/product/actifresh-nitrile-coated-gloves/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-actifresh-nitrile-coated-gloves.pdf",
+  "primaryCategorySlugPath": [
+    "ppe",
+    "gloves",
+    "synthetic-gloves-gpvc-nitrile-latex"
+  ],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "High abrasion and cut hazards",
+      "High dexterity",
+      "Sanitized treatment suppresses the reproduction of microbes, such as bacteria and fungi and hinders both the unpleasant odours as well as material damage from mildew"
+    ],
+    "suitableFor": [
+      "General use",
+      "Packing Assembly",
+      "Machine and Equipment Operators",
+      "Packaging",
+      "Maintenance",
+      "Material Handling"
+    ],
+    "composition": "Full knuckle and palm coated nitrile gloves; Cotton Interlock liner; ± 2mm Composite knitted wrist",
+    "standards": ["EN 388:2003"],
+    "colours": ["Yellow"]
+  },
+  "variants": [
+    {
+      "sku": "DH0911A-1",
+      "size": null,
+      "colour": "Yellow"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_dh10911a-600x600-1.jpg",
+      "fileName": "dromex_gloves_dh10911a-600x600-1.jpg",
+      "altText": "Actifresh Nitrile Coated Gloves",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "disposable-flat-fold-ffp3-mask",
+  "title": "Disposable Flat Fold FFP3 Mask",
+  "productCode": "3231- FFP3 VALVED",
+  "shortDescription": "Suitable for a single 8-hour use against solid & liquid  based aerosols in high dust areas. Low breathing resistance for increased wearer comfort. Adjustable head straps",
+  "description": "Suitable for a single 8-hour use against solid & liquid  based aerosols in high dust areas. Low breathing resistance for increased wearer comfort. Adjustable head straps",
+  "sourceUrl": "https://dromex.co.za/product/disposable-flat-fold-ffp3-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-3231-ce-2797.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "disposable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "disposable-masks"]],
+  "attributes": {
+    "features": [
+      "Suitable for a single 8-hour use against solid & liquid  based aerosols in high dust areas",
+      "Low breathing resistance for increased wearer comfort",
+      "Adjustable head straps",
+      "Plastic adjustable nose clip",
+      "Contour face seal for performance & comfort",
+      "Soft foam nosepiece for a custom fit",
+      "Exhalation valve reduces hot air build-up & provides easy  breathing in hot & humid environments",
+      "Dolomite tested for resistance to clogging"
+    ],
+    "suitableFor": ["General use", "Construction", "Agriculture"],
+    "standards": [
+      "NRCS 8072/0169",
+      "Complies with EN:149:2001 +A1:2009 FFP2 NR",
+      "Dolomite tested as per BSI test 255/7633484"
+    ],
+    "colours": ["White"]
+  },
+  "variants": [
+    {
+      "sku": "3231- FFP3 VALVED-1",
+      "size": null,
+      "colour": "White"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/3231-600x600-1.jpg",
+      "fileName": "3231-600x600-1.jpg",
+      "altText": "Disposable Flat Fold FFP3 Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

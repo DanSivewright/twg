@@ -1,0 +1,42 @@
+{
+  "slug": "pvc-twin-half-mask",
+  "title": "PVC Twin Half Mask",
+  "productCode": "DH-102",
+  "shortDescription": "Soft PVC mask with deep face mould for a comfortable fit \nwith an excellent seal. Dual wide elastic headband connected with a pin swivel \nconnector, adjustable & with a quick release toggle. Efficient exhalation mask",
+  "description": "Soft PVC mask with deep face mould for a comfortable fit \nwith an excellent seal. Dual wide elastic headband connected with a pin swivel \nconnector, adjustable & with a quick release toggle. Efficient exhalation mask",
+  "sourceUrl": "https://dromex.co.za/product/pvc-twin-half-mask/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-dh102.pdf",
+  "primaryCategorySlugPath": ["ppe", "respiratory", "reusable-masks"],
+  "categorySlugPaths": [["ppe", "respiratory", "reusable-masks"]],
+  "attributes": {
+    "features": [
+      "Soft PVC mask with deep face mould for a comfortable fit \nwith an excellent seal",
+      "Dual wide elastic headband connected with a pin swivel \nconnector, adjustable & with a quick release toggle",
+      "Efficient exhalation mask",
+      "For use with the DHCT twin unifit filter cartridge system"
+    ],
+    "suitableFor": [],
+    "composition": "Soft PVC mask",
+    "standards": ["SNRCS AZ2011/45"],
+    "colours": ["Navy Blue"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DH-102-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dh102-half-mask-600x600-1.jpg",
+      "fileName": "dh102-half-mask-600x600-1.jpg",
+      "altText": "PVC Twin Half Mask",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

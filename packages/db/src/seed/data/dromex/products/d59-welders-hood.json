@@ -1,0 +1,45 @@
+{
+  "slug": "d59-welders-hood",
+  "title": "D59 Welders Hood",
+  "productCode": "DW-D59FAWH-NB",
+  "shortDescription": "Heavy duty and durable D59 drill fabric construction. The hood is flame & acid technology which resists the effects of flame contact and acid corrosion. The 100% cotton satin weave finish",
+  "description": "Heavy duty and durable D59 drill fabric construction. The hood is flame & acid technology which resists the effects of flame contact and acid corrosion. The 100% cotton satin weave finish",
+  "sourceUrl": "https://dromex.co.za/product/d59-welders-hood/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-d59-welders-hood-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Heavy duty and durable D59 drill fabric construction",
+      "The hood is flame & acid technology which resists the effects of flame contact and acid corrosion",
+      "The 100% cotton satin weave finish",
+      "Natural fibre construction to ensure comfort and is breathable."
+    ],
+    "suitableFor": [
+      "Petrochemical Industry",
+      "Electrical & Gas Utility",
+      "Chemical Processing"
+    ],
+    "composition": "D59 drill fabric",
+    "colours": ["Navy Blue"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DW-D59FAWH-NB-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/d59-welders-hood.jpg",
+      "fileName": "d59-welders-hood.jpg",
+      "altText": "D59 Welders Hood",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "retractable-fall-arrester-2m-with-hook",
+  "title": "Retractable Fall Arrester 2m with Hook",
+  "productCode": "DFA-MIC02",
+  "shortDescription": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "description": "Vertical length systems (DFA-PN2002). Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06). Colour impact indicators at attachment ends",
+  "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-2m-with-hook/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-protection-retractable-fall-arrestor-lanyard-mic02-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "fall-arrest"],
+  "categorySlugPaths": [["ppe", "fall-arrest"]],
+  "attributes": {
+    "features": [
+      "Vertical length systems (DFA-PN2002)",
+      "Vertical & horizontal length systems (DFA-TPGS15 and DFA-TPGS06)",
+      "Colour impact indicators at attachment ends"
+    ],
+    "suitableFor": [],
+    "colours": ["Black"],
+    "sizes": ["2m"]
+  },
+  "variants": [
+    {
+      "sku": "793740eae9c1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/retractable-fall-arrester-2m-hook.jpg",
+      "fileName": "retractable-fall-arrester-2m-hook.jpg",
+      "altText": "Retractable Fall Arrester 2m with Hook",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

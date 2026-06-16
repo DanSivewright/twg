@@ -1,0 +1,59 @@
+{
+  "slug": "chemical",
+  "title": "Chemical",
+  "productCode": "57H201B",
+  "shortDescription": "100% Dromex Cut5 fibre. HCT Nitrile multilayer technology. Soft organic cotton inner liner",
+  "description": "100% Dromex Cut5 fibre. HCT Nitrile multilayer technology. Soft organic cotton inner liner",
+  "sourceUrl": "https://dromex.co.za/product/chemical/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/Technical-Datasheet-CUT5-CHEMICAL-GLOVE-57H201B-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "cut-5"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "cut-5"],
+    ["ppe", "gloves", "chemical"]
+  ],
+  "attributes": {
+    "features": [
+      "100% Dromex Cut5 fibre",
+      "HCT Nitrile multilayer technology",
+      "Soft organic cotton inner liner",
+      "H201B  has extended cuffs",
+      "H201PLUS  35cm cut resistant liquid chemical glove",
+      "High cut & abrasion resistance",
+      "General chemical resistance",
+      "High contact heat resistance",
+      "Colour UV resistant",
+      "Lint free & washable"
+    ],
+    "suitableFor": [
+      "Automotive Industry",
+      "Glass & Steel",
+      "Recycling",
+      "Machining",
+      "Wastes Collection Environments",
+      "Oil & Greasy Environments",
+      "Mining Extractions Industry"
+    ],
+    "composition": "100% Cut5 fibre.; HCT nitrile multilayers technology.; Soft organic inner liner.",
+    "standards": ["EN 388: 4543", "EN 407: X2XXX", "EN 374: KLA"],
+    "colours": ["Navy Blue"],
+    "sizes": ["8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "57H201B-1",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/57H201B_HR-1-768x1152-1.jpg",
+      "fileName": "57H201B_HR-1-768x1152-1.jpg",
+      "altText": "Chemical",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

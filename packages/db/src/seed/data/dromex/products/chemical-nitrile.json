@@ -1,0 +1,53 @@
+{
+  "slug": "chemical-nitrile",
+  "title": "Chemical Nitrile",
+  "productCode": "0056",
+  "shortDescription": "Green Nitrile unsupported (0.38mm) thick. Micro flock lined for comfort. Textured palm, fingers and partially on the wristfor grip",
+  "description": "Green Nitrile unsupported (0.38mm) thick. Micro flock lined for comfort. Textured palm, fingers and partially on the wristfor grip",
+  "sourceUrl": "https://dromex.co.za/product/chemical-nitrile/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-chemical-nitrile-glove-0056-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "gloves", "chemical"],
+  "categorySlugPaths": [
+    ["ppe", "gloves", "chemical"],
+    ["ppe", "gloves", "synthetic-gloves-gpvc-nitrile-latex"]
+  ],
+  "attributes": {
+    "features": [
+      "Green Nitrile unsupported (0.38mm) thick",
+      "Micro flock lined for comfort",
+      "Textured palm, fingers and partially on the wristfor grip",
+      "Washable",
+      "Straight cuff",
+      "33cm length",
+      "Resistant to  K: Sodium Hydroxide 40%  L: Sulphuric Acid 96%  J: n-Heptane"
+    ],
+    "suitableFor": [
+      "Chemical Handling",
+      "Mild Chemicals, Bacteria, Fungi, Viruses and Food Products",
+      "Oil & Greasy Environments",
+      "Solvents",
+      "Mild Acids"
+    ],
+    "composition": "Straight cuff",
+    "colours": ["Green"],
+    "sizes": ["6", "7", "8", "9", "10"]
+  },
+  "variants": [
+    {
+      "sku": "0056-1",
+      "size": null,
+      "colour": "Green"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/dromex_gloves_nitrile0056-600x600-1.jpg",
+      "fileName": "dromex_gloves_nitrile0056-600x600-1.jpg",
+      "altText": "Chemical Nitrile",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "wildland-goggles",
+  "title": "Wildland Goggles",
+  "productCode": "DV-EF20B",
+  "shortDescription": "Designed for compatibility with other PPE. Easy to don with gloves. Light weight , non vented goggles",
+  "description": "Designed for compatibility with other PPE. Easy to don with gloves. Light weight , non vented goggles",
+  "sourceUrl": "https://dromex.co.za/product/wildland-goggles/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-wildlander.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "eyewear"],
+  "categorySlugPaths": [["ppe", "head-and-face", "eyewear"]],
+  "attributes": {
+    "features": [
+      "Designed for compatibility with other PPE",
+      "Easy to don with gloves",
+      "Light weight , non vented goggles",
+      "Fire resistant polycarbonate lens",
+      "Anti-scratch",
+      "Anti-fog lens",
+      "Fire proof adjustable headband",
+      "Red fire-retardant PVC eye frame",
+      "Contoured to ensure a firm fit"
+    ],
+    "suitableFor": [
+      "Working with chain saws or hoses",
+      "Emergency or First Responder operations",
+      "Chemical Splashes"
+    ],
+    "colours": ["Red"]
+  },
+  "variants": [
+    {
+      "sku": "DV-EF20B-1",
+      "size": null,
+      "colour": "Red"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/eyewear-wildland-goggle-product-img-600x600-1.jpg",
+      "fileName": "eyewear-wildland-goggle-product-img-600x600-1.jpg",
+      "altText": "Wildland Goggles",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

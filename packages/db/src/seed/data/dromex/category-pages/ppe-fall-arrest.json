@@ -1,0 +1,73 @@
+{
+  "categorySlugPath": ["ppe", "fall-arrest"],
+  "sourceUrl": "https://dromex.co.za/product-category/fall-arrest/",
+  "scrapedAt": "2026-06-09",
+  "products": [
+    {
+      "slug": "double-scaff-hook-lanyard",
+      "title": "Double Scaff Hook Lanyard",
+      "productCode": "DFA-PN361N",
+      "sourceUrl": "https://dromex.co.za/product/double-scaff-hook-lanyard/"
+    },
+    {
+      "slug": "full-body-harness",
+      "title": "Full Body Harness",
+      "productCode": "DFA-PN10-PS",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness/"
+    },
+    {
+      "slug": "full-body-harness-complete",
+      "title": "Full Body Harness Complete",
+      "productCode": "DFA-PN21",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness-complete/"
+    },
+    {
+      "slug": "full-body-harness-with-lanyard",
+      "title": "Full Body Harness With Lanyard",
+      "productCode": "DFA-PN10",
+      "sourceUrl": "https://dromex.co.za/product/full-body-harness-with-lanyard/"
+    },
+    {
+      "slug": "retractable-fall-arrester-15m",
+      "title": "Retractable Fall Arrester 15m",
+      "productCode": "DFA-TPGS15",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-15m/"
+    },
+    {
+      "slug": "retractable-fall-arrester-2m-with-hook",
+      "title": "Retractable Fall Arrester 2m With Hook",
+      "productCode": "DFA-MIC02",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-2m-with-hook/"
+    },
+    {
+      "slug": "retractable-fall-arrester-6m",
+      "title": "Retractable Fall Arrester 6m",
+      "productCode": "DFA-TPGS06",
+      "sourceUrl": "https://dromex.co.za/product/retractable-fall-arrester-6m/"
+    },
+    {
+      "slug": "retractable-webbing-mini-block-2-5m-with-swivel",
+      "title": "Retractable Webbing Mini Block 2 5m With Swivel",
+      "productCode": "DFA-PN2002",
+      "sourceUrl": "https://dromex.co.za/product/retractable-webbing-mini-block-2-5m-with-swivel/"
+    },
+    {
+      "slug": "suspension-intolerance-strap",
+      "title": "Suspension Intolerance Strap",
+      "productCode": "DFA-STS03",
+      "sourceUrl": "https://dromex.co.za/product/suspension-intolerance-strap/"
+    },
+    {
+      "slug": "tool-lanyard",
+      "title": "Tool Lanyard",
+      "productCode": "DFA-TL01",
+      "sourceUrl": "https://dromex.co.za/product/tool-lanyard/"
+    },
+    {
+      "slug": "twin-tool-lanyard",
+      "title": "Twin Tool Lanyard",
+      "productCode": "DFA-TL02",
+      "sourceUrl": "https://dromex.co.za/product/twin-tool-lanyard/"
+    }
+  ]
+}

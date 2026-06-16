@@ -1,0 +1,39 @@
+{
+  "slug": "hh-carrier-visor",
+  "title": "HH Carrier Visor",
+  "productCode": "DH-HHCARRIER",
+  "shortDescription": "Polycarbonate visor & ABS brow guard. Universal face shield compatible with most industrial safety hard hats/helmets. Provides face protection against liquid splash, medium impact particulates, molten metal & resistance to hot solids",
+  "description": "Polycarbonate visor & ABS brow guard. Universal face shield compatible with most industrial safety hard hats/helmets. Provides face protection against liquid splash, medium impact particulates, molten metal & resistance to hot solids",
+  "sourceUrl": "https://dromex.co.za/product/hh-carrier-visor/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-hha-hard-hat-assembly-carrier-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Polycarbonate visor & ABS brow guard",
+      "Universal face shield compatible with most industrial safety hard hats/helmets",
+      "Provides face protection against liquid splash, medium impact particulates, molten metal & resistance to hot solids",
+      "Suitable in construction, general industry, mining, oil & gas, utilities, airports, machining, grinding, woodwork & drilling applications"
+    ],
+    "suitableFor": [],
+    "colours": ["Black"]
+  },
+  "variants": [
+    {
+      "sku": "DH-HHCARRIER-1",
+      "size": null,
+      "colour": "Black"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/hhcarrier-600x600-1.jpg",
+      "fileName": "hhcarrier-600x600-1.jpg",
+      "altText": "HH Carrier Visor",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "aramid-balaclava",
+  "title": "Aramid Balaclava",
+  "productCode": "DW-BALA(S or D) - (NB or OM)",
+  "shortDescription": "Lightweight & breathable. Inherent knitted fabric. Flame retardant thread throughout",
+  "description": "Lightweight & breathable. Inherent knitted fabric. Flame retardant thread throughout",
+  "sourceUrl": "https://dromex.co.za/product/aramid-balaclava/",
+  "datasheetUrl": "https://dromex.co.za/wp-content/uploads/2023/11/technical-datasheet-aramid-balaclava-1.pdf",
+  "primaryCategorySlugPath": ["ppe", "head-and-face", "head"],
+  "categorySlugPaths": [["ppe", "head-and-face", "head"]],
+  "attributes": {
+    "features": [
+      "Lightweight & breathable",
+      "Inherent knitted fabric",
+      "Flame retardant thread throughout",
+      "Single layer or Double layer"
+    ],
+    "suitableFor": [
+      "Petrochemical Industry",
+      "Electrical & Gas Utility",
+      "Chemical Processing"
+    ],
+    "composition": "190gsm 100% Meta-Aramid",
+    "colours": ["Navy Blue", "Oatmeal"],
+    "sizes": ["One size fits all"]
+  },
+  "variants": [
+    {
+      "sku": "DW-BALA(S or D) - (NB or OM)-1",
+      "size": null,
+      "colour": "Oatmeal"
+    },
+    {
+      "sku": "DW-BALA(S or D) - (NB or OM)-2",
+      "size": null,
+      "colour": "Navy Blue"
+    }
+  ],
+  "media": [
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/balaclavaom-600x600-1.jpg",
+      "fileName": "balaclavaom-600x600-1.jpg",
+      "altText": "Aramid Balaclava",
+      "mimeType": "image/jpeg",
+      "isPrimary": true,
+      "sortOrder": 0
+    },
+    {
+      "url": "https://dromex.co.za/wp-content/uploads/2023/11/balaclavanb-600x600-1.jpg",
+      "fileName": "balaclavanb-600x600-1.jpg",
+      "altText": null,
+      "mimeType": "image/jpeg",
+      "isPrimary": false,
+      "sortOrder": 1
+    }
+  ],
+  "scrapedAt": "2026-06-09"
+}
