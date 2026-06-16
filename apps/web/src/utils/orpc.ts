@@ -24,8 +24,32 @@ export function createQueryClient() {
 
 export const queryClient = createQueryClient();
 
+async function getRpcOrigin(): Promise<string> {
+  if (typeof window !== "undefined") {
+    return window.location.origin;
+  }
+
+  const { headers } = await import("next/headers");
+  const requestHeaders = await headers();
+  const host =
+    requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host");
+
+  if (host) {
+    const protocol =
+      requestHeaders.get("x-forwarded-proto") ??
+      (process.env.NODE_ENV === "production" ? "https" : "http");
+    return `${protocol}://${host}`;
+  }
+
+  if (process.env.VERCEL_URL) {
+    return `https://${process.env.VERCEL_URL}`;
+  }
+
+  return "http://localhost:3001";
+}
+
 export const link = new RPCLink({
-  url: `${typeof window === "undefined" ? "http://localhost:3001" : window.location.origin}/api/rpc`,
+  url: async () => `${await getRpcOrigin()}/api/rpc`,
   fetch(url, options) {
     return fetch(url, {
       ...options,
